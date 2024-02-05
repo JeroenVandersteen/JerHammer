@@ -13,4 +13,7 @@ The objectives of this system are:
 - Allow a very quick and intuitive way of gauging the degree of success.
 - Achieve a better balance between starting characters and existing characters. Even starting characters must be able to contribute to a veteran group.
 
-This is a 3d6 based system.
+The [[RulesSummary|summary]] page gives a quick overview of the rules.
+
+
+
