@@ -4,6 +4,14 @@ title: JerHammer RPG System
 
 Welcome to the homepage of the JerHammer RPG System for Grimdark roleplaying games.
 
+Browse all [[careers]].
+
+Browse all [[talents]].
+
+Browse all [[inventions]].
+
+Browse all [[runes]].
+
 The objectives of this system are:
 - The game can be played both with miniatures on a map, or entirely with theatre-of-the-mind.
 - Magick is rare, difficult, dangerous, and feared.
