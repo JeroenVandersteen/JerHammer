@@ -1,5 +1,8 @@
 # Talents
 
+
+## CombatTalents
+
 | Talent | Max | Prereq | Short Description |
 | :--- | --- | :--- | :--- |
 | [[Accurate shot]] | BS, 4 |  | +1 dam with that ranged weapon |
@@ -87,6 +90,11 @@
 | [[Wardancer]] |  |  | When moving, +1d6 melee damage |
 | [[Weapon specialization]] | WS, 4 |  | +1 dam with that melee weapon |
 | [[Witty repartee]] |  |  | Insult to gain +1 damage |
+
+## Craft/gatherTalents
+
+| Talent | Max | Prereq | Short Description |
+| :--- | --- | :--- | :--- |
 | [[Brewer]] | Int, 4 | Career | Can brew potions |
 | [[Crafter]] | Int, 4 | Career | Craft items (50% price) |
 | [[Gather spell ingredients]] |  |  | Can gather spell ingredients |
@@ -94,14 +102,29 @@
 | [[Inventor]] | Int, 4 | Career | Make item modifications |
 | [[Poisoner]] | Int, 4 | Career | Can create poisons |
 | [[Runesmith]] | WP, 5 | Career | Can add runes to items |
+
+## DivineTalents
+
+| Talent | Max | Prereq | Short Description |
+| :--- | --- | :--- | :--- |
 | [[Write purity seal]] | Fel, 4 | Career | Spend endeavor to create purity seal(s) |
 | [[Bless (Divine Lore)]] |  | Career | Can use Blessings |
 | [[Holy hatred (group)]] |  | Career | Miracles +1d6 dam vs group |
 | [[Impassioned zeal]] | Fel | Career | Attract followers |
 | [[Invoke (Divine Lore)]] |  | Career | Can use Miracles |
+
+## FortuneTalents
+
+| Talent | Max | Prereq | Short Description |
+| :--- | --- | :--- | :--- |
 | [[Extra fortunate]] | 4.0 |  | +1 fortune point max |
 | [[Fortune burning]] | 4.0 |  | May use 1 extra fortune point/turn |
 | [[Lucky]] |  |  | Recover 1 extra fortune |
+
+## MagickTalents
+
+| Talent | Max | Prereq | Short Description |
+| :--- | --- | :--- | :--- |
 | [[Aetheric attunement]] |  | Career | Reduce miscast tally by WP after miscast |
 | [[Arcane Magick (Lore)]] |  | Career | Can cast arcane Magick |
 | [[Battle wizard]] | WP | Career | Armor pen. 1 less; no miscast disadv in melee |
@@ -118,6 +141,11 @@
 | [[Quick casting]] |  | Career | Cast 2 spells, each CN+2 |
 | [[Reflect spell]] |  | Counterspell | May reflect spell back to caster |
 | [[Second sight]] |  | Career | Sense magick |
+
+## SkillTalents
+
+| Talent | Max | Prereq | Short Description |
+| :--- | --- | :--- | :--- |
 | [[Advanced education]] |  |  | Advanced math, science, literature |
 | [[Alley cat]] |  |  | Advantage on stealth in urban |
 | [[Amputate]] |  |  | Amputate limb to save from death |
