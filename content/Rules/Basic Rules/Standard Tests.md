@@ -1,5 +1,3 @@
-### Standard Tests
-
 To make a test, roll 3d6 and add the relevant attribute and skill. A higher result is better. If your result is equal to or higher than the Target Number (TN) of the test, you succeed. Unless otherwise specified, the default target number of a test is 15. For particularly easy or hard tasks, the TN is modified by 2, as in the table below.
 
 

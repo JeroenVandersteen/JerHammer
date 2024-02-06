@@ -1,1 +1,0 @@
-The list of all runes comes here.
