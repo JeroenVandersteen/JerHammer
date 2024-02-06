@@ -15,5 +15,3 @@ The objectives of this system are:
 
 The [[RulesSummary|summary]] page gives a quick overview of the rules.
 
-
-
