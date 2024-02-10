@@ -1,6 +1,6 @@
 
 ### Undieing rage
-**Prerequisites:** Frenzy
+**Prerequisites:** Berserker
 
 _When frenzied, gain T temporary HP_
 

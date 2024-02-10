@@ -36,7 +36,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Frenzy\|Frenzy]] | When frenzied, advantage to hit |
+| [[Rules/Talents/List/Berserker\|Berserker]] | When frenzied, advantage to hit |
 | [[Rules/Talents/List/Riposte I\|Riposte I]] | +1d6 dam when opponent misses |
 | [[Rules/Talents/List/Trancing dance\|Trancing dance]] | When moving, advantage vs fear/charm |
 | [[Rules/Talents/List/Untiring\|Untiring]] | Ignore 1 fatigue condition |

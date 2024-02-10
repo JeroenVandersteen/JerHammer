@@ -13,7 +13,7 @@
 | [[Armorbreaker]] |  |  | Destroy armor instead of crit damage |
 | [[Assassinate]] | Ag |  | +1d6 dam when hidden or surprising |
 | [[Bar brawler]] | 2.0 |  | +1d6 dam on unarmed/knuckles |
-| [[Battle rage]] |  | Frenzy | When frenzied, x2 strength to dam |
+| [[Battle rage]] |  | Berserker | When frenzied, x2 strength to dam |
 | [[Blather]] |  |  | Opposed deception/logic to cause disadvantage |
 | [[Bleeding strike]] | WS |  | 1 fortune to add bleeding to damage |
 | [[Blinding strike]] | WS |  | 1 fortune to add blinded to damage |
@@ -37,7 +37,7 @@
 | [[Execute]] |  |  | +3d6 dam to prone/restrained opponent |
 | [[Exploit advantage]] |  |  | Extra advantage on advantage |
 | [[Extended crit range]] |  |  | Crit range +1 |
-| [[Frenzy]] |  |  | When frenzied, advantage to hit |
+| [[Berserker]] |  |  | When frenzied, advantage to hit |
 | [[Furious assault]] |  |  | 1 fortune to make extra attack at disadvantage |
 | [[Grab weapon]] |  |  | Grab opponents impact weapon |
 | [[Grappler]] |  |  | Advantage when grappling |
@@ -62,7 +62,7 @@
 | [[Pull closer]] |  |  | Pull when hitting with entangle |
 | [[Push away]] |  |  | Push when hitting with impact weapon |
 | [[Relentless charge]] | S |  | +1d6 dam when charging |
-| [[Relentless rage]] |  | Frenzy | When frenzied, ignore knockdown |
+| [[Relentless rage]] |  | Berserker | When frenzied, ignore knockdown |
 | [[Reliable hit]] | S |  | Advantage on dam with that weapon |
 | [[Riposte I]] |  |  | +1d6 dam when opponent misses |
 | [[Riposte II]] |  | Riposte I | Advantage to hit when opponent misses |
@@ -84,7 +84,7 @@
 | [[Two-weapon fighting]] |  |  | Only offhand at disadvantage |
 | [[Twohanded master]] | 2.0 |  | +1/2 S to dam on two-handed melee weapons |
 | [[Unbleeding]] | T |  | Ignore 1 bleeding condition |
-| [[Undieing rage]] |  | Frenzy | When frenzied, gain T temporary HP |
+| [[Undieing rage]] |  | Berserker | When frenzied, gain T temporary HP |
 | [[Untiring]] | T |  | Ignore 1 fatigue condition |
 | [[War leader]] |  |  | Allies gain advantage vs fear |
 | [[Wardancer]] |  |  | When moving, +1d6 melee damage |

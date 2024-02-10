@@ -12,7 +12,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Bar brawler\|Bar brawler]] | +1d6 dam on unarmed/knuckles |
-| [[Rules/Talents/List/Frenzy\|Frenzy]] | When frenzied, advantage to hit |
+| [[Rules/Talents/List/Berserker\|Berserker]] | When frenzied, advantage to hit |
 | [[Rules/Talents/List/Powerful strike\|Powerful strike]] | -1 to hit, +1d6 damage |
 | [[Rules/Talents/List/Relentless charge\|Relentless charge]] | +1d6 dam when charging |
 | [[Rules/Talents/List/Smash hard\|Smash hard]] | 1d6 impact dam with lethal dam |

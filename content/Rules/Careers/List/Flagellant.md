@@ -29,7 +29,7 @@
 | [[Rules/Talents/List/Bar brawler\|Bar brawler]] | +1d6 dam on unarmed/knuckles |
 | [[Rules/Talents/List/Bleeding strike\|Bleeding strike]] | 1 fortune to add bleeding to damage |
 | [[Rules/Talents/List/Diehard\|Diehard]] | +1 HP |
-| [[Rules/Talents/List/Frenzy\|Frenzy]] | When frenzied, advantage to hit |
+| [[Rules/Talents/List/Berserker\|Berserker]] | When frenzied, advantage to hit |
 | [[Rules/Talents/List/Relentless charge\|Relentless charge]] | +1d6 dam when charging |
 | [[Rules/Talents/List/Fast healer\|Fast healer]] | Heal +1HP/night |
 

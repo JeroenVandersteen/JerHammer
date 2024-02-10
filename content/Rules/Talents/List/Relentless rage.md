@@ -1,6 +1,6 @@
 
 ### Relentless rage
-**Prerequisites:** Frenzy
+**Prerequisites:** Berserker
 
 _When frenzied, ignore knockdown_
 

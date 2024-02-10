@@ -1,5 +1,5 @@
 
-### Frenzy
+### Berserker
 
 _When frenzied, advantage to hit_
 

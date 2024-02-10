@@ -24,7 +24,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Frenzy\|Frenzy]] | When frenzied, advantage to hit |
+| [[Rules/Talents/List/Berserker\|Berserker]] | When frenzied, advantage to hit |
 | [[Rules/Talents/List/Furious assault\|Furious assault]] | 1 fortune to make extra attack at disadvantage |
 | [[Rules/Talents/List/Thick hide\|Thick hide]] | +1 armor point |
 | [[Rules/Talents/List/Untiring\|Untiring]] | Ignore 1 fatigue condition |

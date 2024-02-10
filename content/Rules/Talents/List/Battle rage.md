@@ -1,6 +1,6 @@
 
 ### Battle rage
-**Prerequisites:** Frenzy
+**Prerequisites:** Berserker
 
 _When frenzied, x2 strength to dam_
 
