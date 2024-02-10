@@ -36,7 +36,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Brewing\|Brewing]] (I) | Can brew potions |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (I) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (I) | Can gather herbs |
 | [[Rules/Talents/List/Argumentative\|Argumentative]] | Advantage when debating |
 | [[Rules/Talents/List/Briber\|Briber]] | Advantage on bribe |
 | [[Rules/Talents/List/Dealmaker\|Dealmaker]] | Buy/sell items at ±5% |
@@ -49,7 +49,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Brewing\|Brewing]] (II) | Can brew potions |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (II) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (II) | Can gather herbs |
 | [[Rules/Talents/List/Fortune burning\|Fortune burning]] | May use 1 extra fortune point/turn |
 | [[Rules/Talents/List/Deep pockets\|Deep pockets]] | Have simple items |
 | [[Rules/Talents/List/Dramatic escape\|Dramatic escape]] | Fortune point for escape |

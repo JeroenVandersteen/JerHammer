@@ -39,7 +39,7 @@
 | [[Rules/Talents/List/Protect ally\|Protect ally]] | Spend move to protect ally |
 | [[Rules/Talents/List/Sanguine broker\|Sanguine broker]] | Transfer HP from one to another |
 | [[Rules/Talents/List/Brewing\|Brewing]] (I) | Can brew potions |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (I) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (I) | Can gather herbs |
 | [[Rules/Talents/List/Lucky\|Lucky]] | Recover 1 extra fortune |
 | [[Rules/Talents/List/Courage\|Courage]] | Advantage to resist fear/torture |
 | [[Rules/Talents/List/Lip reading\|Lip reading]] | May read lips |
@@ -54,7 +54,7 @@
 | --- | --- |
 | [[Rules/Talents/List/Inspire allies\|Inspire allies]] | 1 fortune to give allies advantage to hit |
 | [[Rules/Talents/List/Brewing\|Brewing]] (II) | Can brew potions |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (II) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (II) | Can gather herbs |
 | [[Rules/Talents/List/Amputate\|Amputate]] | Amputate limb to save from death |
 | [[Rules/Talents/List/Foresight\|Foresight]] | Fortune to force opponent reroll |
 | [[Rules/Talents/List/Unshakable\|Unshakable]] | No cool check on blackpowder fire |

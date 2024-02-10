@@ -97,8 +97,7 @@
 | :--- | --- | :--- | :--- |
 | [[Brewing]] | Int, 4 | Career | Can brew potions |
 | [[Crafting]] | Int, 4 | Career | Craft items (50% price) |
-| [[Gather spell ingredients]] |  |  | Can gather spell ingredients |
-| [[Herbalist]] | Int, 4 | Career | Can gather herbs |
+| [[Herbalism]] | Int, 4 | Career | Can gather herbs |
 | [[Inventor]] | Int, 4 | Career | Make item modifications |
 | [[Poisoner]] | Int, 4 | Career | Can create poisons |
 | [[Runesmithing]] | WP, 5 | Career | Can add runes to items |

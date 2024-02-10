@@ -41,7 +41,7 @@
 | [[Rules/Talents/List/Blood lash\|Blood lash]] | Spend move and -1HP to cause bleed |
 | [[Rules/Talents/List/Protect ally\|Protect ally]] | Spend move to protect ally |
 | [[Rules/Talents/List/Brewing\|Brewing]] (I) | Can brew potions |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (I) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (I) | Can gather herbs |
 | [[Rules/Talents/List/Interrogate\|Interrogate]] | Advantage on interrogation/torture |
 | [[Rules/Talents/List/Lore\|Lore]] (Any) | Deep knowledge on subject |
 | [[Rules/Talents/List/Sturdy traveller\|Sturdy traveller]] | Advantage on travel endurance |
@@ -53,7 +53,7 @@
 | --- | --- |
 | [[Rules/Talents/List/Rout allies\|Rout allies]] | Spend action to remove fear from allies |
 | [[Rules/Talents/List/Brewing\|Brewing]] (II) | Can brew potions |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (II) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (II) | Can gather herbs |
 | [[Rules/Talents/List/Amputate\|Amputate]] | Amputate limb to save from death |
 | [[Rules/Talents/List/Foresight\|Foresight]] | Fortune to force opponent reroll |
 

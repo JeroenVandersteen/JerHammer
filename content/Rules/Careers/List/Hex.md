@@ -11,7 +11,6 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Gather spell ingredients\|Gather spell ingredients]] (I) | Can gather spell ingredients |
 | [[Rules/Talents/List/Petty Magick\|Petty Magick]] | Can cast petty spells |
 | [[Rules/Talents/List/Second sight\|Second sight]] | Sense magick |
 | [[Rules/Talents/List/Animal affinity\|Animal affinity]] | Animals do simple things |
@@ -24,8 +23,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Brewing\|Brewing]] (I) | Can brew potions |
-| [[Rules/Talents/List/Gather spell ingredients\|Gather spell ingredients]] (II) | Can gather spell ingredients |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (I) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (I) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (I) | Can create poisons |
 | [[Rules/Talents/List/Arcane Magick (Lore)\|Arcane Magick (Lore)]] | Can cast arcane Magick |
 | [[Rules/Talents/List/Blood Magick\|Blood Magick]] | Take HP-1 for CN-1 |
@@ -41,8 +39,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Brewing\|Brewing]] (II) | Can brew potions |
-| [[Rules/Talents/List/Gather spell ingredients\|Gather spell ingredients]] (III) | Can gather spell ingredients |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (II) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (II) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (II) | Can create poisons |
 | [[Rules/Talents/List/Distant spell\|Distant spell]] | Increase spell range, CN+2 |
 | [[Rules/Talents/List/Empower spell\|Empower spell]] | Reroll damage, CN+2 |
@@ -61,8 +58,7 @@
 | --- | --- |
 | [[Rules/Talents/List/Sanguine broker\|Sanguine broker]] | Transfer HP from one to another |
 | [[Rules/Talents/List/Brewing\|Brewing]] (III) | Can brew potions |
-| [[Rules/Talents/List/Gather spell ingredients\|Gather spell ingredients]] (IV) | Can gather spell ingredients |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (III) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (III) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (III) | Can create poisons |
 | [[Rules/Talents/List/Amputate\|Amputate]] | Amputate limb to save from death |
 | [[Rules/Talents/List/Escape artist\|Escape artist]] | Advantage to escape grapple/ropes/... |

@@ -12,8 +12,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Brewing\|Brewing]] (I) | Can brew potions |
-| [[Rules/Talents/List/Gather spell ingredients\|Gather spell ingredients]] (I) | Can gather spell ingredients |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (I) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (I) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (I) | Can create poisons |
 | [[Rules/Talents/List/Petty Magick\|Petty Magick]] | Can cast petty spells |
 | [[Rules/Talents/List/Second sight\|Second sight]] | Sense magick |
@@ -29,8 +28,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Brewing\|Brewing]] (II) | Can brew potions |
-| [[Rules/Talents/List/Gather spell ingredients\|Gather spell ingredients]] (II) | Can gather spell ingredients |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (II) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (II) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (II) | Can create poisons |
 | [[Rules/Talents/List/Arcane Magick (Lore)\|Arcane Magick (Lore)]] | Can cast arcane Magick |
 | [[Rules/Talents/List/Iron stomach\|Iron stomach]] | Advantage vs ingested poisons/diseases |
@@ -44,8 +42,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Brewing\|Brewing]] (III) | Can brew potions |
-| [[Rules/Talents/List/Gather spell ingredients\|Gather spell ingredients]] (III) | Can gather spell ingredients |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (III) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (III) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (III) | Can create poisons |
 | [[Rules/Talents/List/Counterspell\|Counterspell]] | May defend against spells |
 | [[Rules/Talents/List/Dissipate channeling\|Dissipate channeling]] | May build down channeling |
@@ -66,8 +63,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Brewing\|Brewing]] (IV) | Can brew potions |
-| [[Rules/Talents/List/Gather spell ingredients\|Gather spell ingredients]] (IV) | Can gather spell ingredients |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (IV) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (IV) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (IV) | Can create poisons |
 | [[Rules/Talents/List/Camouflage\|Camouflage]] | May hide a group of characters |
 | [[Rules/Talents/List/Surgeon\|Surgeon]] | Medicine test and 1 hour to heal 1 HP/day |

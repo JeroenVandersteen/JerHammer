@@ -11,7 +11,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (I) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (I) | Can gather herbs |
 | [[Rules/Talents/List/Animal affinity\|Animal affinity]] | Animals do simple things |
 | [[Rules/Talents/List/First aid\|First aid]] | Medicine test and full round to heal 1 HP |
 | [[Rules/Talents/List/Hide in nature\|Hide in nature]] | Advantage on stealth in nature |
@@ -25,7 +25,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Mobility\|Mobility]] | Ignore difficult terrain |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (II) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (II) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (I) | Can create poisons |
 | [[Rules/Talents/List/Foresight\|Foresight]] | Fortune to force opponent reroll |
 | [[Rules/Talents/List/Gossip\|Gossip]] | Gain 1 rumour/session |
@@ -39,7 +39,7 @@
 | --- | --- |
 | [[Rules/Talents/List/Terrain master\|Terrain master]] | Create cover, (dis)advantageous/difficult terrain |
 | [[Rules/Talents/List/Brewing\|Brewing]] (I) | Can brew potions |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (III) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (III) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (II) | Can create poisons |
 | [[Rules/Talents/List/Lucky\|Lucky]] | Recover 1 extra fortune |
 | [[Rules/Talents/List/Cheating\|Cheating]] | Sleight of hand test to reroll die/draw card |
@@ -53,7 +53,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Brewing\|Brewing]] (II) | Can brew potions |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (IV) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (IV) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (III) | Can create poisons |
 | [[Rules/Talents/List/Extra fortunate\|Extra fortunate]] | +1 fortune point max |
 | [[Rules/Talents/List/Fortune burning\|Fortune burning]] | May use 1 extra fortune point/turn |

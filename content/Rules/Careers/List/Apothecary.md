@@ -11,7 +11,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (I) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (I) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (I) | Can create poisons |
 | [[Rules/Talents/List/Lore\|Lore]] (Chemistry) | Deep knowledge on subject |
 | [[Rules/Talents/List/Lore\|Lore]] (Medicine) | Deep knowledge on subject |
@@ -23,7 +23,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (II) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (II) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (II) | Can create poisons |
 | [[Rules/Talents/List/First aid\|First aid]] | Medicine test and full round to heal 1 HP |
 | [[Rules/Talents/List/Iron stomach\|Iron stomach]] | Advantage vs ingested poisons/diseases |
@@ -36,7 +36,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Brewing\|Brewing]] (I) | Can brew potions |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (III) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (III) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (III) | Can create poisons |
 | [[Rules/Talents/List/Advanced education\|Advanced education]] | Advanced math, science, literature |
 | [[Rules/Talents/List/Gossip\|Gossip]] | Gain 1 rumour/session |
@@ -47,7 +47,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Brewing\|Brewing]] (II) | Can brew potions |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (IV) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (IV) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (IV) | Can create poisons |
 | [[Rules/Talents/List/Consume alcohol\|Consume alcohol]] | Advantage when consuming alcohol |
 | [[Rules/Talents/List/Gold fever\|Gold fever]] | Advantage to spot precious items |

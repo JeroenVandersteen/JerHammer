@@ -11,7 +11,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (I) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (I) | Can gather herbs |
 | [[Rules/Talents/List/Beneath notice\|Beneath notice]] | People ignore you |
 | [[Rules/Talents/List/Cauterize\|Cauterize]] | Turn bleeding into wounds |
 | [[Rules/Talents/List/First aid\|First aid]] | Medicine test and full round to heal 1 HP |
@@ -29,7 +29,7 @@
 | [[Rules/Talents/List/Grappler\|Grappler]] | Advantage when grappling |
 | [[Rules/Talents/List/Sanguine broker\|Sanguine broker]] | Transfer HP from one to another |
 | [[Rules/Talents/List/Brewing\|Brewing]] (I) | Can brew potions |
-| [[Rules/Talents/List/Herbalist\|Herbalist]] (II) | Can gather herbs |
+| [[Rules/Talents/List/Herbalism\|Herbalism]] (II) | Can gather herbs |
 | [[Rules/Talents/List/Advanced education\|Advanced education]] | Advanced math, science, literature |
 | [[Rules/Talents/List/Amputate\|Amputate]] | Amputate limb to save from death |
 | [[Rules/Talents/List/Cheating\|Cheating]] | Sleight of hand test to reroll die/draw card |

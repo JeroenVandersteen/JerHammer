@@ -12,6 +12,8 @@ Browse all [[inventions]].
 
 Browse all [[runes]].
 
+Browse all [[endeavors]].
+
 The objectives of this system are:
 - The game can be played both with miniatures on a map, or entirely with theatre-of-the-mind.
 - Magick is rare, difficult, dangerous, and feared.

@@ -1,5 +1,5 @@
 
-### Herbalist
+### Herbalism
 **Max:** Int, 4
 **Prerequisites:** Career
 
