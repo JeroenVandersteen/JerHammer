@@ -33,7 +33,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Mobility\|Mobility]] | Ignore difficult terrain |
-| [[Rules/Talents/List/Crafter\|Crafter]] (I) | Craft items (50% price) |
+| [[Rules/Talents/List/Crafting\|Crafting]] (I) | Craft items (50% price) |
 | [[Rules/Talents/List/Fortune burning\|Fortune burning]] | May use 1 extra fortune point/turn |
 | [[Rules/Talents/List/Lucky\|Lucky]] | Recover 1 extra fortune |
 | [[Rules/Talents/List/Improvisation\|Improvisation]] | Use other skill if narrated |
@@ -45,7 +45,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Terrain master\|Terrain master]] | Create cover, (dis)advantageous/difficult terrain |
-| [[Rules/Talents/List/Crafter\|Crafter]] (II) | Craft items (50% price) |
+| [[Rules/Talents/List/Crafting\|Crafting]] (II) | Craft items (50% price) |
 | [[Rules/Talents/List/Extra fortunate\|Extra fortunate]] | +1 fortune point max |
 | [[Rules/Talents/List/Dramatic escape\|Dramatic escape]] | Fortune point for escape |
 | [[Rules/Talents/List/Elusive\|Elusive]] | Hide your trail |

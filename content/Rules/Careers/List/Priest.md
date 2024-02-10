@@ -38,7 +38,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Brewer\|Brewer]] (I) | Can brew potions |
+| [[Rules/Talents/List/Brewing\|Brewing]] (I) | Can brew potions |
 | [[Rules/Talents/List/Holy hatred (group)\|Holy hatred (group)]] | Miracles +1d6 dam vs group |
 | [[Rules/Talents/List/Courage\|Courage]] | Advantage to resist fear/torture |
 | [[Rules/Talents/List/Interrogate\|Interrogate]] | Advantage on interrogation/torture |
@@ -51,7 +51,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Inspire allies\|Inspire allies]] | 1 fortune to give allies advantage to hit |
-| [[Rules/Talents/List/Brewer\|Brewer]] (II) | Can brew potions |
+| [[Rules/Talents/List/Brewing\|Brewing]] (II) | Can brew potions |
 | [[Rules/Talents/List/Commanding presence\|Commanding presence]] | Advantage on Fel to lower status |
 | [[Rules/Talents/List/Lip reading\|Lip reading]] | May read lips |
 | [[Rules/Talents/List/Lore\|Lore]] (Politics) | Deep knowledge on subject |

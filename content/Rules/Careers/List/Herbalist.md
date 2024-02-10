@@ -38,7 +38,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Terrain master\|Terrain master]] | Create cover, (dis)advantageous/difficult terrain |
-| [[Rules/Talents/List/Brewer\|Brewer]] (I) | Can brew potions |
+| [[Rules/Talents/List/Brewing\|Brewing]] (I) | Can brew potions |
 | [[Rules/Talents/List/Herbalist\|Herbalist]] (III) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (II) | Can create poisons |
 | [[Rules/Talents/List/Lucky\|Lucky]] | Recover 1 extra fortune |
@@ -52,7 +52,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Brewer\|Brewer]] (II) | Can brew potions |
+| [[Rules/Talents/List/Brewing\|Brewing]] (II) | Can brew potions |
 | [[Rules/Talents/List/Herbalist\|Herbalist]] (IV) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (III) | Can create poisons |
 | [[Rules/Talents/List/Extra fortunate\|Extra fortunate]] | +1 fortune point max |

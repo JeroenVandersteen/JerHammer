@@ -35,7 +35,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Brewer\|Brewer]] (I) | Can brew potions |
+| [[Rules/Talents/List/Brewing\|Brewing]] (I) | Can brew potions |
 | [[Rules/Talents/List/Herbalist\|Herbalist]] (III) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (III) | Can create poisons |
 | [[Rules/Talents/List/Advanced education\|Advanced education]] | Advanced math, science, literature |
@@ -46,7 +46,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Brewer\|Brewer]] (II) | Can brew potions |
+| [[Rules/Talents/List/Brewing\|Brewing]] (II) | Can brew potions |
 | [[Rules/Talents/List/Herbalist\|Herbalist]] (IV) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (IV) | Can create poisons |
 | [[Rules/Talents/List/Consume alcohol\|Consume alcohol]] | Advantage when consuming alcohol |

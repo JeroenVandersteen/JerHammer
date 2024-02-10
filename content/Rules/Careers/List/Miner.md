@@ -42,7 +42,7 @@
 | [[Rules/Talents/List/Diehard\|Diehard]] | +1 HP |
 | [[Rules/Talents/List/Iron Jaw\|Iron Jaw]] | Ignore 1 stun condition |
 | [[Rules/Talents/List/Stunning strike\|Stunning strike]] | 1 fortune to add stun to damage |
-| [[Rules/Talents/List/Crafter\|Crafter]] (I) | Craft items (50% price) |
+| [[Rules/Talents/List/Crafting\|Crafting]] (I) | Craft items (50% price) |
 | [[Rules/Talents/List/Climb\|Climb]] | Advantage on climbing |
 | [[Rules/Talents/List/Courage\|Courage]] | Advantage to resist fear/torture |
 
@@ -56,7 +56,7 @@
 | [[Rules/Talents/List/Robust\|Robust]] | +1 impact reduction |
 | [[Rules/Talents/List/Thick hide\|Thick hide]] | +1 armor point |
 | [[Rules/Talents/List/Untiring\|Untiring]] | Ignore 1 fatigue condition |
-| [[Rules/Talents/List/Crafter\|Crafter]] (II) | Craft items (50% price) |
+| [[Rules/Talents/List/Crafting\|Crafting]] (II) | Craft items (50% price) |
 | [[Rules/Talents/List/Drive\|Drive]] | Can drive land vehicles |
 | [[Rules/Talents/List/Iron stomach\|Iron stomach]] | Advantage vs ingested poisons/diseases |
 | [[Rules/Talents/List/Lore\|Lore]] (Engineering) | Deep knowledge on subject |

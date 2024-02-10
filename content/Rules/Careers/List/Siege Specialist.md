@@ -32,7 +32,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Crafter\|Crafter]] (I) | Craft items (50% price) |
+| [[Rules/Talents/List/Crafting\|Crafting]] (I) | Craft items (50% price) |
 | [[Rules/Talents/List/Inventor\|Inventor]] (II) | Make item modifications |
 | [[Rules/Talents/List/Advanced education\|Advanced education]] | Advanced math, science, literature |
 | [[Rules/Talents/List/Armor repair\|Armor repair]] | Repair double armor points/day |
@@ -45,7 +45,7 @@
 | Talents | Short Description |
 | --- | --- |
 | [[Rules/Talents/List/Clever shot\|Clever shot]] | Cover penalties reduced |
-| [[Rules/Talents/List/Crafter\|Crafter]] (II) | Craft items (50% price) |
+| [[Rules/Talents/List/Crafting\|Crafting]] (II) | Craft items (50% price) |
 | [[Rules/Talents/List/Inventor\|Inventor]] (III) | Make item modifications |
 | [[Rules/Talents/List/Climb\|Climb]] | Advantage on climbing |
 | [[Rules/Talents/List/Courage\|Courage]] | Advantage to resist fear/torture |

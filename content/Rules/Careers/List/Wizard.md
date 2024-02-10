@@ -34,7 +34,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Brewer\|Brewer]] (I) | Can brew potions |
+| [[Rules/Talents/List/Brewing\|Brewing]] (I) | Can brew potions |
 | [[Rules/Talents/List/Gather spell ingredients\|Gather spell ingredients]] (II) | Can gather spell ingredients |
 | [[Rules/Talents/List/Herbalist\|Herbalist]] (II) | Can gather herbs |
 | [[Rules/Talents/List/Aetheric attunement\|Aetheric attunement]] | Reduce miscast tally by WP after miscast |
@@ -54,7 +54,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Brewer\|Brewer]] (II) | Can brew potions |
+| [[Rules/Talents/List/Brewing\|Brewing]] (II) | Can brew potions |
 | [[Rules/Talents/List/Gather spell ingredients\|Gather spell ingredients]] (III) | Can gather spell ingredients |
 | [[Rules/Talents/List/Herbalist\|Herbalist]] (III) | Can gather herbs |
 | [[Rules/Talents/List/Battle wizard\|Battle wizard]] | Armor pen. 1 less; no miscast disadv in melee |

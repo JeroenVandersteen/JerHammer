@@ -33,7 +33,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Crafter\|Crafter]] (I) | Craft items (50% price) |
+| [[Rules/Talents/List/Crafting\|Crafting]] (I) | Craft items (50% price) |
 | [[Rules/Talents/List/Inventor\|Inventor]] (III) | Make item modifications |
 | [[Rules/Talents/List/Argumentative\|Argumentative]] | Advantage when debating |
 | [[Rules/Talents/List/Armor repair\|Armor repair]] | Repair double armor points/day |
@@ -49,7 +49,7 @@
 | [[Rules/Talents/List/Bypass armor\|Bypass armor]] | 1 fortune to ignore impact reduction |
 | [[Rules/Talents/List/Destroy armor\|Destroy armor]] | +1d6 dam to armor |
 | [[Rules/Talents/List/Long shot\|Long shot]] | Range increment 1 reduced |
-| [[Rules/Talents/List/Crafter\|Crafter]] (II) | Craft items (50% price) |
+| [[Rules/Talents/List/Crafting\|Crafting]] (II) | Craft items (50% price) |
 | [[Rules/Talents/List/Inventor\|Inventor]] (IV) | Make item modifications |
 | [[Rules/Talents/List/Counterfeit\|Counterfeit]] | Can counterfeit licenses/permits/... |
 | [[Rules/Talents/List/Deep pockets\|Deep pockets]] | Have simple items |

@@ -28,7 +28,7 @@
 | [[Rules/Talents/List/Bloodletting\|Bloodletting]] | Take bleed for advantage vs disease/poison |
 | [[Rules/Talents/List/Grappler\|Grappler]] | Advantage when grappling |
 | [[Rules/Talents/List/Sanguine broker\|Sanguine broker]] | Transfer HP from one to another |
-| [[Rules/Talents/List/Brewer\|Brewer]] (I) | Can brew potions |
+| [[Rules/Talents/List/Brewing\|Brewing]] (I) | Can brew potions |
 | [[Rules/Talents/List/Herbalist\|Herbalist]] (II) | Can gather herbs |
 | [[Rules/Talents/List/Advanced education\|Advanced education]] | Advanced math, science, literature |
 | [[Rules/Talents/List/Amputate\|Amputate]] | Amputate limb to save from death |
@@ -46,7 +46,7 @@
 | [[Rules/Talents/List/Blinding strike\|Blinding strike]] | 1 fortune to add blinded to damage |
 | [[Rules/Talents/List/Debilitating strike\|Debilitating strike]] | Loose action instead of damage |
 | [[Rules/Talents/List/Execute\|Execute]] | +3d6 dam to prone/restrained opponent |
-| [[Rules/Talents/List/Brewer\|Brewer]] (II) | Can brew potions |
+| [[Rules/Talents/List/Brewing\|Brewing]] (II) | Can brew potions |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (I) | Can create poisons |
 | [[Rules/Talents/List/Briber\|Briber]] | Advantage on bribe |
 | [[Rules/Talents/List/Dealmaker\|Dealmaker]] | Buy/sell items at ±5% |

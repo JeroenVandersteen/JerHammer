@@ -22,7 +22,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Brewer\|Brewer]] (I) | Can brew potions |
+| [[Rules/Talents/List/Brewing\|Brewing]] (I) | Can brew potions |
 | [[Rules/Talents/List/Herbalist\|Herbalist]] (I) | Can gather herbs |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (I) | Can create poisons |
 | [[Rules/Talents/List/Beneath notice\|Beneath notice]] | People ignore you |
@@ -38,7 +38,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Brewer\|Brewer]] (II) | Can brew potions |
+| [[Rules/Talents/List/Brewing\|Brewing]] (II) | Can brew potions |
 | [[Rules/Talents/List/Herbalist\|Herbalist]] (II) | Can gather herbs |
 | [[Rules/Talents/List/Inventor\|Inventor]] (I) | Make item modifications |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (II) | Can create poisons |
@@ -52,7 +52,7 @@
 
 | Talents | Short Description |
 | --- | --- |
-| [[Rules/Talents/List/Brewer\|Brewer]] (III) | Can brew potions |
+| [[Rules/Talents/List/Brewing\|Brewing]] (III) | Can brew potions |
 | [[Rules/Talents/List/Herbalist\|Herbalist]] (III) | Can gather herbs |
 | [[Rules/Talents/List/Inventor\|Inventor]] (II) | Make item modifications |
 | [[Rules/Talents/List/Poisoner\|Poisoner]] (III) | Can create poisons |
