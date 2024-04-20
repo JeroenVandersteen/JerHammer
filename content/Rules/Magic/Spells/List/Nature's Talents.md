@@ -1,0 +1,18 @@
+---
+title: "Nature's Talents"
+titleIcon: "fa-solid fa-wand-sparkles"
+draft: false
+---
+
+### Nature's Talents
+
+| Nature's Talents |
+| :--- |
+| **Lore:** Lore Of Beasts |
+| **CN:** 3 |
+| **Type:** Enchantment |
+| **Duration:** hours |
+| **Range:** Self |
+| **Target:** 1 |
+| **Effect:** Target gains one talent from nature (tracking, relentless charge, terrain master, alley cat, untiring, hide in nature, hunter, swim, sturdy traveller) |
+

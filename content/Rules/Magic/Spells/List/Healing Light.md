@@ -1,0 +1,18 @@
+---
+title: "Healing Light"
+titleIcon: "fa-solid fa-wand-sparkles"
+draft: false
+---
+
+### Healing Light
+
+| Healing Light |
+| :--- |
+| **Lore:** Lore Of Light |
+| **CN:** 6 |
+| **Type:** Healing |
+| **Duration:** instant |
+| **Range:** Short |
+| **Target:** Area |
+| **Heal:** 3d6 |
+

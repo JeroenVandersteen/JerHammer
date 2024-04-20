@@ -4,9 +4,9 @@ title: JerHammer RPG System
 
 Welcome to the homepage of the JerHammer RPG System for Grimdark roleplaying games.
 
-Browse all [[careers]].
+Browse all [[careers|careers]].
 
-Browse all [[talents]].
+Browse all [[content/Rules/Character/Talents/_index|_index]].
 
 Browse all [[conditions]].
 
