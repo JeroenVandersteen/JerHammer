@@ -7,8 +7,8 @@ draft: false
 # Careers
 
 
-## ACADEMICS
-[Apothecary](Apothecary.md)
+## Academics
+[Apothecary](<Rules/Character/Careers/Apothecary>)
 
 [Engineer](Engineer.md)
 
