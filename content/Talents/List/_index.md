@@ -7,7 +7,7 @@ draft: false
 # Talents
 
 
-## CombatTalents
+## Combat Talents
 
 | Talent | Max | Prereq | Short Description |
 | :--- | --- | :--- | :--- |
@@ -97,7 +97,7 @@ draft: false
 | [Weapon specialization](<Talents/List/Weapon specialization>) | WS, 4 |  | +1 dam with that melee weapon |
 | [Witty repartee](<Talents/List/Witty repartee>) |  |  | Insult to gain +1 damage |
 
-## Craft/gatherTalents
+## Craft/gather Talents
 
 | Talent | Max | Prereq | Short Description |
 | :--- | --- | :--- | :--- |
@@ -108,7 +108,7 @@ draft: false
 | [Poisoner](<Talents/List/Poisoner>) | Int, 4 | Career | Can create poisons |
 | [Runesmithing](<Talents/List/Runesmithing>) | WP, 5 | Career | Can add runes to items |
 
-## DivineTalents
+## Divine Talents
 
 | Talent | Max | Prereq | Short Description |
 | :--- | --- | :--- | :--- |
@@ -118,7 +118,7 @@ draft: false
 | [Impassioned zeal](<Talents/List/Impassioned zeal>) | Fel | Career | Attract followers |
 | [Invoke (Divine Lore)](<Talents/List/Invoke>) |  | Career | Can use Miracles |
 
-## FortuneTalents
+## Fortune Talents
 
 | Talent | Max | Prereq | Short Description |
 | :--- | --- | :--- | :--- |
@@ -126,7 +126,7 @@ draft: false
 | [Fortune burning](<Talents/List/Fortune burning>) | 4 |  | May use 1 extra fortune point/turn |
 | [Lucky](<Talents/List/Lucky>) |  |  | Recover 1 extra fortune |
 
-## MagickTalents
+## Magick Talents
 
 | Talent | Max | Prereq | Short Description |
 | :--- | --- | :--- | :--- |
@@ -147,7 +147,7 @@ draft: false
 | [Reflect spell](<Talents/List/Reflect spell>) |  | Counterspell | May reflect spell back to caster |
 | [Second sight](<Talents/List/Second sight>) |  | Career | Sense magick |
 
-## SkillTalents
+## Skill Talents
 
 | Talent | Max | Prereq | Short Description |
 | :--- | --- | :--- | :--- |
