@@ -6,7 +6,7 @@ draft: false
 
 ### Craft item
 
-**Prerequisite:** [[Crafting]] talent
+**Prerequisite:** [Crafting](<Talents/List/Crafting>) talent
 
 _Craft items_
 

@@ -6,7 +6,7 @@ draft: false
 
 ### Study grimoire
 
-**Prerequisite:** [[Arcane Magick (Lore)]] talent
+**Prerequisite:** [Arcane Magick](<Talents/List/Arcane Magick>) talent
 
 _Learn 1 spell from another's grimoire_
 

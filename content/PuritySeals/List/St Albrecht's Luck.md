@@ -1,10 +1,10 @@
 ---
-title: "St. Albrecht's Luck"
+title: "St Albrecht's Luck"
 titleIcon: "fa-solid fa-scroll"
 draft: false
 ---
 
-### St. Albrecht's Luck
+### St Albrecht's Luck
 
 _Get 1 reroll_
 

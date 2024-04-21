@@ -6,7 +6,7 @@ draft: false
 
 ### Brew potion
 
-**Prerequisite:** [[Brewing]] talent
+**Prerequisite:** [Brewing](<Talents/List/Brewing>) talent
 
 _Brew potions_
 

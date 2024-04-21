@@ -6,7 +6,7 @@ draft: false
 
 ### Modify item
 
-**Prerequisite:** [[Inventor]] talent
+**Prerequisite:** [Inventor](<Talents/List/Inventor>) talent
 
 _Modify items_
 

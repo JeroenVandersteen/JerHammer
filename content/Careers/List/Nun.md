@@ -18,7 +18,7 @@ draft: false
 | Talents | Short Description |
 | --- | --- |
 | [Write purity seal](<Talents/List/Write purity seal>) | Spend endeavor to create purity seal(s) |
-| [Bless (Divine Lore)](<Talents/List/Bless (Divine Lore)>) | Can use Blessings |
+| [Bless (Divine Lore)](<Talents/List/Bless>) | Can use Blessings |
 | [Extra fortunate](<Talents/List/Extra fortunate>) | +1 fortune point max |
 | [Beneath notice](<Talents/List/Beneath notice>) | People ignore you |
 | [First aid](<Talents/List/First aid>) | Medicine test and full round to heal 1 HP |
@@ -31,7 +31,7 @@ draft: false
 | Talents | Short Description |
 | --- | --- |
 | [Bloodletting](<Talents/List/Bloodletting>) | Take bleed for advantage vs disease/poison |
-| [Invoke (Divine Lore)](<Talents/List/Invoke (Divine Lore)>) | Can use Miracles |
+| [Invoke (Divine Lore)](<Talents/List/Invoke>) | Can use Miracles |
 | [Advanced education](<Talents/List/Advanced education>) | Advanced math, science, literature |
 | [Discern lies](<Talents/List/Discern lies>) | Advantage to detect lies/counterfeit |
 | [Performer](<Talents/List/Performer>) (Calligraphy) | Advantage when performing/entertaining/art |

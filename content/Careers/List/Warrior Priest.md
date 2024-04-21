@@ -21,7 +21,7 @@ draft: false
 | [Reliable hit](<Talents/List/Reliable hit>) | Advantage on dam with that weapon |
 | [Stunning strike](<Talents/List/Stunning strike>) | 1 fortune to add stun to damage |
 | [Write purity seal](<Talents/List/Write purity seal>) | Spend endeavor to create purity seal(s) |
-| [Bless (Divine Lore)](<Talents/List/Bless (Divine Lore)>) | Can use Blessings |
+| [Bless (Divine Lore)](<Talents/List/Bless>) | Can use Blessings |
 | [Impassioned zeal](<Talents/List/Impassioned zeal>) | Attract followers |
 | [Courage](<Talents/List/Courage>) | Advantage to resist fear/torture |
 | [Lore](<Talents/List/Lore>) (Theology) | Deep knowledge on subject |
@@ -35,7 +35,7 @@ draft: false
 | [Bypass armor](<Talents/List/Bypass armor>) | 1 fortune to ignore impact reduction |
 | [Drilled](<Talents/List/Drilled>) | Dam +1 when next to ally |
 | [Protect ally](<Talents/List/Protect ally>) | Spend move to protect ally |
-| [Invoke (Divine Lore)](<Talents/List/Invoke (Divine Lore)>) | Can use Miracles |
+| [Invoke (Divine Lore)](<Talents/List/Invoke>) | Can use Miracles |
 | [Cauterize](<Talents/List/Cauterize>) | Turn bleeding into wounds |
 | [Discern lies](<Talents/List/Discern lies>) | Advantage to detect lies/counterfeit |
 | [Menacing](<Talents/List/Menacing>) | Advantage on intimidation |
@@ -48,7 +48,7 @@ draft: false
 | [Debilitating strike](<Talents/List/Debilitating strike>) | Loose action instead of damage |
 | [Execute](<Talents/List/Execute>) | +3d6 dam to prone/restrained opponent |
 | [Rout allies](<Talents/List/Rout allies>) | Spend action to remove fear from allies |
-| [Holy hatred (group)](<Talents/List/Holy hatred (group)>) | Miracles +1d6 dam vs group |
+| [Holy hatred (group)](<Talents/List/Holy hatred>) | Miracles +1d6 dam vs group |
 | [Advanced education](<Talents/List/Advanced education>) | Advanced math, science, literature |
 | [Interrogate](<Talents/List/Interrogate>) | Advantage on interrogation/torture |
 | [Secret Signs](<Talents/List/Secret Signs>) (Divine) | Understand secret signs |

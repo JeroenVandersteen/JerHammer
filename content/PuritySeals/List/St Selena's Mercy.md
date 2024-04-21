@@ -1,10 +1,10 @@
 ---
-title: "St. Selena's Mercy"
+title: "St Selena's Mercy"
 titleIcon: "fa-solid fa-scroll"
 draft: false
 ---
 
-### St. Selena's Mercy
+### St Selena's Mercy
 
 _Ignore-remove one bleeding condition_
 

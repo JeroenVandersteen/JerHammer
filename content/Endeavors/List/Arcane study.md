@@ -6,7 +6,7 @@ draft: false
 
 ### Arcane study
 
-**Prerequisite:** [[Arcane Magick (Lore)]] talent
+**Prerequisite:** [Arcane Magick](<Talents/List/Arcane Magick>) talent
 
 _Gain 2 advantage dice on spellcasting rolls_
 

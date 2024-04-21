@@ -31,7 +31,7 @@ draft: false
 | [Brewing](<Talents/List/Brewing>) (I) | Can brew potions |
 | [Herbalism](<Talents/List/Herbalism>) (I) | Can gather herbs |
 | [Poisoner](<Talents/List/Poisoner>) (I) | Can create poisons |
-| [Arcane Magick (Lore)](<Talents/List/Arcane Magick (Lore)>) | Can cast arcane Magick |
+| [Arcane Magick (Lore)](<Talents/List/Arcane Magick>) | Can cast arcane Magick |
 | [Blood Magick](<Talents/List/Blood Magick>) | Take HP-1 for CN-1 |
 | [Counterspell](<Talents/List/Counterspell>) | May defend against spells |
 | [Animal training](<Talents/List/Animal training>) | Can train animals |

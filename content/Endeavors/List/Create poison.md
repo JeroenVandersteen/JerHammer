@@ -6,7 +6,7 @@ draft: false
 
 ### Create poison
 
-**Prerequisite:** [[Poisoner]] talent
+**Prerequisite:** [Poisoner](<Talents/List/Poisoner>) talent
 
 _Create poisons_
 

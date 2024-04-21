@@ -6,7 +6,7 @@ draft: false
 
 ### Gather herbs
 
-**Prerequisite:** [[Herbalism]] talent
+**Prerequisite:** [Herbalism](<Talents/List/Herbalism>) talent
 
 _Gather herbs_
 

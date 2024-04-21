@@ -36,7 +36,7 @@ draft: false
 | [Brewing](<Talents/List/Brewing>) (II) | Can brew potions |
 | [Herbalism](<Talents/List/Herbalism>) (II) | Can gather herbs |
 | [Poisoner](<Talents/List/Poisoner>) (II) | Can create poisons |
-| [Arcane Magick (Lore)](<Talents/List/Arcane Magick (Lore)>) | Can cast arcane Magick |
+| [Arcane Magick (Lore)](<Talents/List/Arcane Magick>) | Can cast arcane Magick |
 | [Iron stomach](<Talents/List/Iron stomach>) | Advantage vs ingested poisons/diseases |
 | [Liar](<Talents/List/Liar>) | Advantage when lying |
 | [Lore](<Talents/List/Lore>) (Local) | Deep knowledge on subject |

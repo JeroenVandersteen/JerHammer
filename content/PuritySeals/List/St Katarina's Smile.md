@@ -1,10 +1,10 @@
 ---
-title: "St. Katarina's Smile"
+title: "St Katarina's Smile"
 titleIcon: "fa-solid fa-scroll"
 draft: false
 ---
 
-### St. Katarina's Smile
+### St Katarina's Smile
 
 _Advantage to one Fel test_
 

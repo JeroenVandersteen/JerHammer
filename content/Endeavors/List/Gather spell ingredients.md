@@ -6,7 +6,7 @@ draft: false
 
 ### Gather spell ingredients
 
-**Prerequisite:** [[Arcane Magick (Lore)]] talent
+**Prerequisite:** [Arcane Magick](<Talents/List/Arcane Magick>) talent
 
 _Gather spell ingredients_
 

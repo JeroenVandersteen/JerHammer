@@ -1,10 +1,10 @@
 ---
-title: "Blessing of St. Gotthard"
+title: "Blessing of St Gotthard"
 titleIcon: "fa-solid fa-scroll"
 draft: false
 ---
 
-### Blessing of St. Gotthard
+### Blessing of St Gotthard
 
 _Absorb one hit_
 

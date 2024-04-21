@@ -1,10 +1,10 @@
 ---
-title: "Courage of St. Olga"
+title: "Courage of St Olga"
 titleIcon: "fa-solid fa-scroll"
 draft: false
 ---
 
-### Courage of St. Olga
+### Courage of St Olga
 
 _Advantage to one WP test_
 

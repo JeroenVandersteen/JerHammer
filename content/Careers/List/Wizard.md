@@ -29,7 +29,7 @@ draft: false
 | Talents | Short Description |
 | --- | --- |
 | [Herbalism](<Talents/List/Herbalism>) (I) | Can gather herbs |
-| [Arcane Magick (Lore)](<Talents/List/Arcane Magick (Lore)>) | Can cast arcane Magick |
+| [Arcane Magick (Lore)](<Talents/List/Arcane Magick>) | Can cast arcane Magick |
 | [Counterspell](<Talents/List/Counterspell>) | May defend against spells |
 | [Second sight](<Talents/List/Second sight>) | Sense magick |
 | [Advanced education](<Talents/List/Advanced education>) | Advanced math, science, literature |

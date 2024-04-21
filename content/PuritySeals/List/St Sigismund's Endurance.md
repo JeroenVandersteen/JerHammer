@@ -1,10 +1,10 @@
 ---
-title: "St. Sigismund's Endurance"
+title: "St Sigismund's Endurance"
 titleIcon: "fa-solid fa-scroll"
 draft: false
 ---
 
-### St. Sigismund's Endurance
+### St Sigismund's Endurance
 
 _Ignore-remove one fatigue condition_
 
