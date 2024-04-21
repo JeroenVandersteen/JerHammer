@@ -1,0 +1,12 @@
+---
+title: "Defend mount"
+titleIcon: "fa-solid fa-hand-fist"
+draft: false
+---
+
+
+### Defend mount
+
+_Force to attack you instead of mount_
+
+When you are mounted, you can force an opponent to attack you instead of your mount.

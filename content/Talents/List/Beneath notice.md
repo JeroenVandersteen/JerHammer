@@ -1,0 +1,12 @@
+---
+title: "Beneath notice"
+titleIcon: "fa-solid fa-hand-fist"
+draft: false
+---
+
+
+### Beneath notice
+
+_People ignore you_
+
+When properly dressed for the context and not attracting attention, people ignore you and even forget you were ever there.
