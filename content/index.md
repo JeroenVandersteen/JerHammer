@@ -4,19 +4,23 @@ title: JerHammer RPG System
 
 Welcome to the homepage of the JerHammer RPG System for Grimdark roleplaying games.
 
-Browse all [[careers|careers]].
+Browse all [Careers](<Careers/_index.md>).
 
-Browse all [[content/Rules/Character/Talents/_index|_index]].
+Browse all [Conditions](<Conditions/_index.md>).
 
-Browse all [[conditions]].
+Browse all [Endeavors](<Endeavors/_index.md>).
 
-Browse all [[inventions]].
+Browse all [Inventions](<Inventions/_index.md>).
 
-Browse all [[runes]].
+Browse all [Purity Seals](<PuritySeals/_index.md>).
 
-Browse all [[endeavors]].
+Browse all [Runes](<Runes/_index.md>).
 
-Browse all [[purity_seals]].
+Browse all [Spells](<Spells/_index.md>).
+
+Browse all [Talents](<Talents/_index.md>).
+
+Browse all [Weapons](<Weapons/_index.md>).
 
 The objectives of this system are:
 - The game can be played both with miniatures on a map, or entirely with theatre-of-the-mind.
@@ -27,5 +31,5 @@ The objectives of this system are:
 - Allow a very quick and intuitive way of gauging the degree of success.
 - Achieve a better balance between starting characters and existing characters. Even starting characters must be able to contribute to a veteran group.
 
-The [[RulesSummary|summary]] page gives a quick overview of the rules.
+
 
