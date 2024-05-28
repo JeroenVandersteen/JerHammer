@@ -45,7 +45,7 @@ draft: false
 | Talents | Short Description |
 | --- | --- |
 | [Destroy armor](<Talents/List/Destroy armor>) | +1d6 dam to armor |
-| [Diehard](<Talents/List/Diehard>) | +1 HP |
+| [Diehard](<Talents/List/Diehard>) | +3 HP |
 | [Iron Jaw](<Talents/List/Iron Jaw>) | Ignore 1 stun condition |
 | [Stunning strike](<Talents/List/Stunning strike>) | 1 fortune to add stun to damage |
 | [Crafting](<Talents/List/Crafting>) (I) | Craft items (50% price) |

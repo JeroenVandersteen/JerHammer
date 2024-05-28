@@ -20,7 +20,7 @@ draft: false
 | [Brewing](<Talents/List/Brewing>) (I) | Can brew potions |
 | [Herbalism](<Talents/List/Herbalism>) (I) | Can gather herbs |
 | [Poisoner](<Talents/List/Poisoner>) (I) | Can create poisons |
-| [Petty Magick](<Talents/List/Petty Magick>) | Can cast petty spells |
+| [Arcane Magick I](<Talents/List/Arcane Magick I>) | Can cast level 1 arcane spells, all lores |
 | [Second sight](<Talents/List/Second sight>) | Sense magick |
 | [Animal affinity](<Talents/List/Animal affinity>) | Animals do simple things |
 | [Cauterize](<Talents/List/Cauterize>) | Turn bleeding into wounds |
@@ -36,7 +36,7 @@ draft: false
 | [Brewing](<Talents/List/Brewing>) (II) | Can brew potions |
 | [Herbalism](<Talents/List/Herbalism>) (II) | Can gather herbs |
 | [Poisoner](<Talents/List/Poisoner>) (II) | Can create poisons |
-| [Arcane Magick (Lore)](<Talents/List/Arcane Magick>) | Can cast arcane Magick |
+| [Arcane Magick II](<Talents/List/Arcane Magick II>) | Can cast level 2 arcane spells, half lores |
 | [Iron stomach](<Talents/List/Iron stomach>) | Advantage vs ingested poisons/diseases |
 | [Liar](<Talents/List/Liar>) | Advantage when lying |
 | [Lore](<Talents/List/Lore>) (Local) | Deep knowledge on subject |
@@ -50,6 +50,7 @@ draft: false
 | [Brewing](<Talents/List/Brewing>) (III) | Can brew potions |
 | [Herbalism](<Talents/List/Herbalism>) (III) | Can gather herbs |
 | [Poisoner](<Talents/List/Poisoner>) (III) | Can create poisons |
+| [Arcane Magick III](<Talents/List/Arcane Magick III>) | Can cast level 3 arcane spells, quadrant lores |
 | [Counterspell](<Talents/List/Counterspell>) | May defend against spells |
 | [Dissipate channeling](<Talents/List/Dissipate channeling>) | May build down channeling |
 | [Hidden spell](<Talents/List/Hidden spell>) | No sound/gestures on one spell |
@@ -71,6 +72,7 @@ draft: false
 | [Brewing](<Talents/List/Brewing>) (IV) | Can brew potions |
 | [Herbalism](<Talents/List/Herbalism>) (IV) | Can gather herbs |
 | [Poisoner](<Talents/List/Poisoner>) (IV) | Can create poisons |
+| [Arcane Magick IV](<Talents/List/Arcane Magick IV>) | Can cast level 4 arcane spells, 1 lore |
 | [Camouflage](<Talents/List/Camouflage>) | May hide a group of characters |
 | [Surgeon](<Talents/List/Surgeon>) | Medicine test and 1 hour to heal 1 HP/day |
 | [Track](<Talents/List/Track>) | Can track |

@@ -58,7 +58,7 @@ draft: false
 | --- | --- |
 | [Armbreaker](<Talents/List/Armbreaker>) | Opposed S test to break arm |
 | [Brutal strike](<Talents/List/Brutal strike>) | Add S to dam, opponent gains advantage to hit |
-| [Diehard](<Talents/List/Diehard>) | +1 HP |
+| [Diehard](<Talents/List/Diehard>) | +3 HP |
 | [Iron Jaw](<Talents/List/Iron Jaw>) | Ignore 1 stun condition |
 | [Alley cat](<Talents/List/Alley cat>) | Advantage on stealth in urban |
 | [Courage](<Talents/List/Courage>) | Advantage to resist fear/torture |

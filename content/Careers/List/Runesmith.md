@@ -48,7 +48,7 @@ draft: false
 | Talents | Short Description |
 | --- | --- |
 | [Bypass armor](<Talents/List/Bypass armor>) | 1 fortune to ignore impact reduction |
-| [Diehard](<Talents/List/Diehard>) | +1 HP |
+| [Diehard](<Talents/List/Diehard>) | +3 HP |
 | [Untiring](<Talents/List/Untiring>) | Ignore 1 fatigue condition |
 | [Crafting](<Talents/List/Crafting>) (II) | Craft items (50% price) |
 | [Inventor](<Talents/List/Inventor>) (I) | Make item modifications |

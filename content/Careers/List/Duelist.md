@@ -57,7 +57,7 @@ draft: false
 | Talents | Short Description |
 | --- | --- |
 | [Armor piercing](<Talents/List/Armor piercing>) | 1 fortune to ignore armor points |
-| [Diehard](<Talents/List/Diehard>) | +1 HP |
+| [Diehard](<Talents/List/Diehard>) | +3 HP |
 | [Lucky](<Talents/List/Lucky>) | Recover 1 extra fortune |
 | [Courage](<Talents/List/Courage>) | Advantage to resist fear/torture |
 | [Fast movement](<Talents/List/Fast movement>) | Movement +1 (+10m outdoors, +5m indoors) |

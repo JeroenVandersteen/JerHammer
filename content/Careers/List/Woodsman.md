@@ -32,7 +32,7 @@ draft: false
 
 | Talents | Short Description |
 | --- | --- |
-| [Diehard](<Talents/List/Diehard>) | +1 HP |
+| [Diehard](<Talents/List/Diehard>) | +3 HP |
 | [Knockout strike](<Talents/List/Knockout strike>) | Advantage to dam with impact weapons |
 | [Robust](<Talents/List/Robust>) | +1 impact reduction |
 | [Terrain master](<Talents/List/Terrain master>) | Create cover, (dis)advantageous/difficult terrain |

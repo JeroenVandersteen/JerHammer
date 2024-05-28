@@ -17,7 +17,7 @@ draft: false
 
 | Talents | Short Description |
 | --- | --- |
-| [Petty Magick](<Talents/List/Petty Magick>) | Can cast petty spells |
+| [Arcane Magick I](<Talents/List/Arcane Magick I>) | Can cast level 1 arcane spells, all lores |
 | [Lore](<Talents/List/Lore>) (Magick) | Deep knowledge on subject |
 | [Read and write](<Talents/List/Read and write>) | Can read and write |
 | [Secret identity](<Talents/List/Secret identity>) | Have a secret identity/life |
@@ -29,7 +29,7 @@ draft: false
 | Talents | Short Description |
 | --- | --- |
 | [Herbalism](<Talents/List/Herbalism>) (I) | Can gather herbs |
-| [Arcane Magick (Lore)](<Talents/List/Arcane Magick>) | Can cast arcane Magick |
+| [Arcane Magick II](<Talents/List/Arcane Magick II>) | Can cast level 2 arcane spells, half lores |
 | [Counterspell](<Talents/List/Counterspell>) | May defend against spells |
 | [Second sight](<Talents/List/Second sight>) | Sense magick |
 | [Advanced education](<Talents/List/Advanced education>) | Advanced math, science, literature |
@@ -42,6 +42,7 @@ draft: false
 | [Brewing](<Talents/List/Brewing>) (I) | Can brew potions |
 | [Herbalism](<Talents/List/Herbalism>) (II) | Can gather herbs |
 | [Aetheric attunement](<Talents/List/Aetheric attunement>) | Reduce miscast tally by WP after miscast |
+| [Arcane Magick III](<Talents/List/Arcane Magick III>) | Can cast level 3 arcane spells, quadrant lores |
 | [Dissipate channeling](<Talents/List/Dissipate channeling>) | May build down channeling |
 | [Distant spell](<Talents/List/Distant spell>) | Increase spell range, CN+2 |
 | [Empower spell](<Talents/List/Empower spell>) | Reroll damage, CN+2 |
@@ -60,6 +61,7 @@ draft: false
 | --- | --- |
 | [Brewing](<Talents/List/Brewing>) (II) | Can brew potions |
 | [Herbalism](<Talents/List/Herbalism>) (III) | Can gather herbs |
+| [Arcane Magick IV](<Talents/List/Arcane Magick IV>) | Can cast level 4 arcane spells, 1 lore |
 | [Battle wizard](<Talents/List/Battle wizard>) | Armor pen. 1 less; no miscast disadv in melee |
 | [Lore](<Talents/List/Lore>) (Any) | Deep knowledge on subject |
 

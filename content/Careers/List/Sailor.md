@@ -49,7 +49,7 @@ draft: false
 | Talents | Short Description |
 | --- | --- |
 | [Armbreaker](<Talents/List/Armbreaker>) | Opposed S test to break arm |
-| [Diehard](<Talents/List/Diehard>) | +1 HP |
+| [Diehard](<Talents/List/Diehard>) | +3 HP |
 | [Knockout strike](<Talents/List/Knockout strike>) | Advantage to dam with impact weapons |
 | [Push away](<Talents/List/Push away>) | Push when hitting with impact weapon |
 | [Untiring](<Talents/List/Untiring>) | Ignore 1 fatigue condition |

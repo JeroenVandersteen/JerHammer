@@ -35,7 +35,7 @@ draft: false
 | [Defend mount](<Talents/List/Defend mount>) |  |  | Force to attack you instead of mount |
 | [Dervish attack](<Talents/List/Dervish attack>) |  | Roundhouse attack | Deal full dam on all that are hit |
 | [Destroy armor](<Talents/List/Destroy armor>) |  |  | +1d6 dam to armor |
-| [Diehard](<Talents/List/Diehard>) | T |  | +1 HP |
+| [Diehard](<Talents/List/Diehard>) | T |  | +3 HP |
 | [Disarming strike](<Talents/List/Disarming strike>) |  |  | Opposed test to disarm |
 | [Drilled](<Talents/List/Drilled>) |  |  | Dam +1 when next to ally |
 | [Drunken fighter](<Talents/List/Drunken fighter>) |  |  | Opponents gain disadvantage |
@@ -131,7 +131,10 @@ draft: false
 | Talent | Max | Prereq | Short Description |
 | :--- | --- | :--- | :--- |
 | [Aetheric attunement](<Talents/List/Aetheric attunement>) |  | Career | Reduce miscast tally by WP after miscast |
-| [Arcane Magick (Lore)](<Talents/List/Arcane Magick>) |  | Career | Can cast arcane Magick |
+| [Arcane Magick I](<Talents/List/Arcane Magick I>) |  | Career | Can cast level 1 arcane spells, all lores |
+| [Arcane Magick II](<Talents/List/Arcane Magick II>) |  | Arcane Magick I | Can cast level 2 arcane spells, half lores |
+| [Arcane Magick III](<Talents/List/Arcane Magick III>) |  | Arcane Magick II | Can cast level 3 arcane spells, quadrant lores |
+| [Arcane Magick IV](<Talents/List/Arcane Magick IV>) |  | Arcane Magick III | Can cast level 4 arcane spells, 1 lore |
 | [Battle wizard](<Talents/List/Battle wizard>) | WP | Career | Armor pen. 1 less; no miscast disadv in melee |
 | [Blood Magick](<Talents/List/Blood Magick>) | WP |  | Take HP-1 for CN-1 |
 | [Counterspell](<Talents/List/Counterspell>) |  | Career | May defend against spells |
@@ -142,7 +145,6 @@ draft: false
 | [Hidden spell](<Talents/List/Hidden spell>) | Int | Career | No sound/gestures on one spell |
 | [Lasting spell](<Talents/List/Lasting spell>) |  | Career | Double duration, CN+2 |
 | [Magick resistance](<Talents/List/Magick resistance>) | WP, 3 | Career | Gain +1 Magick DC |
-| [Petty Magick](<Talents/List/Petty Magick>) |  | Career | Can cast petty spells |
 | [Quick casting](<Talents/List/Quick casting>) |  | Career | Cast 2 spells, each CN+2 |
 | [Reflect spell](<Talents/List/Reflect spell>) |  | Counterspell | May reflect spell back to caster |
 | [Second sight](<Talents/List/Second sight>) |  | Career | Sense magick |

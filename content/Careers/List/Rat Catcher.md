@@ -31,7 +31,7 @@ draft: false
 
 | Talents | Short Description |
 | --- | --- |
-| [Diehard](<Talents/List/Diehard>) | +1 HP |
+| [Diehard](<Talents/List/Diehard>) | +3 HP |
 | [Entangling strike](<Talents/List/Entangling strike>) | Entangle when hitting |
 | [Poisoner](<Talents/List/Poisoner>) (II) | Can create poisons |
 | [Animal training](<Talents/List/Animal training>) | Can train animals |

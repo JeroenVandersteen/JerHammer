@@ -49,7 +49,7 @@ draft: false
 | --- | --- |
 | [Armbreaker](<Talents/List/Armbreaker>) | Opposed S test to break arm |
 | [Cleave](<Talents/List/Cleave>) | Deal leftover dam to next opponent |
-| [Diehard](<Talents/List/Diehard>) | +1 HP |
+| [Diehard](<Talents/List/Diehard>) | +3 HP |
 | [Furious assault](<Talents/List/Furious assault>) | 1 fortune to make extra attack at disadvantage |
 | [Roundhouse attack](<Talents/List/Roundhouse attack>) | Divide dam on all that are hit |
 | [Taunt](<Talents/List/Taunt>) | Opposed test to force to attack you |
