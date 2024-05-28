@@ -8,7 +8,7 @@ draft: false
 
 | Illusionary sounds |
 | :--- |
-| **Lore:** Petty Magic |
+| **Lore:** Mind |
 | **CN:** 0 |
 | **Type:** Utility |
 | **Duration:** rounds |

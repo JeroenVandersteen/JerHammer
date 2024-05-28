@@ -8,12 +8,12 @@ draft: false
 
 | Shadow shroud |
 | :--- |
-| **Lore:** Lore Of Shadows |
-| **CN:** 6 |
+| **Lore:** Darkness |
+| **CN:** 3 |
 | **Type:** Utility |
 | **Duration:** minutes |
 | **Range:** Touch |
 | **Resist:** Spell TN |
-| **Effect:** Target becomes dark as a shadow, advantage to hide |
+| **Effect:** Target becomes dark as a shadow, advantage to hide, disadvantage to be hit |
 
  

@@ -10,7 +10,7 @@ _Igniting the blood within a target's veins, causing excruciating pain and poten
 
 | Boiling blood |
 | :--- |
-| **Lore:** Lore Of Fire |
+| **Lore:** Heart |
 | **CN:** 6 |
 | **Type:** Combat |
 | **Duration:** rounds |

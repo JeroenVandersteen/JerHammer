@@ -8,7 +8,7 @@ draft: false
 
 | Barkskin |
 | :--- |
-| **Lore:** Lore Of Life |
+| **Lore:** Terrestrial Elements |
 | **CN:** 6 |
 | **Type:** Enchantment |
 | **Duration:** rounds |

@@ -8,7 +8,7 @@ draft: false
 
 | Flock of doom |
 | :--- |
-| **Lore:** Lore Of Beasts |
+| **Lore:** Life |
 | **CN:** 6 |
 | **Type:** Summon |
 | **Duration:** rounds |

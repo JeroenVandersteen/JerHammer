@@ -8,7 +8,7 @@ draft: false
 
 | Small Flame |
 | :--- |
-| **Lore:** Petty Magic |
+| **Lore:** Heavenly Elements |
 | **CN:** 0 |
 | **Type:** Utility |
 | **Duration:** rounds |

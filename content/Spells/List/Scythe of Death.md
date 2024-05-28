@@ -8,7 +8,7 @@ draft: false
 
 | Scythe of Death |
 | :--- |
-| **Lore:** Lore Of Death |
+| **Lore:** Death |
 | **CN:** 3 |
 | **Type:** Combat |
 | **Duration:** rounds |

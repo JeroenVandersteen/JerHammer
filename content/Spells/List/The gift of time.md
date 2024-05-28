@@ -8,7 +8,7 @@ draft: false
 
 | The gift of time |
 | :--- |
-| **Lore:** Lore Of Light |
+| **Lore:** Light |
 | **CN:** 9 |
 | **Type:** Enchantment |
 | **Duration:** instant |

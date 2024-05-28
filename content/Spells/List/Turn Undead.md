@@ -8,7 +8,7 @@ draft: false
 
 | Turn Undead |
 | :--- |
-| **Lore:** Lore Of Death |
+| **Lore:** Death |
 | **CN:** 6 |
 | **Type:** Hex |
 | **Duration:** rounds |

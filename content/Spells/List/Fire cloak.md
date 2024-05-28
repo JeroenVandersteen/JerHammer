@@ -10,8 +10,8 @@ _Enveloping oneself in flames as a protective barrier, warding off assailants wi
 
 | Fire cloak |
 | :--- |
-| **Lore:** Lore Of Fire |
-| **CN:** 3 |
+| **Lore:** Heavenly Elements |
+| **CN:** 6 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Self |

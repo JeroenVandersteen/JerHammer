@@ -8,7 +8,7 @@ draft: false
 
 | Darkness |
 | :--- |
-| **Lore:** Lore Of Shadows |
+| **Lore:** Darkness |
 | **CN:** 6 |
 | **Type:** Utility |
 | **Duration:** minutes |

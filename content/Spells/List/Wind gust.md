@@ -8,7 +8,7 @@ draft: false
 
 | Wind gust |
 | :--- |
-| **Lore:** Petty Magic |
+| **Lore:** Heavenly Elements |
 | **CN:** 0 |
 | **Type:** Utility |
 | **Duration:** instant |

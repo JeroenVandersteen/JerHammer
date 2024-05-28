@@ -8,7 +8,7 @@ draft: false
 
 | Mystic mirror |
 | :--- |
-| **Lore:** Lore Of Heavens |
+| **Lore:** Darkness |
 | **CN:** 6 |
 | **Type:** Utility |
 | **Duration:** rounds |

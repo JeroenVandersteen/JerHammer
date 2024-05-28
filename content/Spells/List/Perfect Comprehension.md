@@ -8,7 +8,7 @@ draft: false
 
 | Perfect Comprehension |
 | :--- |
-| **Lore:** Lore Of Light |
+| **Lore:** Mind |
 | **CN:** 3 |
 | **Type:** Enchantment |
 | **Duration:** minutes |

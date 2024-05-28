@@ -10,7 +10,7 @@ _With whispered incantations, the blade awakens, humming with newfound strength 
 
 | Enchant Weapon |
 | :--- |
-| **Lore:** Lore Of Metal |
+| **Lore:** Light |
 | **CN:** 3 |
 | **Type:** Enchantment |
 | **Duration:** rounds |

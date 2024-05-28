@@ -8,8 +8,8 @@ draft: false
 
 | Fireflies |
 | :--- |
-| **Lore:** Petty Magic |
-| **CN:** 0 |
+| **Lore:** Life |
+| **CN:** -3 |
 | **Type:** Utility |
 | **Duration:** minutes |
 | **Range:** Short |

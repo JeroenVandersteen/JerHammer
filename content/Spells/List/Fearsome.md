@@ -10,7 +10,7 @@ _In the depths of the mind's darkest fears, shadows coil and whisper, sowing see
 
 | Fearsome |
 | :--- |
-| **Lore:** Arcane Magic |
+| **Lore:** Heart |
 | **CN:** 3 |
 | **Type:** Combat |
 | **Duration:** rounds |

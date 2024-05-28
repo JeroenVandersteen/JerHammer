@@ -8,7 +8,7 @@ draft: false
 
 | Nature's spear |
 | :--- |
-| **Lore:** Lore Of Beasts |
+| **Lore:** Terrestrial Elements |
 | **CN:** 6 |
 | **Type:** Combat |
 | **Duration:** instant |

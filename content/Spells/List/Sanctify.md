@@ -8,7 +8,7 @@ draft: false
 
 | Sanctify |
 | :--- |
-| **Lore:** Lore Of Death |
+| **Lore:** Light |
 | **CN:** 6 |
 | **Type:** Enchantment |
 | **Duration:** minutes |

@@ -8,7 +8,7 @@ draft: false
 
 | Light |
 | :--- |
-| **Lore:** Petty Magic |
+| **Lore:** Light |
 | **CN:** 0 |
 | **Type:** Utility |
 | **Duration:** minutes |

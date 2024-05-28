@@ -8,7 +8,7 @@ draft: false
 
 | Purify Water |
 | :--- |
-| **Lore:** Petty Magic |
+| **Lore:** Light |
 | **CN:** 0 |
 | **Type:** Utility |
 | **Duration:** instant |

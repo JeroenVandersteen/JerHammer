@@ -10,7 +10,7 @@ _In a dance of light and shadow, wooden arrows meet an unseen barrier, falling h
 
 | Arrow Shield |
 | :--- |
-| **Lore:** Arcane Magic |
+| **Lore:** Heavenly Elements |
 | **CN:** 3 |
 | **Type:** Enchantment |
 | **Duration:** rounds |

@@ -10,7 +10,7 @@ _In the realm where dreams and reality intertwine, a bridge of shimmering light 
 
 | Create bridge |
 | :--- |
-| **Lore:** Arcane Magic |
+| **Lore:** Terrestrial Elements |
 | **CN:** 3 |
 | **Type:** Utility |
 | **Duration:** rounds |

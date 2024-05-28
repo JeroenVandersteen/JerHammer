@@ -8,8 +8,8 @@ draft: false
 
 | Shadowsteed |
 | :--- |
-| **Lore:** Lore Of Shadows |
-| **CN:** 6 |
+| **Lore:** Darkness |
+| **CN:** 3 |
 | **Type:** Utility |
 | **Duration:** hours |
 | **Range:** Self |

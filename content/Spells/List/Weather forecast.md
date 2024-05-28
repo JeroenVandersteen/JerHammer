@@ -8,11 +8,11 @@ draft: false
 
 | Weather forecast |
 | :--- |
-| **Lore:** Lore Of Life |
-| **CN:** 0 |
+| **Lore:** Light |
+| **CN:** 3 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Self |
-| **Effect:** May predict weather |
+| **Effect:** May predict weather Emy: maybe influence weather? ritual? JV: perk |
 
  

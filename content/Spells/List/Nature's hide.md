@@ -8,7 +8,7 @@ draft: false
 
 | Nature's hide |
 | :--- |
-| **Lore:** Lore Of Beasts |
+| **Lore:** Life |
 | **CN:** 3 |
 | **Type:** Enchantment |
 | **Duration:** rounds |

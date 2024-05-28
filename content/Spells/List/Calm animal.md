@@ -8,13 +8,13 @@ draft: false
 
 | Calm animal |
 | :--- |
-| **Lore:** Lore Of Beasts |
+| **Lore:** Heart |
 | **CN:** 3 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Self |
 | **Target:** 1 |
 | **Resist:** Spell TN |
-| **Effect:** One animal calms down and becomes friendly |
+| **Effect:** One animal (or bestial monster-GM discretion) calms down and becomes friendly |
 
  

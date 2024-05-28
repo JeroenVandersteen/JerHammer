@@ -8,7 +8,7 @@ draft: false
 
 | Evesdrop |
 | :--- |
-| **Lore:** Petty Magic |
+| **Lore:** Heart |
 | **CN:** 0 |
 | **Type:** Utility |
 | **Duration:** rounds |

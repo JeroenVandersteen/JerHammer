@@ -8,7 +8,7 @@ draft: false
 
 | Lightning storm |
 | :--- |
-| **Lore:** Lore Of Heavens |
+| **Lore:** Heavenly Elements |
 | **CN:** 9 |
 | **Type:** Combat |
 | **Duration:** instant |

@@ -8,7 +8,7 @@ draft: false
 
 | Blinding Light |
 | :--- |
-| **Lore:** Lore Of Light |
+| **Lore:** Light |
 | **CN:** 3 |
 | **Type:** Combat |
 | **Duration:** instant |

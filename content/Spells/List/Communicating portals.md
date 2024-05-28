@@ -8,11 +8,11 @@ draft: false
 
 | Communicating portals |
 | :--- |
-| **Lore:** Lore Of Heavens |
-| **CN:** 6 |
+| **Lore:** Darkness |
+| **CN:** 9 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |
-| **Effect:** Create 2 portals, WPx10 meters apart: moving through come out other portal |
+| **Effect:** Create 2 portals, WPx10 meters apart: moving through from one to other portal |
 
  

@@ -8,7 +8,7 @@ draft: false
 
 | Awakening of the Woods |
 | :--- |
-| **Lore:** Lore Of Beasts |
+| **Lore:** Terrestrial Elements |
 | **CN:** 9 |
 | **Type:** Combat |
 | **Duration:** rounds |

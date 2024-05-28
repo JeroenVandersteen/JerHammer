@@ -10,7 +10,7 @@ _With a primal roar, the mage unleashes a shockwave of force, sending adversarie
 
 | Push |
 | :--- |
-| **Lore:** Arcane Magic |
+| **Lore:** Heavenly Elements |
 | **CN:** 3 |
 | **Type:** Combat |
 | **Duration:** instant |

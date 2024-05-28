@@ -8,7 +8,7 @@ draft: false
 
 | Drop |
 | :--- |
-| **Lore:** Petty Magic |
+| **Lore:** Death |
 | **CN:** 0 |
 | **Type:** Utility |
 | **Duration:** instant |

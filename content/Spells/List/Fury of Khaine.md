@@ -10,7 +10,7 @@ _With a whispered prayer to the god of war, the target is suffused with divine w
 
 | Fury of Khaine |
 | :--- |
-| **Lore:** Arcane Magic |
+| **Lore:** Heart |
 | **CN:** 3 |
 | **Type:** Enchantment |
 | **Duration:** rounds |

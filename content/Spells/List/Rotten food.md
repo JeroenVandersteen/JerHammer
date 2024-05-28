@@ -8,7 +8,7 @@ draft: false
 
 | Rotten food |
 | :--- |
-| **Lore:** Petty Magic |
+| **Lore:** Death |
 | **CN:** 0 |
 | **Type:** Utility |
 | **Duration:** instant |

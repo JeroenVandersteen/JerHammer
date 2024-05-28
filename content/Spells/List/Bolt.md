@@ -6,11 +6,11 @@ draft: false
 
 ### Bolt
 
-_Like lightning from the heavens, a bolt of raw magic streaks forth, seeking its mark with unerring precision, bringing destruction in its wake_
+_The caster conjures a bolt of fire and hurls it at their opponent. For flavor, this may be changed to a bolt of lightning, ice, stone, dead birds, or whatever is stuiable for the character concept._
 
 | Bolt |
 | :--- |
-| **Lore:** Arcane Magic |
+| **Lore:** Heavenly Elements |
 | **CN:** 3 |
 | **Type:** Combat |
 | **Duration:** instant |

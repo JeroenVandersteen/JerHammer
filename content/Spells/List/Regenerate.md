@@ -8,7 +8,7 @@ draft: false
 
 | Regenerate |
 | :--- |
-| **Lore:** Lore Of Life |
+| **Lore:** Life |
 | **CN:** 3 |
 | **Type:** Healing |
 | **Duration:** rounds |

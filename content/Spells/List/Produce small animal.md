@@ -8,11 +8,11 @@ draft: false
 
 | Produce small animal |
 | :--- |
-| **Lore:** Petty Magic |
+| **Lore:** Life |
 | **CN:** 0 |
 | **Type:** Summon |
 | **Duration:** instant |
 | **Range:** Self |
-| **Effect:** Take small animal from pocket |
+| **Effect:** Take small animal from pocket and befriend the animal |
 
  

@@ -8,11 +8,11 @@ draft: false
 
 | Animal friendship |
 | :--- |
-| **Lore:** Petty Magic |
-| **CN:** 0 |
+| **Lore:** Mind |
+| **CN:** -3 |
 | **Type:** Utility |
 | **Duration:** hours |
 | **Range:** Short |
-| **Effect:** Small animal becomes friend |
+| **Effect:** Small animal becomes friend - merged with produce small animal |
 
  

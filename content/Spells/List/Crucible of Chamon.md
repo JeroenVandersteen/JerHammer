@@ -10,7 +10,7 @@ _Through the crucible's embrace, all that once stood solid yields to molten pote
 
 | Crucible of Chamon |
 | :--- |
-| **Lore:** Lore Of Metal |
+| **Lore:** Terrestrial Elements |
 | **CN:** 6 |
 | **Type:** Hex |
 | **Duration:** instant |

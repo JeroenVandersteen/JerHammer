@@ -8,7 +8,7 @@ draft: false
 
 | Shadow Warrior |
 | :--- |
-| **Lore:** Lore Of Shadows |
+| **Lore:** Darkness |
 | **CN:** 6 |
 | **Type:** Summon |
 | **Duration:** rounds |

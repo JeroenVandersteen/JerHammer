@@ -8,7 +8,7 @@ draft: false
 
 | Guardian hounds |
 | :--- |
-| **Lore:** Lore Of Death |
+| **Lore:** Death |
 | **CN:** 6 |
 | **Type:** Summon |
 | **Duration:** rounds |

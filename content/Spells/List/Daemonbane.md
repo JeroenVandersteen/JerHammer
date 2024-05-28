@@ -8,7 +8,7 @@ draft: false
 
 | Daemonbane |
 | :--- |
-| **Lore:** Lore Of Light |
+| **Lore:** Light |
 | **CN:** 9 |
 | **Type:** Combat |
 | **Duration:** instant |

@@ -8,7 +8,7 @@ draft: false
 
 | Dazzle |
 | :--- |
-| **Lore:** Petty Magic |
+| **Lore:** Mind |
 | **CN:** 0 |
 | **Type:** Combat |
 | **Duration:** instant |

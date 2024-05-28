@@ -8,7 +8,7 @@ draft: false
 
 | Growth |
 | :--- |
-| **Lore:** Lore Of Life |
+| **Lore:** Life |
 | **CN:** 3 |
 | **Type:** Utility |
 | **Duration:** rounds |

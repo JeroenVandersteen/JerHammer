@@ -8,7 +8,7 @@ draft: false
 
 | Geyser |
 | :--- |
-| **Lore:** Lore Of Life |
+| **Lore:** Terrestrial Elements |
 | **CN:** 9 |
 | **Type:** Combat |
 | **Duration:** instant |

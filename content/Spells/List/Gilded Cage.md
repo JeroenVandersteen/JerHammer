@@ -10,7 +10,7 @@ _Trapped within the gilded embrace, freedom fades to memory, as the cage of meta
 
 | Gilded Cage |
 | :--- |
-| **Lore:** Lore Of Metal |
+| **Lore:** Terrestrial Elements |
 | **CN:** 6 |
 | **Type:** Hex |
 | **Duration:** hours |

@@ -8,7 +8,7 @@ draft: false
 
 | Winter pelt |
 | :--- |
-| **Lore:** Lore Of Beasts |
+| **Lore:** Life |
 | **CN:** 0 |
 | **Type:** Enchantment |
 | **Duration:** hours |

@@ -119,10 +119,10 @@ draft: false
 
  Weapon | Price | Damage | Type | To hit | Parry | Qualities | Range |
  :--- | :--- | --- | --- | --- | --- | :--- | :--- |
-| [Buckler](<Weapons/List/Buckler>) | 1ss 2d |  | - |  | 1 |  |  |
-| [Small shield](<Weapons/List/Small shield>) | 1ss 4d |  | - |  | 1 |  |  |
-| [Medium shield](<Weapons/List/Medium shield>) | 2ss 8d |  | - |  | 2 |  |  |
-| [Tower shield (2H)](<Weapons/List/Tower shield>) | 4ss |  | - |  | 3 |  |  |
+| [Buckler](<Weapons/List/Buckler>) | 1ss 2d | S | Impact |  | 1 |  |  |
+| [Small shield](<Weapons/List/Small shield>) | 1ss 4d | S | Impact |  | 1 |  |  |
+| [Medium shield](<Weapons/List/Medium shield>) | 2ss 8d | S | Impact |  | 2 |  |  |
+| [Tower shield (2H)](<Weapons/List/Tower shield>) | 4ss | S | Impact |  | 3 |  |  |
 
 
  Weapon | Price | Damage | Type | To hit | Parry | Qualities | Range |

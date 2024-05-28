@@ -8,8 +8,8 @@ draft: false
 
 | Dark Vision |
 | :--- |
-| **Lore:** Petty Magic |
-| **CN:** 0 |
+| **Lore:** Darkness |
+| **CN:** 3 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Self |

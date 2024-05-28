@@ -8,7 +8,7 @@ draft: false
 
 | Projected whisper |
 | :--- |
-| **Lore:** Petty Magic |
+| **Lore:** Darkness |
 | **CN:** 0 |
 | **Type:** Utility |
 | **Duration:** rounds |

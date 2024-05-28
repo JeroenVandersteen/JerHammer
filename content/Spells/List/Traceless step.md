@@ -8,8 +8,8 @@ draft: false
 
 | Traceless step |
 | :--- |
-| **Lore:** Petty Magic |
-| **CN:** 0 |
+| **Lore:** Terrestrial Elements |
+| **CN:** -3 |
 | **Type:** Utility |
 | **Duration:** hours |
 | **Range:** Self |

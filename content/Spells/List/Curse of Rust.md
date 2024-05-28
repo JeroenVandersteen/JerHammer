@@ -10,12 +10,12 @@ _Time's corrosive touch, whispered by the curse of rust, reduces even the sturdi
 
 | Curse of Rust |
 | :--- |
-| **Lore:** Lore Of Metal |
+| **Lore:** Terrestrial Elements |
 | **CN:** 3 |
 | **Type:** Hex |
 | **Duration:** instant |
 | **Range:** Short |
 | **Target:** 1 |
-| **Effect:** 1 item rusts and becomes useless |
+| **Effect:** 1 item rusts and becomes useless, AP are halved, weapons -1d6 dam and unreliable |
 
  Causes one metal item to rust and become useless.

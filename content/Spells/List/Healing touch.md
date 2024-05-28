@@ -8,7 +8,7 @@ draft: false
 
 | Healing touch |
 | :--- |
-| **Lore:** Lore Of Life |
+| **Lore:** Life |
 | **CN:** 6 |
 | **Type:** Healing |
 | **Duration:** instant |

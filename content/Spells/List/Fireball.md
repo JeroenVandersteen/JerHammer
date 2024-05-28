@@ -10,7 +10,7 @@ _A fiery sphere hurtling through the air, exploding on impact, engulfing all in 
 
 | Fireball |
 | :--- |
-| **Lore:** Lore Of Fire |
+| **Lore:** Heavenly Elements |
 | **CN:** 9 |
 | **Type:** Combat |
 | **Duration:** instant |

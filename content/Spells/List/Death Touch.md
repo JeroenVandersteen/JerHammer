@@ -8,7 +8,7 @@ draft: false
 
 | Death Touch |
 | :--- |
-| **Lore:** Lore Of Death |
+| **Lore:** Death |
 | **CN:** 6 |
 | **Type:** Combat |
 | **Duration:** instant |

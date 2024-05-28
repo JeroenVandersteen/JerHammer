@@ -8,7 +8,7 @@ draft: false
 
 | Speak with beasts |
 | :--- |
-| **Lore:** Lore Of Beasts |
+| **Lore:** Life |
 | **CN:** 6 |
 | **Type:** Enchantment |
 | **Duration:** minutes |

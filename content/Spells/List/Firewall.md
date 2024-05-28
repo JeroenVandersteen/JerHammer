@@ -10,7 +10,7 @@ _Conjuring a barrier of roaring flames, obstructing passage and repelling foes w
 
 | Firewall |
 | :--- |
-| **Lore:** Lore Of Fire |
+| **Lore:** Heavenly Elements |
 | **CN:** 6 |
 | **Type:** Combat |
 | **Duration:** rounds |

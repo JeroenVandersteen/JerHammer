@@ -8,7 +8,7 @@ draft: false
 
 | Choking shadows |
 | :--- |
-| **Lore:** Lore Of Shadows |
+| **Lore:** Darkness |
 | **CN:** 3 |
 | **Type:** Combat |
 | **Duration:** rounds |

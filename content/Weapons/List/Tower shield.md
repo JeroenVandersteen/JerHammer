@@ -7,7 +7,7 @@ draft: false
 ### Tower shield (2H)
 
 **Price**: 4ss
-**Damage**:  -
+**Damage**: S Impact
 **To hit bonus**: 
 **Parry bonus**: 3
 **Qualities**: 

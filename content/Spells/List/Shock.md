@@ -8,8 +8,8 @@ draft: false
 
 | Shock |
 | :--- |
-| **Lore:** Petty Magic |
-| **CN:** 0 |
+| **Lore:** Heart |
+| **CN:** 3 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Touch |

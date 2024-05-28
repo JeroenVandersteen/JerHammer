@@ -10,7 +10,7 @@ _Purifying through flames, consuming impurities and leaving behind only ash in i
 
 | Cleanse by Fire |
 | :--- |
-| **Lore:** Lore Of Fire |
+| **Lore:** Heavenly Elements |
 | **CN:** 6 |
 | **Type:** Utility |
 | **Duration:** instant |

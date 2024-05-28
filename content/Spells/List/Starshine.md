@@ -8,7 +8,7 @@ draft: false
 
 | Starshine |
 | :--- |
-| **Lore:** Lore Of Heavens |
+| **Lore:** Light |
 | **CN:** 6 |
 | **Type:** Utility |
 | **Duration:** minutes |

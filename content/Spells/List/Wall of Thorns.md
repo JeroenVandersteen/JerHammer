@@ -8,7 +8,7 @@ draft: false
 
 | Wall of Thorns |
 | :--- |
-| **Lore:** Lore Of Life |
+| **Lore:** Life |
 | **CN:** 6 |
 | **Type:** Combat |
 | **Duration:** rounds |

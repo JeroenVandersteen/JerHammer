@@ -8,8 +8,8 @@ draft: false
 
 | Pierce the Veil |
 | :--- |
-| **Lore:** Lore Of Light |
-| **CN:** 3 |
+| **Lore:** Light |
+| **CN:** -3 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Self |

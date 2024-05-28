@@ -7,7 +7,7 @@ draft: false
 ### Medium shield
 
 **Price**: 2ss 8d
-**Damage**:  -
+**Damage**: S Impact
 **To hit bonus**: 
 **Parry bonus**: 2
 **Qualities**: 

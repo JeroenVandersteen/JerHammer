@@ -10,7 +10,7 @@ _In a radiant display of power, a dome of shimmering energy rises, a bastion aga
 
 | Protective dome |
 | :--- |
-| **Lore:** Arcane Magic |
+| **Lore:** Light |
 | **CN:** 6 |
 | **Type:** Enchantment |
 | **Duration:** rounds |

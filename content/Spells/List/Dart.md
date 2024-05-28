@@ -8,7 +8,7 @@ draft: false
 
 | Dart |
 | :--- |
-| **Lore:** Petty Magic |
+| **Lore:** Heavenly Elements |
 | **CN:** 0 |
 | **Type:** Combat |
 | **Duration:** instant |

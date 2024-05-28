@@ -8,7 +8,7 @@ draft: false
 
 | Black horrors |
 | :--- |
-| **Lore:** Lore Of Shadows |
+| **Lore:** Darkness |
 | **CN:** 6 |
 | **Type:** Combat |
 | **Duration:** rounds |

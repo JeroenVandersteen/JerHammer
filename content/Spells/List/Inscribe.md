@@ -10,8 +10,8 @@ _Inscribed upon metal's cold embrace, words of power and symbols of old weave th
 
 | Inscribe |
 | :--- |
-| **Lore:** Lore Of Metal |
-| **CN:** 0 |
+| **Lore:** Terrestrial Elements |
+| **CN:** -3 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Touch |

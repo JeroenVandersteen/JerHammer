@@ -8,7 +8,7 @@ draft: false
 
 | Swift strider |
 | :--- |
-| **Lore:** Lore Of Beasts |
+| **Lore:** Heart |
 | **CN:** 3 |
 | **Type:** Enchantment |
 | **Duration:** minutes |

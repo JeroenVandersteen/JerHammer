@@ -8,7 +8,7 @@ draft: false
 
 | Healing Light |
 | :--- |
-| **Lore:** Lore Of Light |
+| **Lore:** Light |
 | **CN:** 6 |
 | **Type:** Healing |
 | **Duration:** instant |

@@ -8,8 +8,8 @@ draft: false
 
 | Open Lock |
 | :--- |
-| **Lore:** Petty Magic |
-| **CN:** 0 |
+| **Lore:** Darkness |
+| **CN:** 3 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Touch |

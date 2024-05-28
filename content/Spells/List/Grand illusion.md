@@ -8,7 +8,7 @@ draft: false
 
 | Grand illusion |
 | :--- |
-| **Lore:** Lore Of Shadows |
+| **Lore:** Mind |
 | **CN:** 9 |
 | **Type:** Utility |
 | **Duration:** rounds |

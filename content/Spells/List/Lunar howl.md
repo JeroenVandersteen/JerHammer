@@ -8,7 +8,7 @@ draft: false
 
 | Lunar howl |
 | :--- |
-| **Lore:** Lore Of Beasts |
+| **Lore:** Heart |
 | **CN:** 6 |
 | **Type:** Enchantment |
 | **Duration:** rounds |

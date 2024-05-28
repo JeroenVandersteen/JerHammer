@@ -8,7 +8,7 @@ draft: false
 
 | Spyglass |
 | :--- |
-| **Lore:** Lore Of Heavens |
+| **Lore:** Light |
 | **CN:** 3 |
 | **Type:** Utility |
 | **Duration:** rounds |

@@ -8,8 +8,8 @@ draft: false
 
 | Earthblood |
 | :--- |
-| **Lore:** Lore Of Life |
-| **CN:** 6 |
+| **Lore:** Life |
+| **CN:** 9 |
 | **Type:** Healing |
 | **Duration:** rounds |
 | **Range:** Self |

@@ -8,7 +8,7 @@ draft: false
 
 | Mindslip |
 | :--- |
-| **Lore:** Lore Of Shadows |
+| **Lore:** Mind |
 | **CN:** 6 |
 | **Type:** Utility |
 | **Duration:** minutes |

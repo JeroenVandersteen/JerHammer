@@ -8,13 +8,13 @@ draft: false
 
 | Forgetful mind |
 | :--- |
-| **Lore:** Lore Of Shadows |
-| **CN:** 6 |
+| **Lore:** Mind |
+| **CN:** 9 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Touch |
 | **Target:** 1 |
 | **Resist:** Spell TN |
-| **Effect:** Target forgets the last hour permanently |
+| **Effect:** Target forgets the last hour permanently, caster can add replacement suggestions (blurred) |
 
  

@@ -8,7 +8,7 @@ draft: false
 
 | Spirit projection |
 | :--- |
-| **Lore:** Lore Of Heavens |
+| **Lore:** Darkness |
 | **CN:** 9 |
 | **Type:** Utility |
 | **Duration:** rounds |

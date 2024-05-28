@@ -10,7 +10,7 @@ _Channeling intense heat to seal wounds shut with the power of fire, halting blo
 
 | Cauterize |
 | :--- |
-| **Lore:** Lore Of Fire |
+| **Lore:** Heavenly Elements |
 | **CN:** 3 |
 | **Type:** Healing |
 | **Duration:** instant |

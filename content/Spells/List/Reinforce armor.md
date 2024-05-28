@@ -10,7 +10,7 @@ _In the forge's embrace, the armor is tempered anew, each strike imbuing it with
 
 | Reinforce armor |
 | :--- |
-| **Lore:** Lore Of Metal |
+| **Lore:** Terrestrial Elements |
 | **CN:** 3 |
 | **Type:** Enchantment |
 | **Duration:** rounds |

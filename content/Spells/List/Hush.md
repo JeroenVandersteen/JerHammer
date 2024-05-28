@@ -8,7 +8,7 @@ draft: false
 
 | Hush |
 | :--- |
-| **Lore:** Lore Of Shadows |
+| **Lore:** Death |
 | **CN:** 3 |
 | **Type:** Utility |
 | **Duration:** rounds |

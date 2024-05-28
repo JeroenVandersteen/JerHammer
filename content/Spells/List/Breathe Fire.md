@@ -10,7 +10,7 @@ _Unleashing a torrent of flames from the caster's breath, scorching everything i
 
 | Breathe Fire |
 | :--- |
-| **Lore:** Lore Of Fire |
+| **Lore:** Heavenly Elements |
 | **CN:** 9 |
 | **Type:** Combat |
 | **Duration:** instant |

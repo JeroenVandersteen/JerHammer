@@ -8,7 +8,7 @@ draft: false
 
 | Replay image |
 | :--- |
-| **Lore:** Lore Of Shadows |
+| **Lore:** Mind |
 | **CN:** 6 |
 | **Type:** Utility |
 | **Duration:** rounds |

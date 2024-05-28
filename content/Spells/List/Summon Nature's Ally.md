@@ -8,7 +8,7 @@ draft: false
 
 | Summon Nature's Ally |
 | :--- |
-| **Lore:** Lore Of Beasts |
+| **Lore:** Life |
 | **CN:** 6 |
 | **Type:** Summon |
 | **Duration:** minutes |

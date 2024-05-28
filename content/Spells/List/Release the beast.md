@@ -8,7 +8,7 @@ draft: false
 
 | Release the beast |
 | :--- |
-| **Lore:** Lore Of Beasts |
+| **Lore:** Life |
 | **CN:** 3 |
 | **Type:** Hex |
 | **Duration:** minutes |

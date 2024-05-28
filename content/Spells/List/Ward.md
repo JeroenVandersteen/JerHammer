@@ -10,7 +10,7 @@ _In a dance of mystic energies, a shield of protection forms, a sanctuary agains
 
 | Ward |
 | :--- |
-| **Lore:** Arcane Magic |
+| **Lore:** Light |
 | **CN:** 3 |
 | **Type:** Enchantment |
 | **Duration:** rounds |

@@ -8,8 +8,8 @@ draft: false
 
 | Wither limb |
 | :--- |
-| **Lore:** Lore Of Death |
-| **CN:** 3 |
+| **Lore:** Death |
+| **CN:** 6 |
 | **Type:** Hex |
 | **Duration:** rounds |
 | **Range:** Touch |

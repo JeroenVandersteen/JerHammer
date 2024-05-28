@@ -8,8 +8,8 @@ draft: false
 
 | Sleep |
 | :--- |
-| **Lore:** Petty Magic |
-| **CN:** 0 |
+| **Lore:** Mind |
+| **CN:** 3 |
 | **Type:** Utility |
 | **Duration:** minutes |
 | **Range:** Touch |

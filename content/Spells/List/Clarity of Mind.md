@@ -8,12 +8,12 @@ draft: false
 
 | Clarity of Mind |
 | :--- |
-| **Lore:** Lore Of Light |
-| **CN:** 3 |
+| **Lore:** Mind |
+| **CN:** 0 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Touch |
 | **Target:** 1 |
-| **Effect:** Ignore mental conditions (stunned, fear, frenzy) |
+| **Effect:** Ignore the effect of 1 mental condition (stunned, fear, frenzy) |
 
  

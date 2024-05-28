@@ -10,8 +10,8 @@ _In the heat of battle, steel becomes frail, turning even the mightiest armor in
 
 | Tin armor |
 | :--- |
-| **Lore:** Lore Of Metal |
-| **CN:** 3 |
+| **Lore:** Terrestrial Elements |
+| **CN:** -3 |
 | **Type:** Hex |
 | **Duration:** instant |
 | **Range:** Short |

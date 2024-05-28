@@ -8,7 +8,7 @@ draft: false
 
 | Entangle |
 | :--- |
-| **Lore:** Lore Of Life |
+| **Lore:** Terrestrial Elements |
 | **CN:** 3 |
 | **Type:** Combat |
 | **Duration:** rounds |

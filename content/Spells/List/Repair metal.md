@@ -10,7 +10,7 @@ _In the hands of the smith, metal bends to will, whether to heal the broken or s
 
 | Repair metal |
 | :--- |
-| **Lore:** Lore Of Metal |
+| **Lore:** Terrestrial Elements |
 | **CN:** 6 |
 | **Type:** Utility |
 | **Duration:** instant |

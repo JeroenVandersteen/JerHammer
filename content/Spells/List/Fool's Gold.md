@@ -10,7 +10,7 @@ _Beware the allure of fool's gold, for what gleams as treasure may soon reveal i
 
 | Fool's Gold |
 | :--- |
-| **Lore:** Lore Of Metal |
+| **Lore:** Mind |
 | **CN:** 3 |
 | **Type:** Utility |
 | **Duration:** minutes |

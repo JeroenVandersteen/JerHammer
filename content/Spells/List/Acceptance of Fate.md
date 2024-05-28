@@ -8,7 +8,7 @@ draft: false
 
 | Acceptance of Fate |
 | :--- |
-| **Lore:** Lore Of Death |
+| **Lore:** Heart |
 | **CN:** 3 |
 | **Type:** Enchantment |
 | **Duration:** rounds |

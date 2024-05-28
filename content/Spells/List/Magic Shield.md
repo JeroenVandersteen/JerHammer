@@ -10,7 +10,7 @@ _As arcane energies converge, a shield of shimmering light surrounds allies, ben
 
 | Magic Shield |
 | :--- |
-| **Lore:** Arcane Magic |
+| **Lore:** Light |
 | **CN:** 3 |
 | **Type:** Enchantment |
 | **Duration:** rounds |

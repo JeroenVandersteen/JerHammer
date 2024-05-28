@@ -8,7 +8,7 @@ draft: false
 
 | Pool of Fortune |
 | :--- |
-| **Lore:** Lore Of Heavens |
+| **Lore:** Light |
 | **CN:** 6 |
 | **Type:** Utility |
 | **Duration:** rounds |

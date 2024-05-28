@@ -8,8 +8,8 @@ draft: false
 
 | Ashes and dust |
 | :--- |
-| **Lore:** Lore Of Death |
-| **CN:** 9 |
+| **Lore:** Death |
+| **CN:** 6 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Short |

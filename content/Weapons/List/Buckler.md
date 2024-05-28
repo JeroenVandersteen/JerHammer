@@ -7,7 +7,7 @@ draft: false
 ### Buckler
 
 **Price**: 1ss 2d
-**Damage**:  -
+**Damage**: S Impact
 **To hit bonus**: 
 **Parry bonus**: 1
 **Qualities**: 

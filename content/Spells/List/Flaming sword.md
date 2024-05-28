@@ -10,7 +10,7 @@ _Enchanting a blade with roaring flames, turning it into a deadly weapon that bu
 
 | Flaming sword |
 | :--- |
-| **Lore:** Lore Of Fire |
+| **Lore:** Heavenly Elements |
 | **CN:** 3 |
 | **Type:** Enchantment |
 | **Duration:** rounds |

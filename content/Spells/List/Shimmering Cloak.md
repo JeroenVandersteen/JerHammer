@@ -8,7 +8,7 @@ draft: false
 
 | Shimmering Cloak |
 | :--- |
-| **Lore:** Lore Of Light |
+| **Lore:** Light |
 | **CN:** 6 |
 | **Type:** Enchantment |
 | **Duration:** rounds |

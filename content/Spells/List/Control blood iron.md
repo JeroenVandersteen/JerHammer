@@ -10,8 +10,8 @@ _In the crucible of flesh, iron stirs, seeking escape from mortal coil, as the b
 
 | Control blood iron |
 | :--- |
-| **Lore:** Lore Of Metal |
-| **CN:** 6 |
+| **Lore:** Heart |
+| **CN:** 9 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

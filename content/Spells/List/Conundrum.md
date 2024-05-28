@@ -8,8 +8,8 @@ draft: false
 
 | Conundrum |
 | :--- |
-| **Lore:** Lore Of Light |
-| **CN:** 3 |
+| **Lore:** Mind |
+| **CN:** -3 |
 | **Type:** Hex |
 | **Duration:** instant |
 | **Range:** Short |
