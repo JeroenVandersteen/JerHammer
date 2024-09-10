@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: WS, S, T
 
-**Career skills**: Unarmed Combat, Weapon Offense, Throwing Weapons, Athletics, Endurance, Acrobatics, Dodge, Initiative, Courage, Leadership
+**Career skills**: Unarmed Combat, Weapon Offense, Throwing Weapons, Athletics, Endurance, Acrobatics, Initiative, Spot, Courage, Leadership
 
 **Trappings**: Axe, Flask of Spirits, Shame, Tattoos
 
@@ -26,7 +26,7 @@ draft: false
 | [Consume alcohol](<Talents/List/Consume alcohol>) | Advantage when consuming alcohol |
 | [Courage](<Talents/List/Courage>) | Advantage to resist fear/torture |
 | [Lore](<Talents/List/Lore>) (Any monster) | Deep knowledge on subject |
-| [Sturdy traveller](<Talents/List/Sturdy traveller>) | Advantage on travel endurance |
+| [Sturdy traveler](<Talents/List/Sturdy traveler>) | Advantage on travel endurance |
 
 
 ### Level 2 (income: Squalid)

@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Lore:** Darkness |
 | **CN:** 6 |
-| **Type:** Combat |
+| **Type:** Hex |
 | **Duration:** rounds |
 | **Range:** Short |
 | **Target:** Area |

@@ -10,9 +10,10 @@ draft: false
 | :--- |
 | **Lore:** Heart |
 | **CN:** 6 |
-| **Type:**  |
-| **Duration:**  |
-| **Range:**  |
-| **Effect:**  |
+| **Type:** Enchantment |
+| **Duration:** minutes |
+| **Range:** Touch |
+| **Target:** 1 |
+| **Effect:** Target finds you friendly, familiar, attractive |
 
  

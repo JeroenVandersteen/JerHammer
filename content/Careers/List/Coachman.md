@@ -23,7 +23,7 @@ draft: false
 | [Gossip](<Talents/List/Gossip>) | Gain 1 rumour/session |
 | [Liar](<Talents/List/Liar>) | Advantage when lying |
 | [Ride](<Talents/List/Ride>) | Ride horses |
-| [Sturdy traveller](<Talents/List/Sturdy traveller>) | Advantage on travel endurance |
+| [Sturdy traveler](<Talents/List/Sturdy traveler>) | Advantage on travel endurance |
 | [Use rope](<Talents/List/Use rope>) | Advantage when using ropes |
 
 

@@ -14,10 +14,10 @@ draft: false
 | **Duration:** instant |
 | **Range:** Touch |
 | **Target:** 1 |
-| **Damage:** 5d6 L |
+| **Damage:** 6d6 L |
 | **Armor:** AP ignored |
-| **Heal:** 1d6 |
+| **Heal:** 1d6 HP |
 | **Resist:** Spell TN |
 | **Effect:** Combat spell.  |
 
-This spell deals 5d6 L (AP ignored) to 1 target touched instantly. The spellcast check has to also be equal to or higher than the target's Spell TN. The caster then heals 1d6. 
+This spell deals 6d6 L (AP ignored) to 1 target touched instantly. The spellcast check has to also be equal to or higher than the target's Spell TN. The caster then heals 1d6 HP. 

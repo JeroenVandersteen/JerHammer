@@ -22,7 +22,7 @@ draft: false
 | [Reliable hit](<Talents/List/Reliable hit>) | Advantage on dam with that weapon |
 | [Animal affinity](<Talents/List/Animal affinity>) | Animals do simple things |
 | [Ride](<Talents/List/Ride>) | Ride horses |
-| [Sturdy traveller](<Talents/List/Sturdy traveller>) | Advantage on travel endurance |
+| [Sturdy traveler](<Talents/List/Sturdy traveler>) | Advantage on travel endurance |
 
 
 ### Level 2 (income: Normal)

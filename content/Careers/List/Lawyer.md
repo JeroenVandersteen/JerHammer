@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: Int, WP, Fel
 
-**Career skills**: Weapon Defense, Dodge, Stealth, Initiative, Spot, Knowledge, Intuition, Deception, Leadership, Persuasion
+**Career skills**: Weapon Defense, Sleight of Hand, Stealth, Initiative, Spot, Knowledge, Intuition, Deception, Leadership, Persuasion
 
 **Trappings**: Book (Law), Magnifying Glass
 

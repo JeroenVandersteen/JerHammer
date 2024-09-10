@@ -113,10 +113,14 @@ draft: false
 | Talent | Max | Prereq | Short Description |
 | :--- | --- | :--- | :--- |
 | [Write purity seal](<Talents/List/Write purity seal>) | Fel, 4 | Career | Spend endeavor to create purity seal(s) |
-| [Bless (Divine Lore)](<Talents/List/Bless>) |  | Career | Can use Blessings |
-| [Holy hatred (group)](<Talents/List/Holy hatred>) |  | Career | Miracles +1d6 dam vs group |
+| [Annointed](<Talents/List/Annointed>) |  | Pray I | Prayers cost 1 faith point less, never 0 |
+| [Devout](<Talents/List/Devout>) |  | Pray I | Gain WP extra faith point max |
+| [Pray I](<Talents/List/Pray I>) |  | Career | Can invoke lvl 1 prayers, WP faith point max |
+| [Pray II](<Talents/List/Pray II>) |  | Pray I | Can invoke lvl 2 prayers, 2xWP faith point max |
+| [Pray III](<Talents/List/Pray III>) |  | Pray II | Can invoke lvl 3 prayers, 3xWP faith point max |
+| [Pray IV](<Talents/List/Pray IV>) |  | Pray III | Can invoke lvl 4 prayers, 4xWP faith point max |
+| [Holy hatred (group)](<Talents/List/Holy hatred>) |  | Career | Prayers deal +1d6 dam vs chosen group |
 | [Impassioned zeal](<Talents/List/Impassioned zeal>) | Fel | Career | Attract followers |
-| [Invoke (Divine Lore)](<Talents/List/Invoke>) |  | Career | Can use Miracles |
 
 ## Fortune Talents
 
@@ -212,7 +216,7 @@ draft: false
 | [Secret Signs](<Talents/List/Secret Signs>) |  |  | Understand secret signs |
 | [Set traps](<Talents/List/Set traps>) |  |  | Can set traps |
 | [Stitch up](<Talents/List/Stitch up>) |  |  | Advantage to remove bleeding |
-| [Sturdy traveller](<Talents/List/Sturdy traveller>) |  |  | Advantage on travel endurance |
+| [Sturdy traveler](<Talents/List/Sturdy traveler>) |  |  | Advantage on travel endurance |
 | [Surgeon](<Talents/List/Surgeon>) |  |  | Medicine test and 1 hour to heal 1 HP/day |
 | [Swim](<Talents/List/Swim>) |  |  | Can swim |
 | [Track](<Talents/List/Track>) |  |  | Can track |
@@ -220,3 +224,9 @@ draft: false
 | [Unshakable](<Talents/List/Unshakable>) |  |  | No cool check on blackpowder fire |
 | [Use rope](<Talents/List/Use rope>) |  |  | Advantage when using ropes |
 | [Use war machines](<Talents/List/Use war machines>) |  |  | Can use war machines |
+
+## Divination Talents
+
+| Talent | Max | Prereq | Short Description |
+| :--- | --- | :--- | :--- |
+| [Divination](<Talents/List/Divination>) |  |  | Use endeavor to roll Int dice; can be used to swap |

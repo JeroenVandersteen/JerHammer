@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: Ag, P, Fel
 
-**Career skills**: Weapon Offense, Throwing Weapons, Acrobatics, Dodge, Sleight of Hand, Initiative, Spot, Intuition, Deception, Persuasion
+**Career skills**: Weapon Offense, Throwing Weapons, Acrobatics, Sleight of Hand, Initiative, Spot, Intuition, Medicine, Deception, Persuasion
 
 **Trappings**: Brush or Chisel or Quill Pen
 

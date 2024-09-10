@@ -13,6 +13,6 @@ draft: false
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Self |
-| **Effect:** Conjure scythe, use melee offense, dam like scythe, but WP for S. Adv to hit against undead |
+| **Effect:** Conjure scythe, use language Magick for offense, dam like scythe but WP for S. Adv to hit against undead |
 
  

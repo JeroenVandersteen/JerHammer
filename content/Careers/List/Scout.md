@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: BS, Ag, P
 
-**Career skills**: Weapon Offense, Bows, Throwing Weapons, Athletics, Dodge, Stealth, Initiative, Spot, Nature, Deception
+**Career skills**: Weapon Offense, Bows, Throwing Weapons, Athletics, Acrobatics, Stealth, Initiative, Spot, Nature, Deception
 
 **Trappings**: Short Sword, Leather Jack, Sturdy Boots and Cloak, Rope
 
@@ -24,7 +24,7 @@ draft: false
 | [Hide in nature](<Talents/List/Hide in nature>) | Advantage on stealth in nature |
 | [Lore](<Talents/List/Lore>) (Geography) | Deep knowledge on subject |
 | [Ride](<Talents/List/Ride>) | Ride horses |
-| [Sturdy traveller](<Talents/List/Sturdy traveller>) | Advantage on travel endurance |
+| [Sturdy traveler](<Talents/List/Sturdy traveler>) | Advantage on travel endurance |
 | [Track](<Talents/List/Track>) | Can track |
 | [Unseen move](<Talents/List/Unseen move>) | Hiding is a free action |
 

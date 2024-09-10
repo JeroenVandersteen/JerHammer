@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: BS, Ag, P
 
-**Career skills**: Weapon Offense, Crossbows, Throwing Weapons, Acrobatics, Dodge, Sleight of Hand, Stealth, Initiative, Spot, Deception
+**Career skills**: Weapon Offense, Crossbows, Throwing Weapons, Acrobatics, Sleight of Hand, Stealth, Initiative, Spot, Deception, Persuasion
 
 **Trappings**: Dark Cloak, Dagger, Rope
 

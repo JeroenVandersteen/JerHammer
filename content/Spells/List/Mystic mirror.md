@@ -13,7 +13,6 @@ draft: false
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Self |
-| **Target:** 1 |
-| **Effect:** May communicate with person (name known) through mirrors |
+| **Effect:** May communicate with person (if name known) through mirrors |
 
  

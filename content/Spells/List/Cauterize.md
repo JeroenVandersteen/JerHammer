@@ -17,6 +17,6 @@ _Channeling intense heat to seal wounds shut with the power of fire, halting blo
 | **Range:** Touch |
 | **Target:** 1 |
 | **Heal:** 2d6, bleeding condition healed |
-| **Effect:** Healing spell. Target heals 2d6 L and 1 bleeding condition |
+| **Effect:** Healing spell. Target heals 3d6 L and 1 bleeding condition |
 
 One creature touched heals 2d6, bleeding condition healed. 

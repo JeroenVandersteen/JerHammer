@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: WS, T, P
 
-**Career skills**: Unarmed Combat, Weapon Offense, Throwing Weapons, Endurance, Dodge, Sleight of Hand, Stealth, Initiative, Spot, Nature
+**Career skills**: Unarmed Combat, Weapon Offense, Throwing Weapons, Endurance, Acrobatics, Sleight of Hand, Stealth, Initiative, Spot, Nature
 
 **Trappings**: Sling with Ammunition, Sack, Small but Vicious Dog
 
@@ -63,6 +63,6 @@ draft: false
 | [Poisoner](<Talents/List/Poisoner>) (IV) | Can create poisons |
 | [Courage](<Talents/List/Courage>) | Advantage to resist fear/torture |
 | [Fast healer](<Talents/List/Fast healer>) | Heal +1HP/night |
-| [Sturdy traveller](<Talents/List/Sturdy traveller>) | Advantage on travel endurance |
+| [Sturdy traveler](<Talents/List/Sturdy traveler>) | Advantage on travel endurance |
 
 

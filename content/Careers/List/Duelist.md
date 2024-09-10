@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: WS, BS, P
 
-**Career skills**: Weapon Offense, Weapon Defense, Blackpowder Weapons, Acrobatics, Dodge, Initiative, Spot, Courage, Deception, Persuasion
+**Career skills**: Weapon Offense, Weapon Defense, Blackpowder Weapons, Acrobatics, Initiative, Spot, Intuition, Courage, Deception, Persuasion
 
 **Trappings**: Long Sword or Rapier, Sling Bag containing Clothing and 3 Bandages
 

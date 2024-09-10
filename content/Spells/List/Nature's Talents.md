@@ -14,6 +14,6 @@ draft: false
 | **Duration:** hours |
 | **Range:** Self |
 | **Target:** 1 |
-| **Effect:** Target gains one talent from nature (tracking, relentless charge, terrain master, alley cat, untiring, hide in nature, hunter, swim, sturdy traveller) |
+| **Effect:** Target gains 3 talents from nature (tracking, relentless charge, terrain master, alley cat, untiring, hide in nature, hunter, swim, sturdy traveller) |
 
  

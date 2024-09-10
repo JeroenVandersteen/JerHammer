@@ -18,6 +18,8 @@ Browse all [Runes](<Runes/_index.md>).
 
 Browse all [Spells](<Spells/_index.md>).
 
+Browse all [Prayers](<Prayers/_index.md>).
+
 Browse all [Talents](<Talents/_index.md>).
 
 Browse all [Weapons](<Weapons/_index.md>).

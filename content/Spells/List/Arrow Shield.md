@@ -15,6 +15,6 @@ _In a dance of light and shadow, wooden arrows meet an unseen barrier, falling h
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Self |
-| **Effect:** Wooden ranged weapons are blocked |
+| **Effect:** Wooden ranged ammunitions are blocked |
 
  Wooden ranged weapons are blocked by a magical barrier created by the caster.

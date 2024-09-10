@@ -15,6 +15,6 @@ draft: false
 | **Range:** Short |
 | **Target:** 1 |
 | **Resist:** Spell TN |
-| **Effect:** Target gain disadv to WP, Fel, Int |
+| **Effect:** Target gains disadv to WP, Fel, Int |
 
  

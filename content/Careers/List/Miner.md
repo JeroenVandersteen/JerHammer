@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: WS, S, T
 
-**Career skills**: Unarmed Combat, Weapon Offense, Blackpowder Weapons, Athletics, Endurance, Dodge, Stealth, Spot, Nature, Courage
+**Career skills**: Unarmed Combat, Weapon Offense, Blackpowder Weapons, Athletics, Endurance, Stealth, Spot, Intuition, Nature, Courage
 
 **Trappings**: Charcoal Stick, Crude Map, Pan, Spade
 

@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: T, Ag, Fel
 
-**Career skills**: Weapon Defense, Crossbows, Athletics, Endurance, Dodge, Stealth, Initiative, Spot, Nature, Persuasion
+**Career skills**: Weapon Defense, Crossbows, Athletics, Endurance, Acrobatics, Stealth, Initiative, Spot, Nature, Persuasion
 
 **Trappings**: Scroll Case
 
@@ -24,7 +24,7 @@ draft: false
 | [Lore](<Talents/List/Lore>) (Geography) | Deep knowledge on subject |
 | [Read and write](<Talents/List/Read and write>) | Can read and write |
 | [Ride](<Talents/List/Ride>) | Ride horses |
-| [Sturdy traveller](<Talents/List/Sturdy traveller>) | Advantage on travel endurance |
+| [Sturdy traveler](<Talents/List/Sturdy traveler>) | Advantage on travel endurance |
 
 
 ### Level 2 (income: Normal)

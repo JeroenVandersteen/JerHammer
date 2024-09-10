@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: P, Int, WP
 
-**Career skills**: Unarmed Combat, Dodge, Sleight of Hand, Stealth, Spot, Intuition, Nature, Medicine, Language Magick, Deception
+**Career skills**: Unarmed Combat, Endurance, Sleight of Hand, Stealth, Spot, Intuition, Nature, Medicine, Language Magick, Deception
 
 **Trappings**: Candles, Chalk, Doll, Pins
 

@@ -6,19 +6,19 @@ draft: false
 
 ### Firebolt
 
-_A concentrated burst of flame, shooting forth with deadly accuracy to incinerate its target._
+_Purifying through flames, consuming impurities and leaving behind only ash in its wake._
 
 | Firebolt |
 | :--- |
-| **Lore:** Lore Of Fire |
+| **Lore:** Heavenly Elements |
 | **CN:** 6 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |
 | **Target:** 1 |
-| **Damage:** 4d6 L, ablaze condition |
+| **Damage:** 6d6 L, ablaze condition |
 | **Armor:** AP counts |
 | **Resist:** Dodge TN |
 | **Effect:** Combat spell.  |
 
-This spell deals 4d6 L, ablaze condition (AP counts) to 1 target at short range instantly. The spellcast check has to also be equal to or higher than the target's Dodge TN. 
+This spell deals 6d6 L, ablaze condition (AP counts) to 1 target at short range instantly. The spellcast check has to also be equal to or higher than the target's Dodge TN. This spell purges corruption from the area, preventing bodies from rising as undead. Any undead attempting to rise within the cleansed area are immediately destroyed.

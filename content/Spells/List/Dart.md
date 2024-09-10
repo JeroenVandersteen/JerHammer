@@ -14,9 +14,9 @@ draft: false
 | **Duration:** instant |
 | **Range:** Short |
 | **Target:** 1 |
-| **Damage:** 2d6 L |
+| **Damage:** 3d6 L |
 | **Armor:** AP counts |
 | **Resist:** Dodge TN |
 | **Effect:** Combat spell.  |
 
-This spell deals 2d6 L (AP counts) to 1 target at short range instantly. The spellcast check has to also be equal to or higher than the target's Dodge TN. 
+This spell deals 3d6 L (AP counts) to 1 target at short range instantly. The spellcast check has to also be equal to or higher than the target's Dodge TN. 

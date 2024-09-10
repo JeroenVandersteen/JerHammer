@@ -13,7 +13,7 @@ _With whispered incantations, the blade awakens, humming with newfound strength 
 | **Lore:** Light |
 | **CN:** 3 |
 | **Type:** Enchantment |
-| **Duration:** rounds |
+| **Duration:** minutes |
 | **Range:** Touch |
 | **Target:** 1 |
 | **Effect:** 1 weapon gains +1d6 dam, and unbreakable/reliable traits |

@@ -21,7 +21,7 @@ draft: false
 | [Reliable hit](<Talents/List/Reliable hit>) | Advantage on dam with that weapon |
 | [Stunning strike](<Talents/List/Stunning strike>) | 1 fortune to add stun to damage |
 | [Write purity seal](<Talents/List/Write purity seal>) | Spend endeavor to create purity seal(s) |
-| [Bless (Divine Lore)](<Talents/List/Bless>) | Can use Blessings |
+| [Pray I](<Talents/List/Pray I>) | Can invoke lvl 1 prayers, WP faith point max |
 | [Impassioned zeal](<Talents/List/Impassioned zeal>) | Attract followers |
 | [Courage](<Talents/List/Courage>) | Advantage to resist fear/torture |
 | [Lore](<Talents/List/Lore>) (Theology) | Deep knowledge on subject |
@@ -35,7 +35,8 @@ draft: false
 | [Bypass armor](<Talents/List/Bypass armor>) | 1 fortune to ignore impact reduction |
 | [Drilled](<Talents/List/Drilled>) | Dam +1 when next to ally |
 | [Protect ally](<Talents/List/Protect ally>) | Spend move to protect ally |
-| [Invoke (Divine Lore)](<Talents/List/Invoke>) | Can use Miracles |
+| [Devout](<Talents/List/Devout>) | Gain WP extra faith point max |
+| [Pray II](<Talents/List/Pray II>) | Can invoke lvl 2 prayers, 2xWP faith point max |
 | [Cauterize](<Talents/List/Cauterize>) | Turn bleeding into wounds |
 | [Discern lies](<Talents/List/Discern lies>) | Advantage to detect lies/counterfeit |
 | [Menacing](<Talents/List/Menacing>) | Advantage on intimidation |
@@ -48,7 +49,9 @@ draft: false
 | [Debilitating strike](<Talents/List/Debilitating strike>) | Loose action instead of damage |
 | [Execute](<Talents/List/Execute>) | +3d6 dam to prone/restrained opponent |
 | [Rout allies](<Talents/List/Rout allies>) | Spend action to remove fear from allies |
-| [Holy hatred (group)](<Talents/List/Holy hatred>) | Miracles +1d6 dam vs group |
+| [Annointed](<Talents/List/Annointed>) | Prayers cost 1 faith point less, never 0 |
+| [Pray III](<Talents/List/Pray III>) | Can invoke lvl 3 prayers, 3xWP faith point max |
+| [Holy hatred (group)](<Talents/List/Holy hatred>) | Prayers deal +1d6 dam vs chosen group |
 | [Advanced education](<Talents/List/Advanced education>) | Advanced math, science, literature |
 | [Interrogate](<Talents/List/Interrogate>) | Advantage on interrogation/torture |
 | [Secret Signs](<Talents/List/Secret Signs>) (Divine) | Understand secret signs |
@@ -61,6 +64,7 @@ draft: false
 | [Armor master](<Talents/List/Armor master>) | Reduce armor penalties by 1 |
 | [Inspire allies](<Talents/List/Inspire allies>) | 1 fortune to give allies advantage to hit |
 | [War leader](<Talents/List/War leader>) | Allies gain advantage vs fear |
+| [Pray IV](<Talents/List/Pray IV>) | Can invoke lvl 4 prayers, 4xWP faith point max |
 | [Commanding presence](<Talents/List/Commanding presence>) | Advantage on Fel to lower status |
 | [Lore](<Talents/List/Lore>) (Warfare) | Deep knowledge on subject |
 

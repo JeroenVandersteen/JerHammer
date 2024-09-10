@@ -6,13 +6,15 @@ draft: false
 
 ### Eclipse
 
+_You bathe the area in darkness, and cause your opponents to shriek in pain_
+
 | Eclipse |
 | :--- |
 | **Lore:** Darkness |
 | **CN:** 9 |
-| **Type:**  |
-| **Duration:**  |
-| **Range:**  |
-| **Effect:** Emy: ? Darkness in an area + something |
+| **Type:** Combat |
+| **Duration:** rounds |
+| **Range:** Short |
+| **Effect:** Whole area is cast in darkness, all opponents take 1d6L dam per round and disadv on all rolls |
 
- 
+ The whole area around you is bathed in darkness (light sources and dark vision work normally). All opponents suffer disadvantage to all rolls for the duration of the spell. The caster may choose which character is consider an opponent and which one is not.

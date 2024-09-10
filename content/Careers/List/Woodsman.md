@@ -23,7 +23,7 @@ draft: false
 | [Climb](<Talents/List/Climb>) | Advantage on climbing |
 | [Hunter](<Talents/List/Hunter>) | Provide food when outdoors |
 | [Set traps](<Talents/List/Set traps>) | Can set traps |
-| [Sturdy traveller](<Talents/List/Sturdy traveller>) | Advantage on travel endurance |
+| [Sturdy traveler](<Talents/List/Sturdy traveler>) | Advantage on travel endurance |
 | [Swim](<Talents/List/Swim>) | Can swim |
 | [Use rope](<Talents/List/Use rope>) | Advantage when using ropes |
 

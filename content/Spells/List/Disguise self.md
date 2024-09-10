@@ -10,9 +10,9 @@ draft: false
 | :--- |
 | **Lore:** Mind |
 | **CN:** 3 |
-| **Type:**  |
-| **Duration:**  |
-| **Range:**  |
-| **Effect:** Emy: A person does not recognize you |
+| **Type:** Utility |
+| **Duration:** minutes |
+| **Range:** Self |
+| **Effect:** Disguise as someone you've seen before. Opponents may make intuition tests if called for |
 
  

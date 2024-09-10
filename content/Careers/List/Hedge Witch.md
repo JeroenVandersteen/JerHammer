@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: Int, WP, Fel
 
-**Career skills**: Dodge, Sleight of Hand, Stealth, Spot, Intuition, Nature, Medicine, Language Magick, Deception, Persuasion
+**Career skills**: Unarmed Combat, Sleight of Hand, Stealth, Spot, Intuition, Nature, Medicine, Language Magick, Deception, Persuasion
 
 **Trappings**: 1d10 Lucky Charms, Quarterstaff, Backpack
 

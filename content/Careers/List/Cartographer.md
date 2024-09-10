@@ -44,7 +44,7 @@ draft: false
 | [Elusive](<Talents/List/Elusive>) | Hide your trail |
 | [Improvisation](<Talents/List/Improvisation>) | Use other skill if narrated |
 | [Lore](<Talents/List/Lore>) (Heraldry) | Deep knowledge on subject |
-| [Sturdy traveller](<Talents/List/Sturdy traveller>) | Advantage on travel endurance |
+| [Sturdy traveler](<Talents/List/Sturdy traveler>) | Advantage on travel endurance |
 
 
 ### Level 4 (income: Good)

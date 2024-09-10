@@ -1,18 +1,18 @@
 ---
-title: "feather fall"
+title: "Feather fall"
 titleIcon: "fa-solid fa-wand-sparkles"
 draft: false
 ---
 
-### feather fall
+### Feather fall
 
-| feather fall |
+| Feather fall |
 | :--- |
 | **Lore:** Heavenly Elements |
 | **CN:** 6 |
-| **Type:**  |
-| **Duration:**  |
-| **Range:**  |
-| **Effect:**  |
+| **Type:** Enchantment |
+| **Duration:** rounds |
+| **Range:** Short |
+| **Effect:** Up to WP allies slowly fall/glide downwards (not flying up) |
 
  

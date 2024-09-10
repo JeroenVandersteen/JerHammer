@@ -14,6 +14,6 @@ draft: false
 | **Duration:** instant |
 | **Range:** Short |
 | **Resist:** Dodge TN |
-| **Effect:** Open a grave pit, which becomes difficult terrain, Dodge or fall in (1d6 i and prone) |
+| **Effect:** Open an area with grave pits, which becomes difficult terrain, Dodge or fall in (1d6 i and prone) |
 
  

@@ -14,11 +14,11 @@ _Unleashing a torrent of flames from the caster's breath, scorching everything i
 | **CN:** 9 |
 | **Type:** Combat |
 | **Duration:** instant |
-| **Range:** Self |
+| **Range:** Short |
 | **Target:** Area |
 | **Damage:** 4d6+1 L, ablaze condition |
 | **Armor:** AP counts |
 | **Resist:** Dodge TN |
 | **Effect:** Combat spell.  |
 
-This spell deals 4d6+1 L, ablaze condition (AP counts) to the caster themselves. The spellcast check has to also be equal to or higher than the target's Dodge TN. 
+This spell deals 4d6+1 L, ablaze condition (AP counts) to all creatures in an area at short range instantly. The spellcast check has to also be equal to or higher than the target's Dodge TN. 

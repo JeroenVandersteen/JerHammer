@@ -15,6 +15,6 @@ draft: false
 | **Range:** Short |
 | **Target:** 1 |
 | **Resist:** Spell TN |
-| **Effect:** One animal becomes wild and primal |
+| **Effect:** One animal becomes wild and primal, but not against caster |
 
  

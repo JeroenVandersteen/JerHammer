@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: P, Int, Fel
 
-**Career skills**: Crossbows, Dodge, Sleight of Hand, Stealth, Spot, Knowledge, Intuition, Deception, Leadership, Persuasion
+**Career skills**: Crossbows, Blackpowder Weapons, Sleight of Hand, Stealth, Spot, Knowledge, Intuition, Deception, Leadership, Persuasion
 
 **Trappings**: Book (heraldry), musical instrument, blank scrolls, quill and ink
 

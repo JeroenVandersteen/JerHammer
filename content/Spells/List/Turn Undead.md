@@ -12,7 +12,9 @@ draft: false
 | **CN:** 6 |
 | **Type:** Hex |
 | **Duration:** rounds |
-| **Range:** Self |
-| **Effect:** Undead must make Courage test or gain fear |
+| **Range:** Short |
+| **Target:** Area |
+| **Resist:** Spell TN |
+| **Effect:** Undead suffer 5d6L and gain fear |
 
  

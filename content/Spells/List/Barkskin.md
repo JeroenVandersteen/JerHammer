@@ -13,6 +13,6 @@ draft: false
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Touch |
-| **Effect:** Target gains 10 AP, 3 IR, and move -1, initiative -1 |
+| **Effect:** Target gains +20 AP, +4 IR, and move -1, initiative -1 |
 
  

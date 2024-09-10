@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: Ag, P, Fel
 
-**Career skills**: Dodge, Sleight of Hand, Stealth, Initiative, Spot, Knowledge, Intuition, Medicine, Deception, Persuasion
+**Career skills**: Acrobatics, Sleight of Hand, Stealth, Initiative, Spot, Knowledge, Intuition, Medicine, Deception, Persuasion
 
 **Trappings**: Courtly Garb, Needles and Thread, Measuring Lint, Several Rolls of Cloth
 

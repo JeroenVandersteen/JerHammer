@@ -11,7 +11,7 @@ draft: false
 | **Lore:** Life |
 | **CN:** 0 |
 | **Type:** Summon |
-| **Duration:** instant |
+| **Duration:** hours |
 | **Range:** Self |
 | **Effect:** Take small animal from pocket and befriend the animal |
 

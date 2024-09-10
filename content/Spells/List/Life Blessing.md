@@ -10,9 +10,10 @@ draft: false
 | :--- |
 | **Lore:** Life |
 | **CN:** 0 |
-| **Type:**  |
-| **Duration:**  |
-| **Range:**  |
-| **Effect:** Emy: Cure minor wounds |
+| **Type:** Healing |
+| **Duration:** instant |
+| **Range:** Touch |
+| **Target:** 1 |
+| **Effect:** Target heals 2d6 HP or SP |
 
  

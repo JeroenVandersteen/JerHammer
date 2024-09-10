@@ -9,7 +9,7 @@ draft: false
 | Sense North |
 | :--- |
 | **Lore:** Light |
-| **CN:** 0 |
+| **CN:** -3 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Self |

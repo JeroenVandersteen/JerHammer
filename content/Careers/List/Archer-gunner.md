@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: BS, Ag, P
 
-**Career skills**: Bows, Crossbows, Throwing Weapons, Blackpowder Weapons, Dodge, Stealth, Initiative, Spot, Courage, Deception
+**Career skills**: Bows, Crossbows, Throwing Weapons, Blackpowder Weapons, Acrobatics, Stealth, Initiative, Spot, Courage, Deception
 
 **Trappings**: Short Bow and Arrows, uniform
 

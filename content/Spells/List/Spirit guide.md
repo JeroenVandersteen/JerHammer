@@ -11,8 +11,8 @@ draft: false
 | **Lore:** Death |
 | **CN:** 3 |
 | **Type:** Utility |
-| **Duration:**  |
-| **Range:**  |
-| **Effect:** Emy: target gains profienciency in one skills |
+| **Duration:** rounds |
+| **Range:** Touch |
+| **Effect:** Target gains 1 advantage per turn, for duration of spell |
 
  

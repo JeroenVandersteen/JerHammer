@@ -9,7 +9,7 @@ draft: false
 | Conundrum |
 | :--- |
 | **Lore:** Mind |
-| **CN:** -3 |
+| **CN:** 0 |
 | **Type:** Hex |
 | **Duration:** instant |
 | **Range:** Short |

@@ -10,9 +10,9 @@ draft: false
 | :--- |
 | **Lore:** Heart |
 | **CN:** 6 |
-| **Type:**  |
-| **Duration:**  |
-| **Range:**  |
-| **Effect:** Emy: resistance to fear?? Fortune? temporary HP? |
+| **Type:** Enchantment |
+| **Duration:** rounds |
+| **Range:** Short |
+| **Effect:** All allies beomce immune to fear and knockdown, and gain 1 fortune |
 
  

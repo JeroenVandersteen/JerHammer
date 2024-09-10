@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: BS, Ag, Fel
 
-**Career skills**: Weapon Defense, Crossbows, Acrobatics, Dodge, Sleight of Hand, Stealth, Initiative, Spot, Deception, Persuasion
+**Career skills**: Weapon Defense, Crossbows, Acrobatics, Sleight of Hand, Stealth, Initiative, Spot, Knowledge, Deception, Persuasion
 
 **Trappings**: Charcoal stick, Sling Bag containing 2 different sets of clothing and Hooded Cloak
 

@@ -11,7 +11,7 @@ _Calling forth a creature of pure flame and rage from the depths of the inferno 
 | Summon fire elemental |
 | :--- |
 | **Lore:** Heavenly Elements |
-| **CN:** 6 |
+| **CN:** 9 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Short |

@@ -16,6 +16,6 @@ _With a whispered prayer to the god of war, the target is suffused with divine w
 | **Duration:** rounds |
 | **Range:** Short |
 | **Target:** 1 |
-| **Effect:** Target may make an extra attack each round |
+| **Effect:** Target may make an extra attack at disav, but takes 1d6 i damage |
 
  The target gains the ability to make an extra attack each round, increasing their combat effectiveness.

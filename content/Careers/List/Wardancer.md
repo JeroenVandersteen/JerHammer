@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: WS, Ag, Fel
 
-**Career skills**: Unarmed Combat, Weapon Offense, Weapon Defense, Throwing Weapons, Acrobatics, Dodge, Initiative, Spot, Nature, Persuasion
+**Career skills**: Unarmed Combat, Weapon Offense, Weapon Defense, Throwing Weapons, Acrobatics, Initiative, Spot, Nature, Deception, Persuasion
 
 **Trappings**: 2 Short Swords, Ceremonial Lint
 

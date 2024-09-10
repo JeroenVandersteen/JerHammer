@@ -10,9 +10,11 @@ draft: false
 | :--- |
 | **Lore:** Mind |
 | **CN:** 3 |
-| **Type:**  |
-| **Duration:**  |
-| **Range:**  |
-| **Effect:** Emy: target drops the weapon |
+| **Type:** Hex |
+| **Duration:** instant |
+| **Range:** Short |
+| **Target:** 1 |
+| **Resist:** Spell TN |
+| **Effect:** Target drops all weapons, adv to attack this target while unarmed |
 
  

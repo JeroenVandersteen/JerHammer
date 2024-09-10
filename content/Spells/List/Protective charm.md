@@ -12,8 +12,8 @@ draft: false
 | **CN:** 9 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
-| **Range:** Touch |
+| **Range:** Short |
 | **Target:** 1 |
-| **Effect:** Target gains resistance vs non-magical damage |
+| **Effect:** Target gains resistance vs all damage |
 
  

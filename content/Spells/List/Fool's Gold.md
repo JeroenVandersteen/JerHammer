@@ -16,6 +16,6 @@ _Beware the allure of fool's gold, for what gleams as treasure may soon reveal i
 | **Duration:** minutes |
 | **Range:** Touch |
 | **Target:** 1 |
-| **Effect:** Turn items into gold for duration of spell |
+| **Effect:** Turn up to WP items (up to your own mass) into gold for duration of spell |
 
  Transforms non-living items into gold for the duration of the spell.

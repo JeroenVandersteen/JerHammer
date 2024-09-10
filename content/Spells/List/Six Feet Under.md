@@ -9,11 +9,11 @@ draft: false
 | Six Feet Under |
 | :--- |
 | **Lore:** Death |
-| **CN:** 9 |
+| **CN:** 6 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |
 | **Resist:** Spell TN |
-| **Effect:** Target is burried 6 feet deep, starts suffocating (Endurance test TN 10+1/turn or get 1d6 i, IR ignored, per turn) |
+| **Effect:** Target is burried 6 feet deep, starts suffocating (Endurance test TN 10+1/turn or get 4d6 i, IR ignored, per turn) |
 
  

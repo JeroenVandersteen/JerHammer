@@ -16,6 +16,6 @@ _Time's corrosive touch, whispered by the curse of rust, reduces even the sturdi
 | **Duration:** instant |
 | **Range:** Short |
 | **Target:** 1 |
-| **Effect:** 1 item rusts and becomes useless, AP are halved, weapons -1d6 dam and unreliable |
+| **Effect:** 1 item rusts and becomes useless, AP and IR are halved, weapons -2d6 dam and unreliable |
 
  Causes one metal item to rust and become useless.

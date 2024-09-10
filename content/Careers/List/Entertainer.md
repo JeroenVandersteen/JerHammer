@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: Ag, P, Fel
 
-**Career skills**: Throwing Weapons, Acrobatics, Dodge, Sleight of Hand, Stealth, Initiative, Spot, Deception, Leadership, Persuasion
+**Career skills**: Throwing Weapons, Athletics, Acrobatics, Sleight of Hand, Stealth, Initiative, Spot, Deception, Leadership, Persuasion
 
 **Trappings**: Bowl, Instrument
 

@@ -11,11 +11,11 @@ _In the heat of battle, steel becomes frail, turning even the mightiest armor in
 | Tin armor |
 | :--- |
 | **Lore:** Terrestrial Elements |
-| **CN:** -3 |
+| **CN:** 0 |
 | **Type:** Hex |
 | **Duration:** instant |
 | **Range:** Short |
 | **Target:** Area |
-| **Effect:** All AP are halved |
+| **Effect:** All opponents' AP are halved |
 
  Halves all armor points (AP) possessed by the target.

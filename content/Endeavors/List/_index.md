@@ -27,3 +27,4 @@ draft: false
 | [Create poison](<Endeavors/List/Create poison>) | [Poisoner](<Talents/List/Poisoner>) talent | Create poisons |
 | [Modify item](<Endeavors/List/Modify item>) | [Inventor](<Talents/List/Inventor>) talent | Modify items |
 | [Preach](<Endeavors/List/Preach>) | [Impassioned zeal](<Talents/List/Impassioned zeal>) talent | Create a following to be used ad hoc |
+| [Divination](<Endeavors/List/Divination>) | [Divination](<Talents/List/Divination>) talent | Roll Int dice; can be used to swap |

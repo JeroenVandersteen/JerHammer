@@ -10,12 +10,13 @@ draft: false
 | :--- |
 | **Lore:** Mind |
 | **CN:** 6 |
-| **Type:** Hex |
+| **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |
 | **Target:** Area |
-| **Damage:** fear condition |
+| **Damage:** 2d6 i, fear condition |
+| **Armor:** IR counts |
 | **Resist:** Spell TN |
-| **Effect:** Hex spell.  |
+| **Effect:** Combat spell.  |
 
-This spell deals fear condition to all creatures in an area at short range instantly. The spellcast check has to also be equal to or higher than the target's Spell TN. 
+This spell deals 2d6 i, fear condition (IR counts) to all creatures in an area at short range instantly. The spellcast check has to also be equal to or higher than the target's Spell TN. 

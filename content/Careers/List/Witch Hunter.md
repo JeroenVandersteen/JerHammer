@@ -50,6 +50,8 @@ draft: false
 | [Taunt](<Talents/List/Taunt>) | Opposed test to force to attack you |
 | [Untiring](<Talents/List/Untiring>) | Ignore 1 fatigue condition |
 | [Write purity seal](<Talents/List/Write purity seal>) | Spend endeavor to create purity seal(s) |
+| [Pray I](<Talents/List/Pray I>) | Can invoke lvl 1 prayers, WP faith point max |
+| [Holy hatred (group)](<Talents/List/Holy hatred>) | Prayers deal +1d6 dam vs chosen group |
 | [Argumentative](<Talents/List/Argumentative>) | Advantage when debating |
 | [Commanding presence](<Talents/List/Commanding presence>) | Advantage on Fel to lower status |
 | [Courage](<Talents/List/Courage>) | Advantage to resist fear/torture |
@@ -64,6 +66,8 @@ draft: false
 | [Clever shot](<Talents/List/Clever shot>) | Cover penalties reduced |
 | [Long shot](<Talents/List/Long shot>) | Range increment 1 reduced |
 | [Pistolier](<Talents/List/Pistolier>) | Only offhand pistol at disadvantage |
+| [Devout](<Talents/List/Devout>) | Gain WP extra faith point max |
+| [Pray II](<Talents/List/Pray II>) | Can invoke lvl 2 prayers, 2xWP faith point max |
 | [Magick resistance](<Talents/List/Magick resistance>) | Gain +1 Magick DC |
 | [Lip reading](<Talents/List/Lip reading>) | May read lips |
 | [Lore](<Talents/List/Lore>) (Politics) | Deep knowledge on subject |

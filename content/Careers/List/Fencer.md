@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: WS, Ag, Fel
 
-**Career skills**: Weapon Offense, Weapon Defense, Throwing Weapons, Acrobatics, Dodge, Sleight of Hand, Initiative, Spot, Deception, Persuasion
+**Career skills**: Weapon Offense, Weapon Defense, Throwing Weapons, Acrobatics, Sleight of Hand, Initiative, Spot, Courage, Deception, Persuasion
 
 **Trappings**: Long Sword or Rapier, Sling Bag containing Clothing and 3 Bandages
 

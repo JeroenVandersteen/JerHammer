@@ -13,6 +13,7 @@ draft: false
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |
+| **Target:** Area |
 | **Effect:** Past scene (building sized, seen by caster) is projected as illusion near the caster |
 
  

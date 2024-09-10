@@ -11,8 +11,8 @@ draft: false
 | **Lore:** Heavenly Elements |
 | **CN:** 3 |
 | **Type:**  |
-| **Duration:**  |
-| **Range:**  |
-| **Effect:** Emy: target gets faster |
+| **Duration:** rounds |
+| **Range:** Touch |
+| **Effect:** Target gains double move speed, and dodge TN+1 |
 
  

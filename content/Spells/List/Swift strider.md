@@ -11,7 +11,7 @@ draft: false
 | **Lore:** Heart |
 | **CN:** 3 |
 | **Type:** Enchantment |
-| **Duration:** minutes |
+| **Duration:** hours |
 | **Range:** Self |
 | **Target:** 1 |
 | **Effect:** Gain mobility, mobile dodge, fast movement, kip up and sturdy traveler talent effects |

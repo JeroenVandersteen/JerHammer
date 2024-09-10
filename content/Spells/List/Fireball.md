@@ -11,14 +11,14 @@ _A fiery sphere hurtling through the air, exploding on impact, engulfing all in 
 | Fireball |
 | :--- |
 | **Lore:** Heavenly Elements |
-| **CN:** 9 |
+| **CN:** 6 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |
 | **Target:** Area |
-| **Damage:** 2d6+1 L, ablaze condition |
+| **Damage:** 3d6 L, ablaze condition |
 | **Armor:** AP counts |
 | **Resist:** Dodge TN |
 | **Effect:** Combat spell.  |
 
-This spell deals 2d6+1 L, ablaze condition (AP counts) to all creatures in an area at short range instantly. The spellcast check has to also be equal to or higher than the target's Dodge TN. 
+This spell deals 3d6 L, ablaze condition (AP counts) to all creatures in an area at short range instantly. The spellcast check has to also be equal to or higher than the target's Dodge TN. 

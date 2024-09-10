@@ -35,6 +35,7 @@ draft: false
 | [Guisarme hook](<Inventions/List/Guisarme hook>) | 2 | 12 | Melee weapon | Gain trip quality |
 | [Enhanced guard](<Inventions/List/Enhanced guard>) | 2 | 12 | Melee weapon | Advantage against disarming |
 | [Butt spike](<Inventions/List/Butt spike>) | 2 | 12 | Firearm | Can be used as melee weapon |
+| [Explosive bolt-arrow](<Inventions/List/Explosive bolt-arrow>) | 2 | 12 | Bolt or arrow | Gain +2d6 L dam, one-time use |
 
 ## Level 3 Inventions
 
@@ -57,3 +58,4 @@ draft: false
 | [Triple barreled](<Inventions/List/Triple barreled>) | 4 | 48 | Firearm | May fire 3 times before reloading |
 | [Combined pistol and crossbow](<Inventions/List/Combined pistol and crossbow>) | 4 | 48 | Crossbow, firearm | Acts as both weapons |
 | [Rifle-bore](<Inventions/List/Rifle-bore>) | 4 | 48 | Firearm | Reduce range penalty by 1, +1 to hit |
+| [Barbed wire wrapped](<Inventions/List/Barbed wire wrapped>) | 4 | 48 | Melee Weapon | Cause bleed on hit, gets stuck on roll 3-6 |

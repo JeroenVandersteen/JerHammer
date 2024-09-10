@@ -20,7 +20,7 @@ draft: false
 | [Dealmaker](<Talents/List/Dealmaker>) | Buy/sell items at ±5% |
 | [Gold fever](<Talents/List/Gold fever>) | Advantage to spot precious items |
 | [Gossip](<Talents/List/Gossip>) | Gain 1 rumour/session |
-| [Sturdy traveller](<Talents/List/Sturdy traveller>) | Advantage on travel endurance |
+| [Sturdy traveler](<Talents/List/Sturdy traveler>) | Advantage on travel endurance |
 
 
 ### Level 2 (income: Normal)

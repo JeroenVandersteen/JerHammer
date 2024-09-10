@@ -13,6 +13,6 @@ draft: false
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |
-| **Effect:** Voice as if from somewhere else |
+| **Effect:** Your voice sounds as if from somewhere else |
 
  

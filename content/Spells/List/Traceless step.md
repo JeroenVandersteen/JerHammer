@@ -9,7 +9,7 @@ draft: false
 | Traceless step |
 | :--- |
 | **Lore:** Terrestrial Elements |
-| **CN:** -3 |
+| **CN:** 0 |
 | **Type:** Utility |
 | **Duration:** hours |
 | **Range:** Self |

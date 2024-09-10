@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: WS, BS, P
 
-**Career skills**: Unarmed Combat, Weapon Offense, Weapon Defense, Bows, Crossbows, Athletics, Dodge, Sleight of Hand, Spot, Leadership
+**Career skills**: Unarmed Combat, Weapon Offense, Weapon Defense, Bows, Crossbows, Athletics, Endurance, Sleight of Hand, Spot, Leadership
 
 **Trappings**: Short Sword, Leather Jack, Uniform
 

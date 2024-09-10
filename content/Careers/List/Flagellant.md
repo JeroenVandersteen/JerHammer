@@ -37,6 +37,7 @@ draft: false
 | [Diehard](<Talents/List/Diehard>) | +3 HP |
 | [Frenzy](<Talents/List/Frenzy>) | When frenzied, advantage to hit |
 | [Relentless charge](<Talents/List/Relentless charge>) | +1d6 dam when charging |
+| [Pray I](<Talents/List/Pray I>) | Can invoke lvl 1 prayers, WP faith point max |
 | [Fast healer](<Talents/List/Fast healer>) | Heal +1HP/night |
 
 
@@ -48,6 +49,9 @@ draft: false
 | [Iron Jaw](<Talents/List/Iron Jaw>) | Ignore 1 stun condition |
 | [Relentless rage](<Talents/List/Relentless rage>) | When frenzied, ignore knockdown |
 | [Undieing rage](<Talents/List/Undieing rage>) | When frenzied, gain T temporary HP |
+| [Devout](<Talents/List/Devout>) | Gain WP extra faith point max |
+| [Pray II](<Talents/List/Pray II>) | Can invoke lvl 2 prayers, 2xWP faith point max |
+| [Holy hatred (group)](<Talents/List/Holy hatred>) | Prayers deal +1d6 dam vs chosen group |
 | [Courage](<Talents/List/Courage>) | Advantage to resist fear/torture |
 | [Iron stomach](<Talents/List/Iron stomach>) | Advantage vs ingested poisons/diseases |
 
@@ -60,8 +64,9 @@ draft: false
 | [Execute](<Talents/List/Execute>) | +3d6 dam to prone/restrained opponent |
 | [Unbleeding](<Talents/List/Unbleeding>) | Ignore 1 bleeding condition |
 | [Untiring](<Talents/List/Untiring>) | Ignore 1 fatigue condition |
+| [Pray III](<Talents/List/Pray III>) | Can invoke lvl 3 prayers, 3xWP faith point max |
 | [Escape artist](<Talents/List/Escape artist>) | Advantage to escape grapple/ropes/... |
 | [Lore](<Talents/List/Lore>) (The Empire) | Deep knowledge on subject |
-| [Sturdy traveller](<Talents/List/Sturdy traveller>) | Advantage on travel endurance |
+| [Sturdy traveler](<Talents/List/Sturdy traveler>) | Advantage on travel endurance |
 
 

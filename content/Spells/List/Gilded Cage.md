@@ -16,6 +16,7 @@ _Trapped within the gilded embrace, freedom fades to memory, as the cage of meta
 | **Duration:** hours |
 | **Range:** Short |
 | **Target:** 1 |
-| **Effect:** Target is contained in summoned metal cage |
+| **Damage:** Restrained |
+| **Effect:** Hex spell. Target is contained in summoned metal cage |
 
- Summons a metal cage that contains the target within it.
+This spell deals Restrained to 1 target at short range for WP hours. Summons a metal cage that contains the target within it.

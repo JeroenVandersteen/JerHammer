@@ -15,6 +15,6 @@ draft: false
 | **Range:** Touch |
 | **Target:** 1 |
 | **Resist:** Spell TN |
-| **Effect:** Person touched is calmed down |
+| **Effect:** Person touched is calmed down, frenzy removed |
 
  

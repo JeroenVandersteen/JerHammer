@@ -1,0 +1,15 @@
+---
+title: "Pray IV"
+titleIcon: "fa-solid fa-hand-fist"
+draft: false
+---
+
+
+### Pray IV
+**Prerequisites:** Pray III
+
+_Can invoke lvl 4 prayers, 4xWP faith point max_
+
+You may invoke level 4 prayers. When you take this talent, you immediately learn 1 prayers of level 4. You may learn additional level 4 prayers at a cost of 75 XP (or 50 XP if you find that prayer in a holy scripture).
+
+You gain a faith point maximum equal to 4x your WP. You can use faith points to invoke prayers, at the cost of 1 faith point per level of the prayer. You regain 1 faith point per hour spent praying to your God, up to your faith point maximum. If you spend 1 hour praying in a chapel, church or otherwise sacred location, you regain all your faith points up to the maximum.

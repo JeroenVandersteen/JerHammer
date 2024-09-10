@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: T, P, Fel
 
-**Career skills**: Unarmed Combat, Weapon Offense, Throwing Weapons, Endurance, Dodge, Sleight of Hand, Stealth, Spot, Deception, Persuasion
+**Career skills**: Unarmed Combat, Weapon Offense, Throwing Weapons, Endurance, Sleight of Hand, Stealth, Spot, Courage, Deception, Persuasion
 
 **Trappings**: Poor Quality Blanket, Cup, Stick
 
@@ -23,7 +23,7 @@ draft: false
 | [Consume alcohol](<Talents/List/Consume alcohol>) | Advantage when consuming alcohol |
 | [Iron stomach](<Talents/List/Iron stomach>) | Advantage vs ingested poisons/diseases |
 | [Liar](<Talents/List/Liar>) | Advantage when lying |
-| [Sturdy traveller](<Talents/List/Sturdy traveller>) | Advantage on travel endurance |
+| [Sturdy traveler](<Talents/List/Sturdy traveler>) | Advantage on travel endurance |
 
 
 ### Level 2 (income: Squalid)

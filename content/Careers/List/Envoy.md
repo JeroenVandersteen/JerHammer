@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: P, Int, Fel
 
-**Career skills**: Weapon Defense, Blackpowder Weapons, Dodge, Stealth, Spot, Knowledge, Intuition, Deception, Leadership, Persuasion
+**Career skills**: Weapon Defense, Blackpowder Weapons, Sleight of Hand, Stealth, Spot, Knowledge, Intuition, Deception, Leadership, Persuasion
 
 **Trappings**: Leather Jack, Livery, Scroll Case
 

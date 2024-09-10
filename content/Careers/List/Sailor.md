@@ -23,7 +23,7 @@ draft: false
 | [Gossip](<Talents/List/Gossip>) | Gain 1 rumour/session |
 | [Iron stomach](<Talents/List/Iron stomach>) | Advantage vs ingested poisons/diseases |
 | [Sail](<Talents/List/Sail>) | Can use ships |
-| [Sturdy traveller](<Talents/List/Sturdy traveller>) | Advantage on travel endurance |
+| [Sturdy traveler](<Talents/List/Sturdy traveler>) | Advantage on travel endurance |
 | [Swim](<Talents/List/Swim>) | Can swim |
 | [Use rope](<Talents/List/Use rope>) | Advantage when using ropes |
 

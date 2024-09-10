@@ -9,7 +9,7 @@ draft: false
 
 **Career attributes**: Int, WP, Fel
 
-**Career skills**: Dodge, Sleight of Hand, Stealth, Initiative, Spot, Knowledge, Intuition, Nature, Medicine, Persuasion
+**Career skills**: Endurance, Sleight of Hand, Stealth, Initiative, Spot, Knowledge, Intuition, Nature, Medicine, Persuasion
 
 **Trappings**: Boots, Cloak, Sling Bag containing Assortment of Herbs
 
@@ -50,7 +50,7 @@ draft: false
 | [Lucky](<Talents/List/Lucky>) | Recover 1 extra fortune |
 | [Cheating](<Talents/List/Cheating>) | Sleight of hand test to reroll die/draw card |
 | [Lore](<Talents/List/Lore>) (Medicine) | Deep knowledge on subject |
-| [Sturdy traveller](<Talents/List/Sturdy traveller>) | Advantage on travel endurance |
+| [Sturdy traveler](<Talents/List/Sturdy traveler>) | Advantage on travel endurance |
 | [Swim](<Talents/List/Swim>) | Can swim |
 
 

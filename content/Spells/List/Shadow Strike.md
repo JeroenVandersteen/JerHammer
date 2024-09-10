@@ -6,13 +6,15 @@ draft: false
 
 ### Shadow Strike
 
+_You conspire with your shadow against your enemy_
+
 | Shadow Strike |
 | :--- |
 | **Lore:** Darkness |
 | **CN:** 6 |
 | **Type:** Combat |
-| **Duration:**  |
-| **Range:**  |
-| **Effect:** Emy: Your shadow makes a melee attack roll as it were you. Increase your melee attack reach. with advantage? |
+| **Duration:** rounds |
+| **Range:** Self |
+| **Effect:** Your shadow makes an extra melee attack each round with disadv |
 
- 
+ Your shadow makes one melee attack per round on an opponent you are engaged in melee combat with. The shadow uses the same stats as yourself, but at disadvantage and does not count as a separate combatant for the purpose of outnumbering. The shadow cannot be attacked.

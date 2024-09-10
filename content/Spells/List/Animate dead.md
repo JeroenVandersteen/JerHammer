@@ -11,7 +11,7 @@ draft: false
 | **Lore:** Death |
 | **CN:** 6 |
 | **Type:** Summon |
-| **Duration:** instant |
+| **Duration:** rounds |
 | **Range:** Short |
 | **Effect:** Summon 1d6 skeletons or zombies under caster's command |
 

@@ -15,6 +15,6 @@ draft: false
 | **Range:** Touch |
 | **Target:** 1 |
 | **Resist:** Spell TN |
-| **Effect:** Target suffers disadv to hit, move-1, init-1 |
+| **Effect:** Target suffers disadv to hit, move-1, init-4 |
 
  

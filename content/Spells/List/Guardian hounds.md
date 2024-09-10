@@ -9,10 +9,10 @@ draft: false
 | Guardian hounds |
 | :--- |
 | **Lore:** Death |
-| **CN:** 6 |
+| **CN:** 9 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Self |
-| **Effect:** Summon 2 guardian hounds of purple shadow (use dire hound statblock) |
+| **Effect:** Summon 3 guardian hounds of purple shadow (use dire hound statblock) |
 
  
