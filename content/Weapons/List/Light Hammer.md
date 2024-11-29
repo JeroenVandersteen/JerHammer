@@ -6,10 +6,12 @@ draft: false
 
 ### Light Hammer
 
-**Price**: 1ss 7d
-**Damage**: S+2d6+2 Impact
-**To hit bonus**: 
-**Parry bonus**: 
-**Qualities**: 
-**Range**: 
-**Skill**: Weapon Offense
+ | Light Hammer | 
+ | :--- | 
+ | **Price**: 1st 7cp | 
+ | **Damage**: S+2d6+2 Impact | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**:  | 
+ | **Qualities**:  | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 

@@ -6,10 +6,12 @@ draft: false
 
 ### Morningstar
 
-**Price**: 3ss 2d
-**Damage**: S+4d6 Lethal/Impact
-**To hit bonus**: 
-**Parry bonus**: 
-**Qualities**: 
-**Range**: 
-**Skill**: Weapon Offense
+ | Morningstar | 
+ | :--- | 
+ | **Price**: 3st 2cp | 
+ | **Damage**: S+4d6 Lethal/Impact | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**:  | 
+ | **Qualities**:  | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 

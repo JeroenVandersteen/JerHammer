@@ -6,10 +6,12 @@ draft: false
 
 ### Great Maul
 
-**Price**: 5ss 6d
-**Damage**: 2S+4d6+2 Impact
-**To hit bonus**: 
-**Parry bonus**: 
-**Qualities**: Heavy
-**Range**: 
-**Skill**: Weapon Offense
+ | Great Maul | 
+ | :--- | 
+ | **Price**: 5st 6cp | 
+ | **Damage**: 2S+4d6+2 Impact | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**:  | 
+ | **Qualities**: Heavy | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 

@@ -6,10 +6,12 @@ draft: false
 
 ### Stone
 
-**Price**: 6d
-**Damage**: S Impact
-**To hit bonus**: 
-**Parry bonus**: 
-**Qualities**: 
-**Range**: Short
-**Skill**: Throwing Weapons
+ | Stone | 
+ | :--- | 
+ | **Price**: 6cp | 
+ | **Damage**: S Impact | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**:  | 
+ | **Qualities**:  | 
+ | **Range**: Short | 
+ | **Skill**: Throwing Weapons | 

@@ -6,10 +6,12 @@ draft: false
 
 ### Handaxe
 
-**Price**: 2ss
-**Damage**: S+3d6 Lethal
-**To hit bonus**: 
-**Parry bonus**: 
-**Qualities**: 
-**Range**: 
-**Skill**: Weapon Offense
+ | Handaxe | 
+ | :--- | 
+ | **Price**: 2st | 
+ | **Damage**: S+3d6 Lethal | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**:  | 
+ | **Qualities**:  | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 

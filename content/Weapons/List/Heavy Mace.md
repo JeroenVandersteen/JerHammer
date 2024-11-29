@@ -6,10 +6,12 @@ draft: false
 
 ### Heavy Mace
 
-**Price**: 3ss 2d
-**Damage**: S+4d6 Impact
-**To hit bonus**: 
-**Parry bonus**: 
-**Qualities**: Heavy
-**Range**: 
-**Skill**: Weapon Offense
+ | Heavy Mace | 
+ | :--- | 
+ | **Price**: 3st 2cp | 
+ | **Damage**: S+4d6 Impact | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**:  | 
+ | **Qualities**: Heavy | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 

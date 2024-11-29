@@ -6,10 +6,12 @@ draft: false
 
 ### Blunderbuss
 
-**Price**: 4ss 2d
-**Damage**: 3d6 Lethal
-**To hit bonus**: 1
-**Parry bonus**: 
-**Qualities**: Reload, blackpowder, backfire
-**Range**: Short
-**Skill**: Blackpowder Weapons
+ | Blunderbuss | 
+ | :--- | 
+ | **Price**: 4st 2cp | 
+ | **Damage**: 3d6 Lethal | 
+ | **To hit bonus**: 1 | 
+ | **Parry bonus**:  | 
+ | **Qualities**: Reload, blackpowder, backfire | 
+ | **Range**: Short | 
+ | **Skill**: Blackpowder Weapons | 

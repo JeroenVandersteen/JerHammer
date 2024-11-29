@@ -6,10 +6,12 @@ draft: false
 
 ### Torch
 
-**Price**: 8d
-**Damage**: S+1d6+1 Impact
-**To hit bonus**: 
-**Parry bonus**: 
-**Qualities**: Flaming
-**Range**: 
-**Skill**: Weapon Offense
+ | Torch | 
+ | :--- | 
+ | **Price**: 8cp | 
+ | **Damage**: S+1d6+1 Impact | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**:  | 
+ | **Qualities**: Flaming | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 

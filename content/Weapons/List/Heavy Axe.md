@@ -6,10 +6,12 @@ draft: false
 
 ### Heavy Axe
 
-**Price**: 5ss 10d
-**Damage**: 2S+4d6+1 Lethal
-**To hit bonus**: 
-**Parry bonus**: 
-**Qualities**: Armor destroying, heavy
-**Range**: 
-**Skill**: Weapon Offense
+ | Heavy Axe | 
+ | :--- | 
+ | **Price**: 5st 10cp | 
+ | **Damage**: 2S+4d6+1 Lethal | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**:  | 
+ | **Qualities**: Armor destroying, heavy | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 

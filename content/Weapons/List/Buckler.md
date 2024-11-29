@@ -6,10 +6,12 @@ draft: false
 
 ### Buckler
 
-**Price**: 1ss 2d
-**Damage**: S Impact
-**To hit bonus**: 
-**Parry bonus**: 1
-**Qualities**: 
-**Range**: 
-**Skill**: Weapon Offense
+ | Buckler | 
+ | :--- | 
+ | **Price**: 1st 2cp | 
+ | **Damage**: S Impact | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**: 1 | 
+ | **Qualities**:  | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 

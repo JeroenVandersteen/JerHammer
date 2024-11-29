@@ -6,10 +6,12 @@ draft: false
 
 ### Rainseur
 
-**Price**: 5ss 9d
-**Damage**: 2S+3d6+1 Lethal
-**To hit bonus**: 1
-**Parry bonus**: 
-**Qualities**: Armor destroying, heavy
-**Range**: 
-**Skill**: Weapon Offense
+ | Rainseur | 
+ | :--- | 
+ | **Price**: 5st 9cp | 
+ | **Damage**: 2S+3d6+1 Lethal | 
+ | **To hit bonus**: 1 | 
+ | **Parry bonus**:  | 
+ | **Qualities**: Armor destroying, heavy | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 

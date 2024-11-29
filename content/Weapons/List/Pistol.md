@@ -6,10 +6,12 @@ draft: false
 
 ### Pistol
 
-**Price**: 3ss
-**Damage**: 3d6 Lethal
-**To hit bonus**: 
-**Parry bonus**: 
-**Qualities**: Reload, pistol, blackpowder, backfire
-**Range**: Short
-**Skill**: Blackpowder Weapons
+ | Pistol | 
+ | :--- | 
+ | **Price**: 3st | 
+ | **Damage**: 3d6 Lethal | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**:  | 
+ | **Qualities**: Reload, pistol, blackpowder, backfire | 
+ | **Range**: Short | 
+ | **Skill**: Blackpowder Weapons | 

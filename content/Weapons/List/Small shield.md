@@ -6,10 +6,12 @@ draft: false
 
 ### Small shield
 
-**Price**: 1ss 4d
-**Damage**: S Impact
-**To hit bonus**: 
-**Parry bonus**: 1
-**Qualities**: 
-**Range**: 
-**Skill**: Weapon Offense
+ | Small shield | 
+ | :--- | 
+ | **Price**: 1st 4cp | 
+ | **Damage**: S Impact | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**: 1 | 
+ | **Qualities**:  | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 

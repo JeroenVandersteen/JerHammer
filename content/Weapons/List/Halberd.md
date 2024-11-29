@@ -6,10 +6,12 @@ draft: false
 
 ### Halberd (2H)
 
-**Price**: 10ss 4d
-**Damage**: 2S+4d6 Lethal
-**To hit bonus**: 1
-**Parry bonus**: 
-**Qualities**: Trip, armor destroying, heavy
-**Range**: 
-**Skill**: Weapon Offense
+ | Halberd (2H) | 
+ | :--- | 
+ | **Price**: 10st 4cp | 
+ | **Damage**: 2S+4d6 Lethal | 
+ | **To hit bonus**: 1 | 
+ | **Parry bonus**:  | 
+ | **Qualities**: Trip, armor destroying, heavy | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 

@@ -6,10 +6,12 @@ draft: false
 
 ### Musket
 
-**Price**: 8ss 5d
-**Damage**: 5d6 Lethal
-**To hit bonus**: 
-**Parry bonus**: 
-**Qualities**: Reload, blackpowder, backfire
-**Range**: Long
-**Skill**: Blackpowder Weapons
+ | Musket | 
+ | :--- | 
+ | **Price**: 8st 5cp | 
+ | **Damage**: 5d6 Lethal | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**:  | 
+ | **Qualities**: Reload, blackpowder, backfire | 
+ | **Range**: Long | 
+ | **Skill**: Blackpowder Weapons | 

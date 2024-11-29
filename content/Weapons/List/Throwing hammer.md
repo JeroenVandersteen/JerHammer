@@ -6,10 +6,12 @@ draft: false
 
 ### Throwing hammer
 
-**Price**: 4ss 7d
-**Damage**: S+2d6 Impact
-**To hit bonus**: 
-**Parry bonus**: 
-**Qualities**: 
-**Range**: Short
-**Skill**: Throwing Weapons
+ | Throwing hammer | 
+ | :--- | 
+ | **Price**: 4st 7cp | 
+ | **Damage**: S+2d6 Impact | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**:  | 
+ | **Qualities**:  | 
+ | **Range**: Short | 
+ | **Skill**: Throwing Weapons | 

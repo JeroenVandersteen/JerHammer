@@ -6,10 +6,12 @@ draft: false
 
 ### Knife
 
-**Price**: 8d
-**Damage**: S+1d6+1 Lethal
-**To hit bonus**: 
-**Parry bonus**: 
-**Qualities**: 
-**Range**: 
-**Skill**: Weapon Offense
+ | Knife | 
+ | :--- | 
+ | **Price**: 8cp | 
+ | **Damage**: S+1d6+1 Lethal | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**:  | 
+ | **Qualities**:  | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 

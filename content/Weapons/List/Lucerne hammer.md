@@ -6,10 +6,12 @@ draft: false
 
 ### Lucerne hammer
 
-**Price**: 8ss 2d
-**Damage**: 2S+3d6+2 Lethal/impact
-**To hit bonus**: 1
-**Parry bonus**: 
-**Qualities**: Trip
-**Range**: 
-**Skill**: Weapon Offense
+ | Lucerne hammer | 
+ | :--- | 
+ | **Price**: 8st 2cp | 
+ | **Damage**: 2S+3d6+2 Lethal/impact | 
+ | **To hit bonus**: 1 | 
+ | **Parry bonus**:  | 
+ | **Qualities**: Trip | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 

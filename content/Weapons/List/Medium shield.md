@@ -6,10 +6,12 @@ draft: false
 
 ### Medium shield
 
-**Price**: 2ss 8d
-**Damage**: S Impact
-**To hit bonus**: 
-**Parry bonus**: 2
-**Qualities**: 
-**Range**: 
-**Skill**: Weapon Offense
+ | Medium shield | 
+ | :--- | 
+ | **Price**: 2st 8cp | 
+ | **Damage**: S Impact | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**: 2 | 
+ | **Qualities**:  | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 

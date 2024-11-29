@@ -6,10 +6,12 @@ draft: false
 
 ### Bolas
 
-**Price**: 3ss
-**Damage**: 1d6 Impact
-**To hit bonus**: 
-**Parry bonus**: 
-**Qualities**: Trip, entangle, dangerous
-**Range**: Short
-**Skill**: Throwing Weapons
+ | Bolas | 
+ | :--- | 
+ | **Price**: 3st | 
+ | **Damage**: 1d6 Impact | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**:  | 
+ | **Qualities**: Trip, entangle, dangerous | 
+ | **Range**: Short | 
+ | **Skill**: Throwing Weapons | 

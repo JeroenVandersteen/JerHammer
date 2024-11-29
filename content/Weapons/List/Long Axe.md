@@ -6,10 +6,12 @@ draft: false
 
 ### Long Axe
 
-**Price**: 4ss 7d
-**Damage**: 2S+4d6 Lethal
-**To hit bonus**: 
-**Parry bonus**: 
-**Qualities**: Heavy
-**Range**: 
-**Skill**: Weapon Offense
+ | Long Axe | 
+ | :--- | 
+ | **Price**: 4st 7cp | 
+ | **Damage**: 2S+4d6 Lethal | 
+ | **To hit bonus**:  | 
+ | **Parry bonus**:  | 
+ | **Qualities**: Heavy | 
+ | **Range**:  | 
+ | **Skill**: Weapon Offense | 
