@@ -4,6 +4,8 @@ title: JerHammer RPG System
 
 Welcome to the homepage of the JerHammer RPG System for Grimdark roleplaying games.
 
+Link to the [dice roller](<dice_roller_v1.html>).
+
 Browse all [Careers](<Careers/_index.md>).
 
 Browse all [Conditions](<Conditions/_index.md>).

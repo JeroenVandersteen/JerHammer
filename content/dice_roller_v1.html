@@ -1,0 +1,304 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <title>JerHammer Dice Roller</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Averia+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+        <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+        
+        <style>
+
+            body {
+                font-family: "Poppins";
+            }
+
+            .stepper-box {
+                display: flex;
+                align-items: center;
+            }
+
+            .custom-num {
+                margin: 0.2em;
+                margin-right: 1em;
+                margin-left: 1em;
+                /* color: #fff; */
+                display: flex;
+                width: 3em;
+                height: 7em;
+                border: 1px #363636 solid;
+                border-radius: 3em;
+                justify-content: space-between;
+                align-items: center;
+                flex-direction: column;
+                transition: 0.3s;
+            }
+
+            /* remove default arrows from the input field */
+            .num-input::-webkit-outer-spin-button, .num-input::-webkit-inner-spin-button {
+                -webkit-appearance: none;
+                margin: 0;
+            }
+
+            .num-input {
+                font-size: 1.5em;
+                text-align: center;
+                background: none;
+                border: none;
+                color: #21d99b;
+                font-weight: bold;
+                width: 100%;
+            }
+
+            .num-input:focus {
+                outline: none;
+            }
+
+            .custom-num i {
+                font-size: 2em;
+                cursor: pointer;
+            }
+
+            .input-with-label {
+                display: block;
+            }
+
+            .input-label {
+                text-align: center;
+                color: #4f4f4f;
+                font-size: .8em;
+            }
+
+            .roll-dice {
+                height: 30px;
+                border-radius: 15px;
+                width: 300px;
+                background-color: #000000;
+                border: none;
+                color: white;
+                margin-top: 10px;
+                font-family: "Poppins";
+            }
+
+            .history {
+                max-height: 300px;
+                overflow-y: auto;
+            }
+
+            .clear-history {
+                height: 30px;
+                border-radius: 15px;
+                width: 100px;
+                background-color: #6f0101;
+                border: none;
+                color: white;
+                margin-top: 10px;
+                margin-left: 200px;
+            }
+
+            .disp-result {
+                margin-left: 140px;
+                margin-top: 10px;
+                font-size: 3em;
+                color: rgb(0, 0, 0);
+            }
+        </style>
+       
+
+    </head>
+
+
+    <body>
+
+        <div class="stepper-box">
+            <div class="input-with-label">
+                <div class="custom-num">
+                    <i class="fas fa-angle-up arr-up"></i>
+                    <input
+                        type="number"
+                        class="num-input"
+                        min="0"
+                        max="10"
+                        value="3"
+                        data-color="#21d99b"
+                        id="num-dice-input"
+                    />
+                    <i class="fas fa-angle-down arr-down"></i>
+                </div>
+                <div class="input-label">dice</div>
+            </div>
+
+            <svg width="20" height="20" viewBox="0 0 480 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+                <g transform="matrix(1.49389,0,0,1.49389,-148.584,-142.413)">
+                    <path d="M255.9,95.33C250.9,95.33 246.4,96.43 243,98.23L126.8,165.3C119.5,169.4 119.5,176.2 126.8,180.5L243,247.4C250.2,251.7 261.5,251.7 268.7,247.4L384.6,180.5C392,176.2 392,169.4 384.6,165.3L268.7,98.23C265.3,96.43 260.4,95.33 255.9,95.33ZM166.9,157.9C172.9,158 178.6,159.5 182.9,162C190.9,167.7 190.2,176.1 181.4,181.4C172.4,186.6 158.3,187 148.7,182.2C133.8,172.9 145.3,157.5 166.9,157.9ZM345.5,158L347.5,158C353.5,158.2 359.2,159.8 363.4,162.2C371.7,167.9 371.1,176.5 362.2,181.8C353.1,187.1 338.8,187.4 329.2,182.5C314.2,173.5 324.7,158.4 345.5,158ZM256.5,158C277.9,158.2 288.3,173.5 273.3,182.5C264,188.7 248.1,188.9 238.2,183.1C228.4,177.3 228.6,167.8 238.8,162.2C243.5,159.5 249.9,157.9 256.5,158ZM115.5,199C111,199 108,202 108,208.2L108,327.9C108,336.3 113.8,346.2 121.2,350.5L232.6,414.9C239.8,419 245.5,415.6 245.5,407.3L245.5,287.6C245.5,279.3 239.8,269.2 232.6,265.1L121.1,200.6C118.9,199.5 117,199.1 115.5,199ZM396.8,199C395.2,199.1 393.1,199.5 391,200.6L279.5,265.1C272.3,269.2 266.6,279.3 266.6,287.6L266.6,407.3C266.6,415.6 272.3,419 279.5,414.9L391,350.5C398,346.2 404,336.3 404,327.9L404,208.2C404,202 401,199 396.8,199ZM211.8,264.5C223,264.9 236.5,281.8 236.3,296C236.7,307 228.9,311.5 219.1,305.9C209.4,300.2 201.6,286.5 202.2,276.1C202.2,269.3 205.4,264.9 210.7,264.5L211.8,264.5ZM342.7,286.3L343.8,286.3C349,286.7 352.3,291.1 352.3,297.8C352.2,308.3 344.6,321.1 335.2,326.6C325.7,332.1 318.1,328.1 318,317.7C317.9,303.5 331.5,286.4 342.7,286.3ZM125.8,308.8C137.2,308.3 151.3,325.6 151.3,340.1C151.7,351.2 143.9,355.7 134.1,350.2C124.4,344.5 116.6,330.9 117.1,320.4C117.1,313.5 120.4,309.1 125.8,308.8Z" style="fill-rule:nonzero;"/>
+                </g>
+            </svg>
+            +
+
+            <div class="input-with-label">
+                <div class="custom-num">
+                    <i class="fas fa-angle-up arr-up"></i>
+                    <input
+                        type="number"
+                        class="num-input"
+                        min="-10"
+                        max="10"
+                        value="0"
+                        data-color="#21d99b"
+                        id="modifier-input"
+                    />
+                    <i class="fas fa-angle-down arr-down"></i>
+                </div>
+                <div class="input-label">modifier</div>
+            </div>
+            with 
+
+            <div class="input-with-label">
+                <div class="custom-num">
+                    <i class="fas fa-angle-up arr-up"></i>
+                    <input
+                        type="number"
+                        class="num-input"
+                        min="-10"
+                        max="10"
+                        value="0"
+                        data-color="#21d99b"
+                        id="adv-input"
+                    />
+                    <i class="fas fa-angle-down arr-down"></i>
+                </div>
+                <div class="input-label">advantage</div>
+            </div>
+
+        </div>
+
+
+        <form class="input-form">
+            <button type="button" class="roll-dice">ROLL</button>
+        </form>
+
+        <div class="disp-result">
+            0
+        </div>
+
+        <form class="input-form">
+            <button type="button" class="clear-history">clear history</button>
+        </form>
+
+        <div class="history" id="history"></div>
+        
+    <script>
+
+        // to make the stepper inputs functionality
+        const customNum = document.querySelectorAll('.custom-num');
+        customNum.forEach(num => {
+            const numInput = num.querySelector('.num-input');
+            const arrUp = num.querySelector('.arr-up');
+            const arrDown = num.querySelector('.arr-down');
+
+            numInput.style.color = numInput.dataset.color;
+
+            arrUp.addEventListener('click', () => {
+                numInput.stepUp();
+                checkMaxMin();
+            });
+
+            arrDown.addEventListener('click', () => {
+                numInput.stepDown();
+                checkMaxMin();
+            });
+
+            numInput.addEventListener('input', checkMaxMin);
+
+            function checkMaxMin() {
+                const numInputValue = parseInt(numInput.value);
+                const numInputMax = parseInt(numInput.max);
+                const numInputMin = parseInt(numInput.min);
+
+                if (numInputValue === numInputMax) {
+                    num.style.paddingTop = "0.8em";
+                    num.style.height = "5em";
+                    arrUp.style.display = "none";
+                    num.style.paddingBottom = "0";
+                    arrDown.style.display = "block";
+                } else if (numInputValue === numInputMin) {
+                    num.style.paddingBottom = "0.8em";
+                    num.style.height = "5em";
+                    arrDown.style.display = "none";
+                    num.style.paddingTop = "0";
+                    arrUp.style.display = "block";
+                } else {
+                    num.style.padding = "0";
+                    num.style.height = "7em";
+                    arrUp.style.display = "block";
+                    arrDown.style.display = "block";
+                }
+
+                // change the font to red if negative, green if positive, black if zero
+                if (numInputValue>0) {
+                    numInput.style.color = "#21d99b";
+                } else if (numInputValue<0) {
+                    numInput.style.color = "#ff1717";
+                } else {
+                    numInput.style.color = "#000";
+                }
+            }
+        });
+
+        function roll1d6() {
+            return Math.floor(Math.random() * 6) + 1;
+        }
+
+        function roll_dice(n_dice=3,modifier=0,n_adv=0) {
+            let rolls = [];
+            for (let i=0; i<(n_dice+Math.abs(n_adv)); i++) {
+                rolls.push(roll1d6());
+            }
+            rolls.sort();
+            if (n_adv>0) {
+                rolls.reverse();
+            }
+            let roll_total = modifier;
+            for (let i=0; i<n_dice; i++) {
+                roll_total += rolls[i];
+            }
+            return [roll_total, rolls];
+        }
+
+        const history = document.getElementById('history');
+        const clearHistoryBtn = document.querySelector('.clear-history');
+        const rollDiceBtn = document.querySelector('.roll-dice');
+
+        const numDiceInput = document.getElementById('num-dice-input');
+        const modifierInput = document.getElementById('modifier-input');
+        const numAdvInput = document.getElementById('adv-input');
+
+        const resultDisplay = document.querySelector('.disp-result');
+        
+
+        rollDiceBtn.addEventListener('click', () => {
+            const numDice = parseInt( numDiceInput.value );
+            const modifier = parseInt( modifierInput.value );
+            const numAdv = parseInt( numAdvInput.value );
+            let dice_roll = roll_dice(numDice,modifier,numAdv);
+            let dice_disp = dice_roll;//[1].slice(0,3);
+            let rollStr = dice_roll[0] + ' = ' + dice_roll[1] + ' + ' + modifier + ', with ' + numAdv + ' adv' + '<br>';
+            history.innerHTML = rollStr + history.innerHTML;
+            history.scrollTop = 0;
+
+            resultDisplay.innerHTML = dice_roll[0]
+        });
+
+
+        clearHistoryBtn.addEventListener('click', () => {
+            history.innerHTML = '';
+        });
+
+    </script>
+    </body>
+
+</html>
