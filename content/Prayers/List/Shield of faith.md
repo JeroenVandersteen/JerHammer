@@ -9,7 +9,7 @@ draft: false
 | Shield of faith |
 | :--- |
 | **Level:** 1 |
-| **TN:** 15 |
+| **Invoking TN:** 15 |
 | **Type:** Buff |
 | **Duration:** rounds |
 | **Range:** Short |

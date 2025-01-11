@@ -8,8 +8,9 @@ draft: false
 
 | Awakening of the Woods |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Short |

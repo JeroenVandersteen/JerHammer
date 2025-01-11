@@ -9,7 +9,7 @@ draft: false
 | Memento Mori |
 | :--- |
 | **Level:** 3 |
-| **TN:** 19 |
+| **Invoking TN:** 19 |
 | **Type:** Offense |
 | **Duration:** instant |
 | **Range:** Short |

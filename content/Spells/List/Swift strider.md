@@ -8,8 +8,9 @@ draft: false
 
 | Swift strider |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Heart |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** hours |
 | **Range:** Self |

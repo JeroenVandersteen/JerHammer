@@ -8,8 +8,9 @@ draft: false
 
 | Pierce the Veil |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Light |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Self |

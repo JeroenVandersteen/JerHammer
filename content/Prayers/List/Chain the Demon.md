@@ -9,7 +9,7 @@ draft: false
 | Chain the Demon |
 | :--- |
 | **Level:** 3 |
-| **TN:** 19 |
+| **Invoking TN:** 19 |
 | **Type:** Offense |
 | **Duration:** rounds |
 | **Range:** Short |

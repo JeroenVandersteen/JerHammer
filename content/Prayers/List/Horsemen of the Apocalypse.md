@@ -9,7 +9,7 @@ draft: false
 | Horsemen of the Apocalypse |
 | :--- |
 | **Level:** 4 |
-| **TN:** 21 |
+| **Invoking TN:** 21 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Short |

@@ -9,7 +9,7 @@ draft: false
 | Hymn of Purity |
 | :--- |
 | **Level:** 3 |
-| **TN:** 19 |
+| **Invoking TN:** 19 |
 | **Type:** Buff |
 | **Duration:** rounds |
 | **Range:** Short |

@@ -9,7 +9,7 @@ draft: false
 | Plague of Locusts |
 | :--- |
 | **Level:** 1 |
-| **TN:** 15 |
+| **Invoking TN:** 15 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Short |

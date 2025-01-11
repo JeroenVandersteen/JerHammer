@@ -8,8 +8,9 @@ draft: false
 
 | Death Touch |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Death |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Touch |

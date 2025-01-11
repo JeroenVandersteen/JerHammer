@@ -9,7 +9,7 @@ draft: false
 | Plague of frogs |
 | :--- |
 | **Level:** 2 |
-| **TN:** 17 |
+| **Invoking TN:** 17 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Short |

@@ -10,8 +10,9 @@ _In the crucible of flesh, iron stirs, seeking escape from mortal coil, as the b
 
 | Control blood iron |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Heart |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

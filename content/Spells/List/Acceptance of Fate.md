@@ -8,8 +8,9 @@ draft: false
 
 | Acceptance of Fate |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Heart |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Short |

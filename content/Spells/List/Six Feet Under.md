@@ -8,8 +8,9 @@ draft: false
 
 | Six Feet Under |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Death |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

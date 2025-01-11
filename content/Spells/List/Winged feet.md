@@ -8,8 +8,9 @@ draft: false
 
 | Winged feet |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Heavenly Elements |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:**  |
 | **Duration:** rounds |
 | **Range:** Touch |

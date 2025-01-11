@@ -8,8 +8,9 @@ draft: false
 
 | Nature's hide |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Life |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Self |

@@ -8,8 +8,9 @@ draft: false
 
 | Ashes and dust |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Death |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Short |

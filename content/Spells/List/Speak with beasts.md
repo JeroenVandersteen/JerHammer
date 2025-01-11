@@ -8,8 +8,9 @@ draft: false
 
 | Speak with beasts |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Life |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Self |

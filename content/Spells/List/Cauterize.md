@@ -10,8 +10,9 @@ _Channeling intense heat to seal wounds shut with the power of fire, halting blo
 
 | Cauterize |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Heavenly Elements |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Healing |
 | **Duration:** instant |
 | **Range:** Touch |

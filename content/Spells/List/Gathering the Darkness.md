@@ -8,8 +8,9 @@ draft: false
 
 | Gathering the Darkness |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Mind |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Hex |
 | **Duration:** rounds |
 | **Range:** Short |

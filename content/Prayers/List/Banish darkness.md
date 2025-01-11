@@ -9,7 +9,7 @@ draft: false
 | Banish darkness |
 | :--- |
 | **Level:** 2 |
-| **TN:** 17 |
+| **Invoking TN:** 17 |
 | **Type:** Offense |
 | **Duration:** rounds |
 | **Range:** Short |

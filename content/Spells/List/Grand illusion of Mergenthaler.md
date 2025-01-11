@@ -8,8 +8,9 @@ draft: false
 
 | Grand illusion of Mergenthaler |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Mind |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |

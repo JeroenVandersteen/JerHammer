@@ -11,7 +11,7 @@ _During a period of mourning, your devotee remains in the twilight between livin
 | Mourning |
 | :--- |
 | **Level:** 2 |
-| **TN:** 17 |
+| **Invoking TN:** 17 |
 | **Type:** Heal |
 | **Duration:** rounds |
 | **Range:** Touch |

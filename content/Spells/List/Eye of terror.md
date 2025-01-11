@@ -10,8 +10,9 @@ _You look into the target's eyes to instill utter terror in their mind._
 
 | Eye of terror |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Mind |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Hex |
 | **Duration:** instant |
 | **Range:** Short |

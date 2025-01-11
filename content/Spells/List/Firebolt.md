@@ -10,8 +10,9 @@ _Purifying through flames, consuming impurities and leaving behind only ash in i
 
 | Firebolt |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Heavenly Elements |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

@@ -8,8 +8,9 @@ draft: false
 
 | Forgetful mind |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Mind |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Touch |

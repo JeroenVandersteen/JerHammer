@@ -8,8 +8,9 @@ draft: false
 
 | Barkskin |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Touch |

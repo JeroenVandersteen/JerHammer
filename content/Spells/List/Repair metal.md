@@ -10,8 +10,9 @@ _In the hands of the smith, metal bends to will, whether to heal the broken or s
 
 | Repair metal |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Touch |

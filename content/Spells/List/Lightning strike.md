@@ -8,8 +8,9 @@ draft: false
 
 | Lightning strike |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Heavenly Elements |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

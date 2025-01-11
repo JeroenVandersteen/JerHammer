@@ -8,8 +8,9 @@ draft: false
 
 | Black horrors |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Darkness |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Hex |
 | **Duration:** rounds |
 | **Range:** Short |

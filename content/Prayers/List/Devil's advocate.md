@@ -9,7 +9,7 @@ draft: false
 | Devil's advocate |
 | :--- |
 | **Level:** 1 |
-| **TN:** 15 |
+| **Invoking TN:** 15 |
 | **Type:** Utility |
 | **Duration:** minutes |
 | **Range:** Self |

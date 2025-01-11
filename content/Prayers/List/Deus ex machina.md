@@ -9,7 +9,7 @@ draft: false
 | Deus ex machina |
 | :--- |
 | **Level:** 4 |
-| **TN:** 21 |
+| **Invoking TN:** 21 |
 | **Type:** Buff |
 | **Duration:** rounds |
 | **Range:** Short |

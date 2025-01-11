@@ -8,8 +8,9 @@ draft: false
 
 | Summon Nature's Ally |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Life |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Summon |
 | **Duration:** minutes |
 | **Range:** Short |

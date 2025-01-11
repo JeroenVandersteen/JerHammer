@@ -8,8 +8,9 @@ draft: false
 
 | The Dwellers Below |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Death |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Short |

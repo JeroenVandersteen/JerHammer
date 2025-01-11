@@ -10,8 +10,9 @@ _Trapped within the gilded embrace, freedom fades to memory, as the cage of meta
 
 | Gilded Cage |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Hex |
 | **Duration:** hours |
 | **Range:** Short |

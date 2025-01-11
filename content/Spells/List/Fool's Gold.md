@@ -10,8 +10,9 @@ _Beware the allure of fool's gold, for what gleams as treasure may soon reveal i
 
 | Fool's Gold |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Mind |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Utility |
 | **Duration:** minutes |
 | **Range:** Touch |

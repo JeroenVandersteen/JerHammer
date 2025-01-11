@@ -8,8 +8,9 @@ draft: false
 
 | Shimmering Cloak |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Light |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Self |

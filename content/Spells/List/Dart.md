@@ -8,8 +8,9 @@ draft: false
 
 | Dart |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Heavenly Elements |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

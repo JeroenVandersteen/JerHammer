@@ -11,7 +11,7 @@ _Pure Faith allows the devotee to walk on water._
 | Water walking |
 | :--- |
 | **Level:** 1 |
-| **TN:** 15 |
+| **Invoking TN:** 15 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |

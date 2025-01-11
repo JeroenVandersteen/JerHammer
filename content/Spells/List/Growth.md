@@ -8,8 +8,9 @@ draft: false
 
 | Growth |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Life |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Touch |

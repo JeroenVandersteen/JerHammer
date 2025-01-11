@@ -8,8 +8,9 @@ draft: false
 
 | Communicating portals |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Darkness |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |

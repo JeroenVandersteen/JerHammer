@@ -8,8 +8,9 @@ draft: false
 
 | Nature's spear |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

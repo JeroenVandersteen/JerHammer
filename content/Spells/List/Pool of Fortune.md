@@ -8,8 +8,9 @@ draft: false
 
 | Pool of Fortune |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Light |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Self |

@@ -8,8 +8,9 @@ draft: false
 
 | Song of Courage |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Heart |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Short |

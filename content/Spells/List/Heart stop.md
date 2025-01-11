@@ -8,8 +8,9 @@ draft: false
 
 | Heart stop |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Heart |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

@@ -8,8 +8,9 @@ draft: false
 
 | Illusionary sounds |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Mind |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |

@@ -10,8 +10,9 @@ _Calling forth a creature of pure flame and rage from the depths of the inferno 
 
 | Summon fire elemental |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Heavenly Elements |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Short |

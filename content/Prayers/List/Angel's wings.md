@@ -9,7 +9,7 @@ draft: false
 | Angel's wings |
 | :--- |
 | **Level:** 2 |
-| **TN:** 17 |
+| **Invoking TN:** 17 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |

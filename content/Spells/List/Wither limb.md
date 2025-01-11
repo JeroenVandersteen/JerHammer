@@ -8,8 +8,9 @@ draft: false
 
 | Wither limb |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Death |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Hex |
 | **Duration:** rounds |
 | **Range:** Touch |

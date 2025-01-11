@@ -8,8 +8,9 @@ draft: false
 
 | Shapeshift |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Life |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Self |

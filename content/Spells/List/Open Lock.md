@@ -8,8 +8,9 @@ draft: false
 
 | Open Lock |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Darkness |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Touch |

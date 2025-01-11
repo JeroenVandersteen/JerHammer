@@ -80,6 +80,8 @@ draft: false
 
 [Wardancer](<Careers/List/Wardancer>)
 
+[Houndmaster](<Careers/List/Houndmaster>)
+
 [Mercenary](<Careers/List/Mercenary>)
 
 [Archer-gunner](<Careers/List/Archer-gunner>)

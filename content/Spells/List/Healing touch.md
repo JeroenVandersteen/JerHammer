@@ -8,8 +8,9 @@ draft: false
 
 | Healing touch |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Life |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Healing |
 | **Duration:** instant |
 | **Range:** Touch |

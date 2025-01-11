@@ -8,8 +8,9 @@ draft: false
 
 | Darkness |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Darkness |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Utility |
 | **Duration:** minutes |
 | **Range:** Short |

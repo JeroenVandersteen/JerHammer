@@ -8,8 +8,9 @@ draft: false
 
 | Bolt of Fear |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Mind |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

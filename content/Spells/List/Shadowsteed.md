@@ -8,11 +8,12 @@ draft: false
 
 | Shadowsteed |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Darkness |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Utility |
 | **Duration:** hours |
 | **Range:** Self |
-| **Effect:** Summon shadowy steed, solid and unsubstantional, use stats as warhorse |
+| **Effect:** Summon shadowy steed, solid and unsubstantial, use stats as warhorse |
 
  

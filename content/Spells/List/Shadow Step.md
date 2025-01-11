@@ -10,8 +10,9 @@ _In a flash of light and shadow, the mage vanishes from sight, reappearing momen
 
 | Shadow Step |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Darkness |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Self |

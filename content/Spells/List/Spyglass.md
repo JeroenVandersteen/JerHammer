@@ -8,8 +8,9 @@ draft: false
 
 | Spyglass |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Light |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Self |

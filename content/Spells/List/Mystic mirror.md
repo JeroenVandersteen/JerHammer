@@ -8,8 +8,9 @@ draft: false
 
 | Mystic mirror |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Darkness |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Self |

@@ -10,8 +10,9 @@ _The caster conjures a bolt of fire and hurls it at their opponent. For flavor, 
 
 | Bolt |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Heavenly Elements |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

@@ -10,8 +10,9 @@ _In a dance of mystic energies, a shield of protection forms, a sanctuary agains
 
 | Ward |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Light |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Self |

@@ -8,8 +8,9 @@ draft: false
 
 | Clarity of Mind |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Mind |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Touch |

@@ -8,8 +8,9 @@ draft: false
 
 | Shadow Warrior |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Darkness |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Short |

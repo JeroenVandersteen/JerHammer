@@ -8,8 +8,9 @@ draft: false
 
 | Drop |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Death |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Short |

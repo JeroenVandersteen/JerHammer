@@ -10,8 +10,9 @@ _Time's corrosive touch, whispered by the curse of rust, reduces even the sturdi
 
 | Curse of Rust |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Hex |
 | **Duration:** instant |
 | **Range:** Short |

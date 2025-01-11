@@ -8,8 +8,9 @@ draft: false
 
 | Drain Life |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Death |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Touch |

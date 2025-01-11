@@ -9,7 +9,7 @@ draft: false
 | Turn undead |
 | :--- |
 | **Level:** 2 |
-| **TN:** 17 |
+| **Invoking TN:** 17 |
 | **Type:** Utility |
 | **Duration:** 1 round |
 | **Range:** Short |

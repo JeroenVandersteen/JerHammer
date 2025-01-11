@@ -10,8 +10,9 @@ _Unleashing a torrent of flames from the caster's breath, scorching everything i
 
 | Breathe Fire |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Heavenly Elements |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

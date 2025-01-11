@@ -8,8 +8,9 @@ draft: false
 
 | Nature's wrath |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Life |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Short |

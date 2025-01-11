@@ -10,8 +10,9 @@ _In the depths of the mind's darkest fears, shadows coil and whisper, sowing see
 
 | Fearsome |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Heart |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Self |

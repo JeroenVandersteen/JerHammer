@@ -9,7 +9,7 @@ draft: false
 | Thou shalt not kill |
 | :--- |
 | **Level:** 1 |
-| **TN:** 15 |
+| **Invoking TN:** 15 |
 | **Type:** Debuff |
 | **Duration:** rounds |
 | **Range:** Short |

@@ -8,8 +8,9 @@ draft: false
 
 | Replay image |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Mind |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |

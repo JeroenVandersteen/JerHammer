@@ -8,8 +8,9 @@ draft: false
 
 | Regenerate |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Life |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Healing |
 | **Duration:** rounds |
 | **Range:** Touch |

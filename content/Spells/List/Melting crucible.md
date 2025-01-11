@@ -10,8 +10,9 @@ _Through the crucible's embrace, all that once stood solid yields to molten pote
 
 | Melting crucible |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Hex |
 | **Duration:** instant |
 | **Range:** Short |

@@ -10,8 +10,9 @@ _You bathe the area in darkness, and cause your opponents to shriek in pain_
 
 | Eclipse |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Darkness |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Short |

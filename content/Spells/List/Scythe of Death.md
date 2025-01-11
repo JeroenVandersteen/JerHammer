@@ -8,8 +8,9 @@ draft: false
 
 | Scythe of Death |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Death |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Self |

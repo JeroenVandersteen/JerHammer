@@ -10,8 +10,9 @@ _You conspire with your shadow against your enemy_
 
 | Shadow Strike |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Darkness |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Self |

@@ -10,8 +10,9 @@ _In the heat of battle, steel becomes frail, turning even the mightiest armor in
 
 | Tin armor |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Hex |
 | **Duration:** instant |
 | **Range:** Short |

@@ -10,8 +10,9 @@ _In the blink of an eye, the world blurs and shifts as the target moves with pre
 
 | Arcane Urgency |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** instant |
 | **Range:** Short |

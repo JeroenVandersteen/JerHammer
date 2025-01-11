@@ -10,8 +10,9 @@ _You can on the holy light to banish a demon entirely._
 
 | Weinwurm's Daemonbane |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Light |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

@@ -9,6 +9,7 @@ draft: false
  Weapon | Price | Damage | Type | To hit | Parry | Qualities | Range |
  :--- | :--- | --- | --- | --- | --- | :--- | :--- |
 | [Knife](<Weapons/List/Knife>) | 8cp | S+1d6+1 | Lethal |  |  |  |  |
+| [Sickle](<Weapons/List/Sickle>) | 10cp | S+1d6+2 | Lethal |  |  |  |  |
 | [Short Sword](<Weapons/List/Short Sword>) | 2st 2cp | S+2d6+1 | Lethal | 1 | 1 |  |  |
 | [Broadsword](<Weapons/List/Broadsword>) | 2st 7cp | S+2d6+2 | Lethal | 1 | 1 |  |  |
 | [Longsword](<Weapons/List/Longsword>) | 3st 2cp | S+3d6 | Lethal | 1 | 1 |  |  |
@@ -34,9 +35,9 @@ draft: false
 
  Weapon | Price | Damage | Type | To hit | Parry | Qualities | Range |
  :--- | :--- | --- | --- | --- | --- | :--- | :--- |
-| [Spear (1H)](<Weapons/List/Spear>) |  | S+2d6 | Lethal | 1 |  |  |  |
+| [Spear (1H)](<Weapons/List/Spear>) | 1st 7cp | S+2d6 | Lethal | 1 |  |  |  |
 | [Spear (2H)](<Weapons/List/Spear>) | 4st 5cp | 2S+3d6 | Lethal | 1 |  |  |  |
-| [Halberd (1H)](<Weapons/List/Halberd>) |  | S+3d6+1 | Lethal | 1 |  | Heavy |  |
+| [Halberd (1H)](<Weapons/List/Halberd>) | 3st 3cp | S+3d6+1 | Lethal | 1 |  | Heavy |  |
 | [Halberd (2H)](<Weapons/List/Halberd>) | 10st 4cp | 2S+4d6 | Lethal | 1 |  | Trip, armor destroying, heavy |  |
 | [Pitchfork](<Weapons/List/Pitchfork>) | 3st 3cp | 2S+2d6+1 | Lethal | 1 |  |  |  |
 | [Trident](<Weapons/List/Trident>) | 4st 11cp | 2S+3d6+1 | Lethal | 1 |  |  |  |
@@ -51,7 +52,7 @@ draft: false
 
  Weapon | Price | Damage | Type | To hit | Parry | Qualities | Range |
  :--- | :--- | --- | --- | --- | --- | :--- | :--- |
-| [Unarmed](<Weapons/List/Unarmed>) | 2cp | S+1d6 | Impact | -1 | -1 | Dangerous, to hit/parry penalties only vs weapons |  |
+| [Unarmed](<Weapons/List/Unarmed>) | - | S+1d6 | Impact | -1 | -1 | Dangerous, to hit/parry penalties only vs weapons |  |
 | [Brass Knuckles](<Weapons/List/Brass Knuckles>) | 3cp | S+1d6+1 | Impact | -1 | -1 | To hit/parry penalties only vs weapons |  |
 | [Club](<Weapons/List/Club>) | 1st 1cp | S+2d6 | Impact |  |  |  |  |
 | [Spiked Club](<Weapons/List/Spiked Club>) | 2st | S+3d6 | Lethal/Impact |  |  |  |  |
@@ -115,6 +116,19 @@ draft: false
 | [Cat o' nine tails whip](<Weapons/List/Cat o' nine tails whip>) | 2st 6cp | 3d6 | Lethal |  |  | Trip, entangle, dangerous |  |
 | [Spiked chain](<Weapons/List/Spiked chain>) | 3st 9cp | 4d6 | Lethal |  |  | Trip, entangle, dangerous |  |
 | [Bolas](<Weapons/List/Bolas>) | 3st | 1d6 | Impact |  |  | Trip, entangle, dangerous | Short |
+
+
+ Weapon | Price | Damage | Type | To hit | Parry | Qualities | Range |
+ :--- | :--- | --- | --- | --- | --- | :--- | :--- |
+| [Unarmed](<Weapons/List/Unarmed>) | - | S+1d6 | Impact | -1 | -1 | Dangerous, to hit/parry penalties only vs weapons |  |
+| [Torch](<Weapons/List/Torch>) | 8cp | S+1d6+1 | Impact |  |  | Flaming |  |
+| [Pitchfork](<Weapons/List/Pitchfork>) | 3st 3cp | 2S+2d6+1 | Lethal | 1 |  |  |  |
+| [Crowbar](<Weapons/List/Crowbar>) | 1st 1cp | S+2d6 | Impact |  |  |  |  |
+| [Hammer](<Weapons/List/Hammer>) | 1st 1cp | S+2d6+1 | Impact |  | -1 |  |  |
+| [Mining Pick](<Weapons/List/Mining Pick>) | 2st 11cp | 2S+2d6+1 | Lethal |  |  | Armor destoying |  |
+| [Shovel](<Weapons/List/Shovel>) | 5cp | 2S+1d6 | Impact | -1 | -1 |  |  |
+| [Broken bottle](<Weapons/List/Broken bottle>) | 3cp | S+1d6+1 | Lethal | -1 | -1 | Dangerous, to hit/parry penalties only vs weapons |  |
+| [Wooden stick](<Weapons/List/Wooden stick>) | 8cp | S+1d6+1 | Impact |  |  |  |  |
 
 
  Weapon | Price | Damage | Type | To hit | Parry | Qualities | Range |

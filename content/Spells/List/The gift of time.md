@@ -8,8 +8,9 @@ draft: false
 
 | The gift of time |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Light |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Enchantment |
 | **Duration:** instant |
 | **Range:** Short |

@@ -8,8 +8,9 @@ draft: false
 
 | Release the beast |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Life |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Hex |
 | **Duration:** minutes |
 | **Range:** Short |

@@ -8,8 +8,9 @@ draft: false
 
 | Guardian hounds |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Death |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Self |

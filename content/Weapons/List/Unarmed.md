@@ -8,7 +8,7 @@ draft: false
 
  | Unarmed | 
  | :--- | 
- | **Price**: 2cp | 
+ | **Price**: - | 
  | **Damage**: S+1d6 Impact | 
  | **To hit bonus**: -1 | 
  | **Parry bonus**: -1 | 

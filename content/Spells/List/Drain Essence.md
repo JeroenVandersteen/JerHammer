@@ -8,8 +8,9 @@ draft: false
 
 | Drain Essence |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Death |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Touch |

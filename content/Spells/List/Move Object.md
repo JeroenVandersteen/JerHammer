@@ -10,8 +10,9 @@ _With a gesture, the mage commands the winds of magic, bending space and time to
 
 | Move Object |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |

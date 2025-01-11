@@ -10,8 +10,9 @@ _From the mists of arcane mastery, a blade of pure energy coalesces, its edge ho
 
 | Shadow Blade |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Darkness |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Self |

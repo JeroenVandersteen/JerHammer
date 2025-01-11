@@ -8,8 +8,9 @@ draft: false
 
 | Protective charm |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Light |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Short |

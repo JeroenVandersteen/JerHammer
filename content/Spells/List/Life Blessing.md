@@ -8,8 +8,9 @@ draft: false
 
 | Life Blessing |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Life |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Healing |
 | **Duration:** instant |
 | **Range:** Touch |

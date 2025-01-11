@@ -10,8 +10,9 @@ _With a whispered prayer to the god of war, the target is suffused with divine w
 
 | Fury of Khaine |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Heart |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Short |

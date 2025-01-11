@@ -11,7 +11,7 @@ _The heretic is crucified for their sins._
 | Crucifixion |
 | :--- |
 | **Level:** 4 |
-| **TN:** 21 |
+| **Invoking TN:** 21 |
 | **Type:** Offense |
 | **Duration:** rounds |
 | **Range:** Short |

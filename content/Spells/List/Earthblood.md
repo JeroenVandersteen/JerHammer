@@ -8,8 +8,9 @@ draft: false
 
 | Earthblood |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Life |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Healing |
 | **Duration:** rounds |
 | **Range:** Self |

@@ -10,8 +10,9 @@ _Your mind moves an object._
 
 | Shadow hand |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Darkness |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |

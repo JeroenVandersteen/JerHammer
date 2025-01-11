@@ -8,8 +8,9 @@ draft: false
 
 | Piercing Ray |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Light |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

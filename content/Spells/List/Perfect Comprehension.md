@@ -8,8 +8,9 @@ draft: false
 
 | Perfect Comprehension |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Mind |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Self |

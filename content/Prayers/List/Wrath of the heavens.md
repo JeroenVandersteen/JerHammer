@@ -9,7 +9,7 @@ draft: false
 | Wrath of the heavens |
 | :--- |
 | **Level:** 4 |
-| **TN:** 21 |
+| **Invoking TN:** 21 |
 | **Type:** Offense |
 | **Duration:** instant |
 | **Range:** Short |

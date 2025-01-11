@@ -10,8 +10,9 @@ _A fiery sphere hurtling through the air, exploding on impact, engulfing all in 
 
 | Fireball |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Heavenly Elements |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

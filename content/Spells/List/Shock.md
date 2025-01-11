@@ -8,8 +8,9 @@ draft: false
 
 | Shock |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Heart |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Touch |

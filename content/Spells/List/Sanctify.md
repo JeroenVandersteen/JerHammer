@@ -8,8 +8,9 @@ draft: false
 
 | Sanctify |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Light |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Touch |

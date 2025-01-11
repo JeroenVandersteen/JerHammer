@@ -8,8 +8,9 @@ draft: false
 
 | Wind gust |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Heavenly Elements |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Short |

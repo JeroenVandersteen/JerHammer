@@ -9,7 +9,7 @@ draft: false
 | Dei Gratia |
 | :--- |
 | **Level:** 2 |
-| **TN:** 17 |
+| **Invoking TN:** 17 |
 | **Type:** Buff |
 | **Duration:** minutes |
 | **Range:** Short |

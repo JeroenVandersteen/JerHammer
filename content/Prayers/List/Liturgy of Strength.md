@@ -11,7 +11,7 @@ _Your liturgy bolsters strength in your devotees._
 | Liturgy of Strength |
 | :--- |
 | **Level:** 1 |
-| **TN:** 15 |
+| **Invoking TN:** 15 |
 | **Type:** Buff |
 | **Duration:** rounds |
 | **Range:** Short |

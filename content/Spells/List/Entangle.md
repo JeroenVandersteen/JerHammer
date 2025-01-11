@@ -8,8 +8,9 @@ draft: false
 
 | Entangle |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Short |

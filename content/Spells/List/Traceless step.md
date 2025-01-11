@@ -8,8 +8,9 @@ draft: false
 
 | Traceless step |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Utility |
 | **Duration:** hours |
 | **Range:** Self |

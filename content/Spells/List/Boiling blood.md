@@ -10,8 +10,9 @@ _The target's blood starts boiling for the whole duration of the spell._
 
 | Boiling blood |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Heart |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Short |

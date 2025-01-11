@@ -10,8 +10,9 @@ _In the forge's embrace, the armor is tempered anew, each strike imbuing it with
 
 | Reinforce armor |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Touch |

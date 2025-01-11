@@ -8,8 +8,9 @@ draft: false
 
 | Winter pelt |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Life |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Enchantment |
 | **Duration:** hours |
 | **Range:** Self |

@@ -8,8 +8,9 @@ draft: false
 
 | Sense Heart |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Heart |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Short |

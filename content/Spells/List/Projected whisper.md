@@ -8,8 +8,9 @@ draft: false
 
 | Projected whisper |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Darkness |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |

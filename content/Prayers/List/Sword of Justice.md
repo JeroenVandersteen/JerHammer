@@ -11,7 +11,7 @@ _Your devotees' weapons are empowered by justice._
 | Sword of Justice |
 | :--- |
 | **Level:** 1 |
-| **TN:** 15 |
+| **Invoking TN:** 15 |
 | **Type:** Buff |
 | **Duration:** rounds |
 | **Range:** Short |

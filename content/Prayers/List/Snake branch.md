@@ -11,7 +11,7 @@ _You throw branches on the ground. When touching the ground, they turn into slit
 | Snake branch |
 | :--- |
 | **Level:** 1 |
-| **TN:** 15 |
+| **Invoking TN:** 15 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Short |

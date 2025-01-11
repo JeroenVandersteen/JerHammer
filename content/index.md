@@ -28,6 +28,12 @@ Browse all [Talents](<Talents/_index.md>).
 
 Browse all [Weapons](<Weapons/_index.md>).
 
+Browse all [equipment](<Equipment/_index.md>).
+
+Browse all [herbs](<Herbs/_index.md>).
+
+[Potion Spoilage](<PotionSpoilage.md>).
+
 The objectives of this system are:
 - The game can be played both with miniatures on a map, or entirely with theatre-of-the-mind.
 - Magick is rare, difficult, dangerous, and feared.

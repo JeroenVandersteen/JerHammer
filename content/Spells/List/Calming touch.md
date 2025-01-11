@@ -8,8 +8,9 @@ draft: false
 
 | Calming touch |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Heart |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Touch |

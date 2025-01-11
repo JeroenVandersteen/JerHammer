@@ -191,7 +191,7 @@ draft: false
 | [First aid](<Talents/List/First aid>) | Int |  | Medicine test and full round to heal 1 HP |
 | [Foresight](<Talents/List/Foresight>) |  |  | Fortune to force opponent reroll |
 | [Gold fever](<Talents/List/Gold fever>) |  |  | Advantage to spot precious items |
-| [Gossip](<Talents/List/Gossip>) | Fel |  | Gain 1 rumour/session |
+| [Gossip](<Talents/List/Gossip>) | Fel |  | Gain 1 rumor/session |
 | [Hide in nature](<Talents/List/Hide in nature>) |  |  | Advantage on stealth in nature |
 | [Hunter](<Talents/List/Hunter>) |  |  | Provide food when outdoors |
 | [Improvisation](<Talents/List/Improvisation>) |  |  | Use other skill if narrated |

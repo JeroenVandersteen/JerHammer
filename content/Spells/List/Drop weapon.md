@@ -8,8 +8,9 @@ draft: false
 
 | Drop weapon |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Mind |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Hex |
 | **Duration:** instant |
 | **Range:** Short |

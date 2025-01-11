@@ -9,7 +9,7 @@ draft: false
 | Zone of silence and calm |
 | :--- |
 | **Level:** 2 |
-| **TN:** 17 |
+| **Invoking TN:** 17 |
 | **Type:** Utility |
 | **Duration:** minutes |
 | **Range:** Short |

@@ -8,8 +8,9 @@ draft: false
 
 | Choking shadows |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Darkness |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Short |

@@ -8,8 +8,9 @@ draft: false
 
 | Healing Light |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Light |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Healing |
 | **Duration:** instant |
 | **Range:** Short |

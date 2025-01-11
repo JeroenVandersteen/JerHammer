@@ -8,8 +8,9 @@ draft: false
 
 | Befriend person |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Heart |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Touch |

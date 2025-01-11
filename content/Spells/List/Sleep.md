@@ -8,8 +8,9 @@ draft: false
 
 | Sleep |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Mind |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Utility |
 | **Duration:** minutes |
 | **Range:** Touch |

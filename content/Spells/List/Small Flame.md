@@ -8,8 +8,9 @@ draft: false
 
 | Small Flame |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Heavenly Elements |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Self |

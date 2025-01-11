@@ -8,8 +8,9 @@ draft: false
 
 | Geyser |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

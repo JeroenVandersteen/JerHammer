@@ -8,8 +8,9 @@ draft: false
 
 | Racing heart |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Heart |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Touch |

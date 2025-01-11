@@ -8,8 +8,9 @@ draft: false
 
 | Commune with dead |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Death |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Touch |

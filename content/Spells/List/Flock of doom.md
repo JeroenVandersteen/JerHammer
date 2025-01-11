@@ -8,8 +8,9 @@ draft: false
 
 | Flock of doom |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Life |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Short |

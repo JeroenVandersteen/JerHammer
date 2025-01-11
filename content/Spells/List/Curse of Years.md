@@ -8,8 +8,9 @@ draft: false
 
 | Curse of Years |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Heart |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Hex |
 | **Duration:** rounds |
 | **Range:** Touch |

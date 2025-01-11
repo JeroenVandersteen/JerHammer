@@ -9,7 +9,7 @@ draft: false
 | Blessed armor |
 | :--- |
 | **Level:** 3 |
-| **TN:** 19 |
+| **Invoking TN:** 19 |
 | **Type:** Buff |
 | **Duration:** rounds |
 | **Range:** Short |

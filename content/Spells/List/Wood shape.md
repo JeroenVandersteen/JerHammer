@@ -8,8 +8,9 @@ draft: false
 
 | Wood shape |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Terrestrial Elements |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Utility |
 | **Duration:** hours |
 | **Range:** Self |

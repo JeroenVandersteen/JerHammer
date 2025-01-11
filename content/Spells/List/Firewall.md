@@ -10,8 +10,9 @@ _Conjuring a barrier of roaring flames, obstructing passage and repelling foes w
 
 | Firewall |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Heavenly Elements |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Short |

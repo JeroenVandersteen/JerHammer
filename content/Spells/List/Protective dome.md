@@ -10,8 +10,9 @@ _In a radiant display of power, a dome of shimmering energy rises, a bastion aga
 
 | Protective dome |
 | :--- |
+| **Level:** 3 |
 | **Lore:** Light |
-| **CN:** 6 |
+| **Casting TN:** 19 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Self |

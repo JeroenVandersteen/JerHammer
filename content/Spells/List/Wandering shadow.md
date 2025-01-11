@@ -10,8 +10,9 @@ _Your shadow moves as if it has a mind of its own._
 
 | Wandering shadow |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Darkness |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Utility |
 | **Duration:** minutes |
 | **Range:** Self |

@@ -8,8 +8,9 @@ draft: false
 
 | Nature's Talents |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Life |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** hours |
 | **Range:** Self |

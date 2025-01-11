@@ -11,7 +11,7 @@ _Your mere presence banishes the heretics._
 | Banishment |
 | :--- |
 | **Level:** 3 |
-| **TN:** 19 |
+| **Invoking TN:** 19 |
 | **Type:** Utility |
 | **Duration:** 1 round |
 | **Range:** Short |

@@ -10,8 +10,9 @@ _With whispered incantations, the blade awakens, humming with newfound strength 
 
 | Enchant Weapon |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Light |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Touch |

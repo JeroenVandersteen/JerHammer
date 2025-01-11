@@ -9,7 +9,7 @@ draft: false
 | Banish Fear and Anger |
 | :--- |
 | **Level:** 2 |
-| **TN:** 17 |
+| **Invoking TN:** 17 |
 | **Type:** Buff |
 | **Duration:** rounds |
 | **Range:** Short |

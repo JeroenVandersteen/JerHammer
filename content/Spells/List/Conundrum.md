@@ -8,8 +8,9 @@ draft: false
 
 | Conundrum |
 | :--- |
+| **Level:** 1 |
 | **Lore:** Mind |
-| **CN:** 0 |
+| **Casting TN:** 15 |
 | **Type:** Hex |
 | **Duration:** instant |
 | **Range:** Short |

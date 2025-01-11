@@ -8,8 +8,9 @@ draft: false
 
 | Summon swarms |
 | :--- |
+| **Level:** 4 |
 | **Lore:** Life |
-| **CN:** 9 |
+| **Casting TN:** 21 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Short |

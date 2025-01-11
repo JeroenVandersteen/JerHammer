@@ -8,8 +8,9 @@ draft: false
 
 | Dark Vision |
 | :--- |
+| **Level:** 2 |
 | **Lore:** Darkness |
-| **CN:** 3 |
+| **Casting TN:** 17 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Self |
