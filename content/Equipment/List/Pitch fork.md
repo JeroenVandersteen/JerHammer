@@ -6,7 +6,7 @@ draft: false
 
 ### Pitch fork
 
-**Cost:** 3 st 3 cp cp
+**Cost:** 3 st 3 cp 
 
 **Category:** Tools 
 

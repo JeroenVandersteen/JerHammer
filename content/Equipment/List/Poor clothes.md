@@ -6,7 +6,7 @@ draft: false
 
 ### Poor clothes
 
-**Cost:** 3 cp cp
+**Cost:** 3 cp 
 
 **Category:** Clothing 
 

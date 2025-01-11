@@ -6,7 +6,7 @@ draft: false
 
 ### Mercenary - session
 
-**Cost:** 3 st cp
+**Cost:** 3 st 
 
 **Category:** Hirelings 
 

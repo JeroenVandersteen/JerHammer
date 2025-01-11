@@ -6,7 +6,7 @@ draft: false
 
 ### Galleon
 
-**Cost:** 1000 GK cp
+**Cost:** 1000 GK 
 
 **Category:** Vehicles 
 

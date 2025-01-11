@@ -6,7 +6,7 @@ draft: false
 
 ### Caravel
 
-**Cost:** 200 GK cp
+**Cost:** 200 GK 
 
 **Category:** Vehicles 
 

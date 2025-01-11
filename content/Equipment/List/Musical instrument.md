@@ -6,7 +6,7 @@ draft: false
 
 ### Musical instrument
 
-**Cost:** 2 st 6 cp cp
+**Cost:** 2 st 6 cp 
 
 **Category:** Tools 
 

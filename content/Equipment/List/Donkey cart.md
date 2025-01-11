@@ -6,7 +6,7 @@ draft: false
 
 ### Donkey cart
 
-**Cost:** 1 GK cp
+**Cost:** 1 GK 
 
 **Category:** Vehicles 
 

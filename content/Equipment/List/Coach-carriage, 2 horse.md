@@ -6,7 +6,7 @@ draft: false
 
 ### Coach-carriage, 2 horse
 
-**Cost:** 15 GK cp
+**Cost:** 15 GK 
 
 **Category:** Vehicles 
 

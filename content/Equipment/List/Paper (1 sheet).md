@@ -1,12 +1,12 @@
 ---
-title: "Paper, 1 sheet"
+title: "Paper (1 sheet)"
 titleIcon: "fa-solid fa-angles-up"
 draft: false
 ---
 
-### Paper, 1 sheet
+### Paper (1 sheet)
 
-**Cost:** 1 cp cp
+**Cost:** 1 cp 
 
 **Category:** Tools 
 

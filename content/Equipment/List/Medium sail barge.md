@@ -6,7 +6,7 @@ draft: false
 
 ### Medium sail barge
 
-**Cost:** 120 GK cp
+**Cost:** 120 GK 
 
 **Category:** Vehicles 
 

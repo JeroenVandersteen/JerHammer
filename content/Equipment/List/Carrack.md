@@ -6,7 +6,7 @@ draft: false
 
 ### Carrack
 
-**Cost:** 650 GK cp
+**Cost:** 650 GK 
 
 **Category:** Vehicles 
 

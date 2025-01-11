@@ -34,7 +34,7 @@ draft: false
 | [Owl](<Equipment/List/Owl>) | 1 st |
 | [Pig](<Equipment/List/Pig>) | 1 st |
 | [Raven](<Equipment/List/Raven>) | 1 st |
-| [Viscious dog](<Equipment/List/Viscious dog>) | 1 st |
+| [Vicious dog](<Equipment/List/Vicious dog>) | 1 st |
 | [Hunting dog](<Equipment/List/Hunting dog>) | 2 st |
 | [Trained falcon](<Equipment/List/Trained falcon>) | 10 st |
 | [Bear](<Equipment/List/Bear>) | 3 GK |
@@ -50,8 +50,8 @@ draft: false
  | Item | Cost | Notes |
  | :--- | --- | :--- |
 | [Full day's rations](<Equipment/List/Full day's rations>) | 1 cp |  |
-| [Paper, 1 sheet](<Equipment/List/Paper, 1 sheet>) | 1 cp |  |
-| [Parchment, 1 sheet](<Equipment/List/Parchment, 1 sheet>) | 1 cp |  |
+| [Paper (1 sheet)](<Equipment/List/Paper (1 sheet)>) | 1 cp |  |
+| [Parchment (1 sheet)](<Equipment/List/Parchment (1 sheet)>) | 1 cp |  |
 | [Fishing pole](<Equipment/List/Fishing pole>) | 2 cp |  |
 | [Quill pen](<Equipment/List/Quill pen>) | 2 cp |  |
 | [Tinderbox](<Equipment/List/Tinderbox>) | 2 cp |  |
@@ -66,7 +66,7 @@ draft: false
 | [Manacles](<Equipment/List/Manacles>) | 4 cp |  |
 | [Bandage](<Equipment/List/Bandage>) | 6 cp |  |
 | [Hammer](<Equipment/List/Hammer>) | 6 cp |  |
-| [Rope, 10 meters](<Equipment/List/Rope, 10 meters>) | 6 cp |  |
+| [Rope (10 meters)](<Equipment/List/Rope (10 meters)>) | 6 cp |  |
 | [Chest](<Equipment/List/Chest>) | 7 cp |  |
 | [Crowbar](<Equipment/List/Crowbar>) | 7 cp | Double strength to pry open door. |
 | [Scissors](<Equipment/List/Scissors>) | 7 cp |  |
@@ -104,10 +104,10 @@ draft: false
 
  | Item | Cost |
  | :--- | --- |
-| [Canoe, 4 people](<Equipment/List/Canoe, 4 people>) | 6 st |
+| [Canoe (4 people)](<Equipment/List/Canoe (4 people)>) | 6 st |
 | [Row boat](<Equipment/List/Row boat>) | 10 st |
 | [Small sail barge](<Equipment/List/Small sail barge>) | 15 GK |
-| [Drawn river barge, excl 1 draft horse](<Equipment/List/Drawn river barge, excl 1 draft horse>) | 24 GK |
+| [Drawn river barge (excl 1 draft horse)](<Equipment/List/Drawn river barge (excl 1 draft horse)>) | 24 GK |
 | [Medium sail barge](<Equipment/List/Medium sail barge>) | 120 GK |
 | [Large sail barge](<Equipment/List/Large sail barge>) | 300 GK |
 | [River patrol boat](<Equipment/List/River patrol boat>) | 100 GK |

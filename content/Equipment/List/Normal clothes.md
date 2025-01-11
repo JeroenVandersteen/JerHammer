@@ -6,7 +6,7 @@ draft: false
 
 ### Normal clothes
 
-**Cost:** 1 st cp
+**Cost:** 1 st 
 
 **Category:** Clothing 
 

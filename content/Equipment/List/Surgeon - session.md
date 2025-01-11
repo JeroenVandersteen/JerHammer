@@ -6,7 +6,7 @@ draft: false
 
 ### Surgeon - session
 
-**Cost:** 6 st cp
+**Cost:** 6 st 
 
 **Category:** Hirelings 
 

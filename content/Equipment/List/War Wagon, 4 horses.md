@@ -6,7 +6,7 @@ draft: false
 
 ### War Wagon, 4 horses
 
-**Cost:** 50 GK cp
+**Cost:** 50 GK 
 
 **Category:** Vehicles 
 

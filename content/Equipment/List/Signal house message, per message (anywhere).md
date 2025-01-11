@@ -6,7 +6,7 @@ draft: false
 
 ### Signal house message, per message (anywhere)
 
-**Cost:** 2 st cp
+**Cost:** 2 st 
 
 **Category:** Services 
 

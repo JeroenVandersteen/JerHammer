@@ -6,7 +6,7 @@ draft: false
 
 ### Sickle
 
-**Cost:** 10 cp cp
+**Cost:** 10 cp 
 
 **Category:** Tools 
 

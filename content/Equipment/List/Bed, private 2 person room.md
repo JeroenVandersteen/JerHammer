@@ -6,7 +6,7 @@ draft: false
 
 ### Bed, private 2 person room
 
-**Cost:** 8 cp cp
+**Cost:** 8 cp 
 
 **Category:** Inn 
 

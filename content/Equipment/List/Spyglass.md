@@ -6,7 +6,7 @@ draft: false
 
 ### Spyglass
 
-**Cost:** 1 GK cp
+**Cost:** 1 GK 
 
 **Category:** Tools 
 

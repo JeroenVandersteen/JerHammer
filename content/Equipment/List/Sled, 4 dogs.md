@@ -6,7 +6,7 @@ draft: false
 
 ### Sled, 4 dogs
 
-**Cost:** 6 st cp
+**Cost:** 6 st 
 
 **Category:** Vehicles 
 

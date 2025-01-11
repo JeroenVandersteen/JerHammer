@@ -6,7 +6,7 @@ draft: false
 
 ### Pipe and tobacco
 
-**Cost:** 3 cp cp
+**Cost:** 3 cp 
 
 **Category:** Tools 
 

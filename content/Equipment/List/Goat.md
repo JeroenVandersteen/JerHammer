@@ -6,7 +6,7 @@ draft: false
 
 ### Goat
 
-**Cost:** 6 cp cp
+**Cost:** 6 cp 
 
 **Category:** Animals 
 

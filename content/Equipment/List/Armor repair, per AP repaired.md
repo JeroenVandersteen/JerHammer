@@ -6,7 +6,7 @@ draft: false
 
 ### Armor repair, per AP repaired
 
-**Cost:** 1 cp cp
+**Cost:** 1 cp 
 
 **Category:** Services 
 

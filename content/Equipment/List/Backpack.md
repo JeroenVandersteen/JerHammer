@@ -6,7 +6,7 @@ draft: false
 
 ### Backpack
 
-**Cost:** 8 cp cp
+**Cost:** 8 cp 
 
 **Category:** Clothing 
 

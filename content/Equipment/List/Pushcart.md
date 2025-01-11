@@ -6,7 +6,7 @@ draft: false
 
 ### Pushcart
 
-**Cost:** 10 st cp
+**Cost:** 10 st 
 
 **Category:** Vehicles 
 

@@ -6,7 +6,7 @@ draft: false
 
 ### Longship
 
-**Cost:** 40 GK cp
+**Cost:** 40 GK 
 
 **Category:** Vehicles 
 

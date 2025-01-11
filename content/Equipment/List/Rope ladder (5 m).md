@@ -6,7 +6,7 @@ draft: false
 
 ### Rope ladder (5 m)
 
-**Cost:** 1 st cp
+**Cost:** 1 st 
 
 **Category:** Tools 
 

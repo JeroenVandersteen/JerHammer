@@ -6,7 +6,7 @@ draft: false
 
 ### Crowbar
 
-**Cost:** 7 cp cp
+**Cost:** 7 cp 
 
 **Category:** Tools 
 

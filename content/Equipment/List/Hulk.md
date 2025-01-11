@@ -6,7 +6,7 @@ draft: false
 
 ### Hulk
 
-**Cost:** 150 GK cp
+**Cost:** 150 GK 
 
 **Category:** Vehicles 
 

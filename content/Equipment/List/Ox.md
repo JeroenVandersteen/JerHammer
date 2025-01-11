@@ -6,7 +6,7 @@ draft: false
 
 ### Ox
 
-**Cost:** 10 st cp
+**Cost:** 10 st 
 
 **Category:** Animals 
 

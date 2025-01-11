@@ -6,7 +6,7 @@ draft: false
 
 ### Wine, bottle
 
-**Cost:** 1 cp cp
+**Cost:** 1 cp 
 
 **Category:** Inn 
 

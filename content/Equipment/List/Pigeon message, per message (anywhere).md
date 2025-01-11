@@ -6,7 +6,7 @@ draft: false
 
 ### Pigeon message, per message (anywhere)
 
-**Cost:** 1 st cp
+**Cost:** 1 st 
 
 **Category:** Services 
 

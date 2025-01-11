@@ -6,7 +6,7 @@ draft: false
 
 ### Trained falcon
 
-**Cost:** 10 st cp
+**Cost:** 10 st 
 
 **Category:** Animals 
 

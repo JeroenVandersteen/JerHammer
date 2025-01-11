@@ -6,7 +6,7 @@ draft: false
 
 ### Full day's rations
 
-**Cost:** 1 cp cp
+**Cost:** 1 cp 
 
 **Category:** Tools 
 

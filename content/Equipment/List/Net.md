@@ -6,7 +6,7 @@ draft: false
 
 ### Net
 
-**Cost:** 3 cp cp
+**Cost:** 3 cp 
 
 **Category:** Tools 
 

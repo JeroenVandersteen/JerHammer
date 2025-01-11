@@ -6,7 +6,7 @@ draft: false
 
 ### Meal, poor, per 4
 
-**Cost:** 1 cp cp
+**Cost:** 1 cp 
 
 **Category:** Inn 
 

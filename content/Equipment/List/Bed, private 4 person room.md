@@ -6,7 +6,7 @@ draft: false
 
 ### Bed, private 4 person room
 
-**Cost:** 5 cp cp
+**Cost:** 5 cp 
 
 **Category:** Inn 
 

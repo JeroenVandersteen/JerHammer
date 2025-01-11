@@ -6,7 +6,7 @@ draft: false
 
 ### River patrol boat
 
-**Cost:** 100 GK cp
+**Cost:** 100 GK 
 
 **Category:** Vehicles 
 

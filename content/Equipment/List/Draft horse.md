@@ -6,7 +6,7 @@ draft: false
 
 ### Draft horse
 
-**Cost:** 1 GK cp
+**Cost:** 1 GK 
 
 **Category:** Animals 
 

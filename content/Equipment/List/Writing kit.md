@@ -6,7 +6,7 @@ draft: false
 
 ### Writing kit
 
-**Cost:** 2 st 2 cp cp
+**Cost:** 2 st 2 cp 
 
 **Category:** Tools 
 

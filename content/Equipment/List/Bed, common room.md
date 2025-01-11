@@ -6,7 +6,7 @@ draft: false
 
 ### Bed, common room
 
-**Cost:** 1 cp cp
+**Cost:** 1 cp 
 
 **Category:** Inn 
 

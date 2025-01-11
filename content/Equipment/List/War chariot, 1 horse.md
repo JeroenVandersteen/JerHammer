@@ -6,7 +6,7 @@ draft: false
 
 ### War chariot, 1 horse
 
-**Cost:** 5 GK cp
+**Cost:** 5 GK 
 
 **Category:** Vehicles 
 

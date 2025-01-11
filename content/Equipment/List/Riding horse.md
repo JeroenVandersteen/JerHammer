@@ -6,7 +6,7 @@ draft: false
 
 ### Riding horse
 
-**Cost:** 8 st 4 cp cp
+**Cost:** 8 st 4 cp 
 
 **Category:** Animals 
 

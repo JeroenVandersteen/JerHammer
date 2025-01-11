@@ -6,7 +6,7 @@ draft: false
 
 ### Mining pick
 
-**Cost:** 1 st 6 cp cp
+**Cost:** 1 st 6 cp 
 
 **Category:** Tools 
 

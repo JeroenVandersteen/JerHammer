@@ -6,7 +6,7 @@ draft: false
 
 ### Lamp oil
 
-**Cost:** 4 cp cp
+**Cost:** 4 cp 
 
 **Category:** Tools 
 

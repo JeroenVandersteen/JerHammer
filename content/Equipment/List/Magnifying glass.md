@@ -6,7 +6,7 @@ draft: false
 
 ### Magnifying glass
 
-**Cost:** 4 st cp
+**Cost:** 4 st 
 
 **Category:** Tools 
 

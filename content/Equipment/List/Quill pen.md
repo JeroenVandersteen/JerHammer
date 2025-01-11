@@ -6,7 +6,7 @@ draft: false
 
 ### Quill pen
 
-**Cost:** 2 cp cp
+**Cost:** 2 cp 
 
 **Category:** Tools 
 

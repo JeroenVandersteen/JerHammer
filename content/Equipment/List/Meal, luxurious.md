@@ -6,7 +6,7 @@ draft: false
 
 ### Meal, luxurious
 
-**Cost:** 5 cp cp
+**Cost:** 5 cp 
 
 **Category:** Inn 
 

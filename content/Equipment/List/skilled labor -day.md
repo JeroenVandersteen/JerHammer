@@ -6,7 +6,7 @@ draft: false
 
 ### skilled labor -day
 
-**Cost:** 8 cp cp
+**Cost:** 8 cp 
 
 **Category:** Hirelings 
 

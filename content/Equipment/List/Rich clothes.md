@@ -6,7 +6,7 @@ draft: false
 
 ### Rich clothes
 
-**Cost:** 3 st cp
+**Cost:** 3 st 
 
 **Category:** Clothing 
 

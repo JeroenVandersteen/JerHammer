@@ -6,7 +6,7 @@ draft: false
 
 ### Bed, Suite
 
-**Cost:** 2 st cp
+**Cost:** 2 st 
 
 **Category:** Inn 
 

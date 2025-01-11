@@ -6,7 +6,7 @@ draft: false
 
 ### Wagon, 6 ox-horse
 
-**Cost:** 10 GK cp
+**Cost:** 10 GK 
 
 **Category:** Vehicles 
 

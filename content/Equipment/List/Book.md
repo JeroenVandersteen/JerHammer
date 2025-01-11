@@ -6,7 +6,7 @@ draft: false
 
 ### Book
 
-**Cost:** 5 st cp
+**Cost:** 5 st 
 
 **Category:** Tools 
 

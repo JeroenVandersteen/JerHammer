@@ -6,7 +6,7 @@ draft: false
 
 ### Climber's kit
 
-**Cost:** 3 st cp
+**Cost:** 3 st 
 
 **Category:** Tools 
 

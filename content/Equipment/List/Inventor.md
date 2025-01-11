@@ -6,7 +6,7 @@ draft: false
 
 ### Inventor
 
-**Cost:** x2 invention cost cp
+**Cost:** x2 invention cost 
 
 **Category:** Services 
 

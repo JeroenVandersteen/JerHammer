@@ -6,7 +6,7 @@ draft: false
 
 ### Trade tools
 
-**Cost:** 6 st cp
+**Cost:** 6 st 
 
 **Category:** Tools 
 

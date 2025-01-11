@@ -6,7 +6,7 @@ draft: false
 
 ### Bear trap
 
-**Cost:** 2 st cp
+**Cost:** 2 st 
 
 **Category:** Tools 
 

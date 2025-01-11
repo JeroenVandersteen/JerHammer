@@ -6,7 +6,7 @@ draft: false
 
 ### Chicken
 
-**Cost:** 2 cp cp
+**Cost:** 2 cp 
 
 **Category:** Animals 
 

@@ -6,7 +6,7 @@ draft: false
 
 ### Ale, gallon
 
-**Cost:** 2 cp cp
+**Cost:** 2 cp 
 
 **Category:** Inn 
 

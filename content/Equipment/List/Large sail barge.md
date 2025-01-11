@@ -6,7 +6,7 @@ draft: false
 
 ### Large sail barge
 
-**Cost:** 300 GK cp
+**Cost:** 300 GK 
 
 **Category:** Vehicles 
 

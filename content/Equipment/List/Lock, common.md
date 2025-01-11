@@ -6,7 +6,7 @@ draft: false
 
 ### Lock, common
 
-**Cost:** 1 st cp
+**Cost:** 1 st 
 
 **Category:** Tools 
 

@@ -6,7 +6,7 @@ draft: false
 
 ### Armorer - session
 
-**Cost:** 2 st cp
+**Cost:** 2 st 
 
 **Category:** Hirelings 
 

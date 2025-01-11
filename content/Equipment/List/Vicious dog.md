@@ -1,12 +1,12 @@
 ---
-title: "Viscious dog"
+title: "Vicious dog"
 titleIcon: "fa-solid fa-angles-up"
 draft: false
 ---
 
-### Viscious dog
+### Vicious dog
 
-**Cost:** 1 st cp
+**Cost:** 1 st 
 
 **Category:** Animals 
 

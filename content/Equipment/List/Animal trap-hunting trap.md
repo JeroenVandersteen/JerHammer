@@ -6,7 +6,7 @@ draft: false
 
 ### Animal trap-hunting trap
 
-**Cost:** 4 cp cp
+**Cost:** 4 cp 
 
 **Category:** Tools 
 

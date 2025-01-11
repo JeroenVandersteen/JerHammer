@@ -6,7 +6,7 @@ draft: false
 
 ### Boots
 
-**Cost:** 6 cp cp
+**Cost:** 6 cp 
 
 **Category:** Clothing 
 

@@ -6,7 +6,7 @@ draft: false
 
 ### Galley
 
-**Cost:** 450 GK cp
+**Cost:** 450 GK 
 
 **Category:** Vehicles 
 

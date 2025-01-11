@@ -6,7 +6,7 @@ draft: false
 
 ### Telescope
 
-**Cost:** 2 GK cp
+**Cost:** 2 GK 
 
 **Category:** Tools 
 

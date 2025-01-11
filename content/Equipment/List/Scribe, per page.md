@@ -6,7 +6,7 @@ draft: false
 
 ### Scribe, per page
 
-**Cost:** 6 cp cp
+**Cost:** 6 cp 
 
 **Category:** Services 
 

@@ -6,7 +6,7 @@ draft: false
 
 ### Bear
 
-**Cost:** 3 GK cp
+**Cost:** 3 GK 
 
 **Category:** Animals 
 

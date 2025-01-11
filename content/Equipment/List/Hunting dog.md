@@ -6,7 +6,7 @@ draft: false
 
 ### Hunting dog
 
-**Cost:** 2 st cp
+**Cost:** 2 st 
 
 **Category:** Animals 
 

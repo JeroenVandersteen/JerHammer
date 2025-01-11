@@ -6,7 +6,7 @@ draft: false
 
 ### Large sled 8 dogs
 
-**Cost:** 1 GK cp
+**Cost:** 1 GK 
 
 **Category:** Vehicles 
 

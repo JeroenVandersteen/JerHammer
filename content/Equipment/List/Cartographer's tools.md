@@ -6,7 +6,7 @@ draft: false
 
 ### Cartographer's tools
 
-**Cost:** 1 st 8 cp cp
+**Cost:** 1 st 8 cp 
 
 **Category:** Tools 
 

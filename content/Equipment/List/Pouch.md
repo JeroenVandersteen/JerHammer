@@ -6,7 +6,7 @@ draft: false
 
 ### Pouch
 
-**Cost:** 1 cp cp
+**Cost:** 1 cp 
 
 **Category:** Clothing 
 

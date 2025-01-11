@@ -6,7 +6,7 @@ draft: false
 
 ### Messenger-courier, per day trip
 
-**Cost:** 1 st cp
+**Cost:** 1 st 
 
 **Category:** Services 
 

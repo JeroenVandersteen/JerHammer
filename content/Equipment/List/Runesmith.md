@@ -6,7 +6,7 @@ draft: false
 
 ### Runesmith
 
-**Cost:** x2 rune cost cp
+**Cost:** x2 rune cost 
 
 **Category:** Services 
 

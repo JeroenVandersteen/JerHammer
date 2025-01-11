@@ -6,7 +6,7 @@ draft: false
 
 ### Hourglass
 
-**Cost:** 3 st cp
+**Cost:** 3 st 
 
 **Category:** Tools 
 

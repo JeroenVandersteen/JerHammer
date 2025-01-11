@@ -6,7 +6,7 @@ draft: false
 
 ### unskilled labor - day
 
-**Cost:** 4 cp cp
+**Cost:** 4 cp 
 
 **Category:** Hirelings 
 

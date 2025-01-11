@@ -6,7 +6,7 @@ draft: false
 
 ### Scissors
 
-**Cost:** 7 cp cp
+**Cost:** 7 cp 
 
 **Category:** Tools 
 

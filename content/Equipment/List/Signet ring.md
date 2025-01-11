@@ -6,7 +6,7 @@ draft: false
 
 ### Signet ring
 
-**Cost:** 4 st 8 cp cp
+**Cost:** 4 st 8 cp 
 
 **Category:** Tools 
 
