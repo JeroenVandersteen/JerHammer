@@ -32,6 +32,8 @@ Browse all [equipment](<Equipment/_index.md>).
 
 Browse all [herbs](<Herbs/_index.md>).
 
+Browse all [potions](<Potions/_index.md>).
+
 [Potion Spoilage](<PotionSpoilage.md>).
 
 The objectives of this system are:
