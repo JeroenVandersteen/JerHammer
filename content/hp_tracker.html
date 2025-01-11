@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HP tracker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Averia+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+    <style>
+
+            body {
+                font-family: "Poppins";
+            }
+
+            .complete-app {
+                display: block;
+            }
+
+            .stepper-box {
+                display: flex;
+                align-items: center;
+            }
+
+            .custom-num {
+                margin: 0.2em;
+                margin-right: 1em;
+                margin-left: 1em;
+                /* color: #fff; */
+                display: flex;
+                width: 3em;
+                height: 7em;
+                border: 1px #363636 solid;
+                border-radius: 3em;
+                justify-content: space-between;
+                align-items: center;
+                flex-direction: column;
+                transition: 0.3s;
+            }
+
+            /* remove default arrows from the input field */
+            .num-input::-webkit-outer-spin-button, .num-input::-webkit-inner-spin-button {
+                -webkit-appearance: none;
+                margin: 0;
+            }
+
+            .num-input {
+                font-size: 1.5em;
+                text-align: center;
+                background: none;
+                border: none;
+                color: #21d99b;
+                font-weight: bold;
+                width: 100%;
+            }
+
+            .num-input:focus {
+                outline: none;
+            }
+
+            .custom-num i {
+                font-size: 2em;
+                cursor: pointer;
+            }
+
+            .input-with-label {
+                display: block;
+            }
+
+            .input-label {
+                text-align: center;
+                color: #4f4f4f;
+                font-size: .8em;
+            }
+
+            .damage-input {
+                height: 40px;
+                border-radius: 15px;
+                width: 60px;
+                margin-left: 10px;
+                margin-right: 10px;
+                padding-left: 0px;
+                justify-content: space-between;
+                align-items: center;
+                text-align: center;
+                font-size: 1.1em;
+            }
+
+            /* remove default arrows from the damage input field */
+            .damage-input::-webkit-outer-spin-button, .damage-input::-webkit-inner-spin-button {
+                -webkit-appearance: none;
+                margin: 0;
+            }
+
+
+            .apply-dam-btn {
+                height: 30px;
+                border-radius: 15px;
+                width: 100px;
+                background-color: #6f0101;
+                border: none;
+                color: white;
+                margin-top: 10px;
+                margin-left: 0px;
+            }
+
+        </style>
+
+</head>
+<body>
+
+    <div class="complete-app">
+
+        <div class="stepper-box">
+
+            <!-- AP counter -->
+            <div class="input-with-label">
+                <div class="custom-num">
+                    <i class="fas fa-angle-up arr-up"></i>
+                    <input
+                        type="number"
+                        class="num-input"
+                        min="0"
+                        max="100"
+                        value="0"
+                        data-color="#21d99b"
+                        id="ap-counter"
+                    />
+                    <i class="fas fa-angle-down arr-down"></i>
+                </div>
+                <div class="input-label">AP</div>
+            </div>
+
+            <!-- HP counter -->
+            <div class="input-with-label">
+                <div class="custom-num">
+                    <i class="fas fa-angle-up arr-up"></i>
+                    <input
+                        type="number"
+                        class="num-input"
+                        min="-10"
+                        max="100"
+                        value="20"
+                        data-color="#21d99b"
+                        id="hp-counter"
+                    />
+                    <i class="fas fa-angle-down arr-down"></i>
+                </div>
+                <div class="input-label">HP</div>
+            </div>
+
+            <!-- SP counter -->
+            <div class="input-with-label">
+                <div class="custom-num">
+                    <i class="fas fa-angle-up arr-up"></i>
+                    <input
+                        type="number"
+                        class="num-input"
+                        min="0"
+                        max="100"
+                        value="20"
+                        data-color="#21d99b"
+                        id="sp-counter"
+                    />
+                    <i class="fas fa-angle-down arr-down"></i>
+                </div>
+                <div class="input-label">SP</div>
+            </div>
+
+            <!-- IR counter -->
+            <div class="input-with-label">
+                <div class="custom-num">
+                    <i class="fas fa-angle-up arr-up"></i>
+                    <input
+                        type="number"
+                        class="num-input"
+                        min="0"
+                        max="10"
+                        value="0"
+                        data-color="#21d99b"
+                        id="ir-counter"
+                        name="ir-counter"
+                    />
+                    <i class="fas fa-angle-down arr-down"></i>
+                </div>
+                <div class="input-label">IR</div>
+            </div>
+
+        </div>
+
+            <form class="input-form">
+                <input type="number" class="damage-input" id="lethal-dam-input" value="0"/>
+                <button type="button" class="apply-dam-btn" id="apply-lethal-dam-btn">lethal</button>
+            </form>
+
+            <form class="input-form">
+                <input type="number" class="damage-input" id="impact-dam-input" value="0"/>
+                <button type="button" class="apply-dam-btn" id="apply-impact-dam-btn">impact</button>
+            </form>
+
+    </div>
+
+    
+    <script>
+        // to make the stepper inputs functionality
+        const customNum = document.querySelectorAll('.custom-num');
+        customNum.forEach(num => {
+            const numInput = num.querySelector('.num-input');
+            const arrUp = num.querySelector('.arr-up');
+            const arrDown = num.querySelector('.arr-down');
+
+            numInput.style.color = numInput.dataset.color;
+
+            arrUp.addEventListener('click', () => {
+                numInput.stepUp();
+                checkMaxMin();
+            });
+
+            arrDown.addEventListener('click', () => {
+                numInput.stepDown();
+                checkMaxMin();
+            });
+
+            numInput.addEventListener('input', checkMaxMin);
+
+            function checkMaxMin() {
+                const numInputValue = parseInt(numInput.value);
+                const numInputMax = parseInt(numInput.max);
+                const numInputMin = parseInt(numInput.min);
+
+                if (numInputValue === numInputMax) {
+                    num.style.paddingTop = "0.8em";
+                    num.style.height = "5em";
+                    arrUp.style.display = "none";
+                    num.style.paddingBottom = "0";
+                    arrDown.style.display = "block";
+                } else if (numInputValue === numInputMin) {
+                    num.style.paddingBottom = "0.8em";
+                    num.style.height = "5em";
+                    arrDown.style.display = "none";
+                    num.style.paddingTop = "0";
+                    arrUp.style.display = "block";
+                } else {
+                    num.style.padding = "0";
+                    num.style.height = "7em";
+                    arrUp.style.display = "block";
+                    arrDown.style.display = "block";
+                }
+
+                // change the font to red if negative, green if positive, black if zero
+                if (numInputValue>0) {
+                    numInput.style.color = "#21d99b";
+                } else if (numInputValue<0) {
+                    numInput.style.color = "#ff1717";
+                } else {
+                    numInput.style.color = "#000";
+                }
+            }
+        });
+
+        // add functionality to apply lethal and impact damage
+        const applyLethalBtn = document.getElementById('apply-lethal-dam-btn');
+        const lethalDamInput = document.getElementById('lethal-dam-input');
+        const applyImpactBtn = document.getElementById('apply-impact-dam-btn');
+        const impactDamInput = document.getElementById('impact-dam-input');
+        const apCounter = document.getElementById('ap-counter');
+        const hpCounter = document.getElementById('hp-counter');
+        const spCounter = document.getElementById('sp-counter');
+        const irCounter = document.getElementById('ir-counter');
+
+        applyLethalBtn.addEventListener('click', () => {
+            const lethalDamInt = parseInt(lethalDamInput.value);
+            const ap = parseInt(apCounter.value);
+            const hp = parseInt(hpCounter.value);
+            const sp = parseInt(spCounter.value);
+            const ir = parseInt(irCounter.value);
+            console.log(`Apply ${lethalDamInt} lethal damage`);
+            // if the damage is negative, it means healing
+            if (lethalDamInt<0) {
+                hpCounter.value = hp - lethalDamInt;
+                lethalDamInput.value = 0;
+                console.log(`healing ${-lethalDamInt} HP`);
+            } else {
+                // first subtract from ap, any leftover is dealt to HP
+                if (lethalDamInt>ap) {
+                    // all armor is gone, overflow to HP
+                    apCounter.value = 0;
+                    hpCounter.value = hp - (lethalDamInt-ap);
+                    lethalDamInput.value = 0;
+                    console.log(`armor destroyed, dealing ${lethalDamInt-ap} HP damage.`);                    
+                } else {
+                    // armor is still soaking
+                    apCounter.value = ap - lethalDamInt;
+                    lethalDamInput.value = 0;
+                    console.log(`armor soaking`);
+                }
+            }
+        });
+
+        applyImpactBtn.addEventListener('click', () => {
+            const impactDamInt = parseInt(impactDamInput.value);
+            const ap = parseInt(apCounter.value);
+            const hp = parseInt(hpCounter.value);
+            const sp = parseInt(spCounter.value);
+            const ir = parseInt(irCounter.value);
+            console.log(`Apply ${impactDamInt} impact damage`);
+            // if the damage is negative, it means healing
+            if (impactDamInt<0) {
+                spCounter.value = sp - impactDamInt;
+                impactDamInput.value = 0;
+                console.log(`healing ${-impactDamInt} SP`);
+            } else {
+                // reduce the amount of impact damage by the IR
+                if (impactDamInt>ir) {
+                    //ir does not soak everything
+                    spCounter.value = sp - (impactDamInt-ir);
+                    impactDamInput.value = 0;
+                    console.log(`armor not soaking all, dealing ${impactDamInt-ir} SP damage.`);                    
+                } else {
+                    // armor ir soaking everything
+                    impactDamInput.value = 0;
+                    console.log(`armor ir soaking everything`);
+                }
+            }
+        });
+
+        
+        
+
+
+    </script>
+</body>
+</html>
