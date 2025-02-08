@@ -6,8 +6,6 @@ Welcome to the homepage of the JerHammer RPG System for Grimdark roleplaying gam
 
 Link to the [dice roller](<dice_roller_v1.html>).
 
-Link to the [chat window](<Chatroom/index.html>).
-
 Link to the [HP tracker](<hp_tracker.html>).
 
 Browse all [Careers](<Careers/_index.md>).
