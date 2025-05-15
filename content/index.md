@@ -36,9 +36,9 @@ Browse all [herbs](<Herbs/_index.md>).
 
 Browse all [potions](<Potions/_index.md>).
 
-[Potion Spoilage](<PotionSpoilage.md>).
+Potion spoilage [Potion Spoilage](<PotionSpoilage.md>).
 
-[Shrines](<Shrines.md>)
+Shrine [Shrines](<Shrines.md>)
 
 The objectives of this system are:
 - The game can be played both with miniatures on a map, or entirely with theatre-of-the-mind.
