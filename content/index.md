@@ -8,7 +8,7 @@ Link to the [dice roller](<dice_roller_v1.html>).
 
 Link to the [HP tracker](<hp_tracker.html>).
 
-Browse all [Careers](<Careers/_index.md>).
+Browse all [Professions](<Professions/_index.md>).
 
 Browse all [Conditions](<Conditions/_index.md>).
 
@@ -26,7 +26,7 @@ Browse all [Spells](<Spells/_index.md>).
 
 Browse all [Prayers](<Prayers/_index.md>).
 
-Browse all [Talents](<Talents/_index.md>).
+Browse all [Trainings](<Trainings/_index.md>).
 
 Browse all [Weapons](<Weapons/_index.md>).
 
@@ -37,6 +37,8 @@ Browse all [herbs](<Herbs/_index.md>).
 Browse all [potions](<Potions/_index.md>).
 
 [Potion Spoilage](<PotionSpoilage.md>).
+
+[Shrines](<Shrines.md>)
 
 The objectives of this system are:
 - The game can be played both with miniatures on a map, or entirely with theatre-of-the-mind.
