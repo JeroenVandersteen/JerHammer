@@ -10,3 +10,5 @@ draft: false
 
 **Category:** Animals 
 
+_Cargo: 1/3 barrel_
+

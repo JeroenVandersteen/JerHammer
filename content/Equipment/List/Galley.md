@@ -10,3 +10,5 @@ draft: false
 
 **Category:** Vehicles 
 
+_Cargo: 1300 barrels_
+

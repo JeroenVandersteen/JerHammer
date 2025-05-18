@@ -26,24 +26,24 @@ draft: false
 
 ### Animals
 
- | Item | Cost |
- | :--- | --- |
-| [Chicken](<Equipment/List/Chicken>) | 2 cp |
-| [Goat](<Equipment/List/Goat>) | 6 cp |
-| [Messenger pigeon](<Equipment/List/Messenger pigeon>) | 6 cp |
-| [Owl](<Equipment/List/Owl>) | 1 st |
-| [Pig](<Equipment/List/Pig>) | 1 st |
-| [Raven](<Equipment/List/Raven>) | 1 st |
-| [Vicious dog](<Equipment/List/Vicious dog>) | 1 st |
-| [Hunting dog](<Equipment/List/Hunting dog>) | 2 st |
-| [Trained falcon](<Equipment/List/Trained falcon>) | 10 st |
-| [Bear](<Equipment/List/Bear>) | 3 GK |
-| [Mule](<Equipment/List/Mule>) | 6 st |
-| [Ox](<Equipment/List/Ox>) | 10 st |
-| [Pony](<Equipment/List/Pony>) | 6 st |
-| [Riding horse](<Equipment/List/Riding horse>) | 8 st 4 cp |
-| [Draft horse](<Equipment/List/Draft horse>) | 1 GK |
-| [Warhorse](<Equipment/List/Warhorse>) | 2 GK |
+ | Item | Cost | Notes |
+ | :--- | --- | :--- |
+| [Chicken](<Equipment/List/Chicken>) | 2 cp |  |
+| [Goat](<Equipment/List/Goat>) | 6 cp | Cargo: 1/10 barrel |
+| [Messenger pigeon](<Equipment/List/Messenger pigeon>) | 6 cp |  |
+| [Owl](<Equipment/List/Owl>) | 1 st |  |
+| [Pig](<Equipment/List/Pig>) | 1 st |  |
+| [Raven](<Equipment/List/Raven>) | 1 st |  |
+| [Vicious dog](<Equipment/List/Vicious dog>) | 1 st | Cargo: 1/10 barrel |
+| [Hunting dog](<Equipment/List/Hunting dog>) | 2 st | Cargo: 1/10 barrel |
+| [Trained falcon](<Equipment/List/Trained falcon>) | 10 st |  |
+| [Bear](<Equipment/List/Bear>) | 3 GK |  |
+| [Mule](<Equipment/List/Mule>) | 6 st | Cargo: 1/3 barrel |
+| [Ox](<Equipment/List/Ox>) | 10 st | Cargo: 1/2 barrel |
+| [Pony](<Equipment/List/Pony>) | 6 st | Cargo: 1/3 barrel |
+| [Riding horse](<Equipment/List/Riding horse>) | 8 st 4 cp |  |
+| [Draft horse](<Equipment/List/Draft horse>) | 1 GK | Cargo: 1/2 barrel |
+| [Warhorse](<Equipment/List/Warhorse>) | 2 GK |  |
 
 ### Tools
 
@@ -64,7 +64,7 @@ draft: false
 | [Cooking tools](<Equipment/List/Cooking tools>) | 4 cp |  |
 | [Lamp oil](<Equipment/List/Lamp oil>) | 4 cp | Causes 1 ablaze condition on 1 creature on hit. |
 | [Manacles](<Equipment/List/Manacles>) | 4 cp |  |
-| [Bandage](<Equipment/List/Bandage>) | 6 cp |  |
+| [Bandage](<Equipment/List/Bandage>) | 6 cp | Provide advantage to medicine tests to remove bleeding condition (stack with stitch up talent), and to use the amputate, cauterize, first aid, and surgeon talents. |
 | [Hammer](<Equipment/List/Hammer>) | 6 cp |  |
 | [Rope (10 meters)](<Equipment/List/Rope (10 meters)>) | 6 cp |  |
 | [Chest](<Equipment/List/Chest>) | 7 cp |  |
@@ -96,42 +96,46 @@ draft: false
 | [Magnifying glass](<Equipment/List/Magnifying glass>) | 4 st |  |
 | [Signet ring](<Equipment/List/Signet ring>) | 4 st 8 cp |  |
 | [Book](<Equipment/List/Book>) | 5 st |  |
-| [Trade tools](<Equipment/List/Trade tools>) | 6 st |  |
+| [Herbalist kit](<Equipment/List/Herbalist kit>) | 6 st | Halves cost for gathering herbs |
+| [Alchemist lab](<Equipment/List/Alchemist lab>) | 10 st | Halves cost for brewing potions |
+| [Runesmithing anvil](<Equipment/List/Runesmithing anvil>) | 12 st | Halves cost for runesmithing |
+| [Crafting workshop](<Equipment/List/Crafting workshop>) | 1 GK | Halves cost for crafting items |
+| [Inventor's lab](<Equipment/List/Inventor's lab>) | 1 GK | Halves cost for creating inventions |
 | [Spyglass](<Equipment/List/Spyglass>) | 1 GK |  |
 | [Telescope](<Equipment/List/Telescope>) | 2 GK |  |
 
 ### Vehicles
 
- | Item | Cost |
- | :--- | --- |
-| [Canoe (4 people)](<Equipment/List/Canoe (4 people)>) | 6 st |
-| [Row boat](<Equipment/List/Row boat>) | 10 st |
-| [Small sail barge](<Equipment/List/Small sail barge>) | 15 GK |
-| [Drawn river barge (excl 1 draft horse)](<Equipment/List/Drawn river barge (excl 1 draft horse)>) | 24 GK |
-| [Medium sail barge](<Equipment/List/Medium sail barge>) | 120 GK |
-| [Large sail barge](<Equipment/List/Large sail barge>) | 300 GK |
-| [River patrol boat](<Equipment/List/River patrol boat>) | 100 GK |
-| [Longship](<Equipment/List/Longship>) | 40 GK |
-| [Cog](<Equipment/List/Cog>) | 100 GK |
-| [Hulk](<Equipment/List/Hulk>) | 150 GK |
-| [Caravel](<Equipment/List/Caravel>) | 200 GK |
-| [Galley](<Equipment/List/Galley>) | 450 GK |
-| [Carrack](<Equipment/List/Carrack>) | 650 GK |
-| [Galleon](<Equipment/List/Galleon>) | 1000 GK |
-| [Pushcart](<Equipment/List/Pushcart>) | 10 st |
-| [Donkey cart](<Equipment/List/Donkey cart>) | 1 GK |
-| [Wagon, 1 ox-horse](<Equipment/List/Wagon, 1 ox-horse>) | 4 GK |
-| [Wagon, 2 ox-horse](<Equipment/List/Wagon, 2 ox-horse>) | 6 GK |
-| [Wagon, 4 ox-horse](<Equipment/List/Wagon, 4 ox-horse>) | 8 GK |
-| [Wagon, 6 ox-horse](<Equipment/List/Wagon, 6 ox-horse>) | 10 GK |
-| [Coach-carriage, 1 horse](<Equipment/List/Coach-carriage, 1 horse>) | 10 GK |
-| [Coach-carriage, 2 horse](<Equipment/List/Coach-carriage, 2 horse>) | 15 GK |
-| [Coach-carriage, 4 horse](<Equipment/List/Coach-carriage, 4 horse>) | 20 GK |
-| [War chariot, 1 horse](<Equipment/List/War chariot, 1 horse>) | 5 GK |
-| [War chariot, 2 horse](<Equipment/List/War chariot, 2 horse>) | 10 GK |
-| [War Wagon, 4 horses](<Equipment/List/War Wagon, 4 horses>) | 50 GK |
-| [Sled, 4 dogs](<Equipment/List/Sled, 4 dogs>) | 6 st |
-| [Large sled 8 dogs](<Equipment/List/Large sled 8 dogs>) | 1 GK |
+ | Item | Cost | Notes |
+ | :--- | --- | :--- |
+| [Canoe (4 people)](<Equipment/List/Canoe (4 people)>) | 6 st | Cargo: 1/2 barrel |
+| [Row boat](<Equipment/List/Row boat>) | 10 st | Cargo: 1 barrel |
+| [Small sail barge](<Equipment/List/Small sail barge>) | 15 GK | Cargo: 5 barrels |
+| [Drawn river barge (excl 1 draft horse)](<Equipment/List/Drawn river barge (excl 1 draft horse)>) | 24 GK | Cargo: 10 barrels |
+| [Medium sail barge](<Equipment/List/Medium sail barge>) | 120 GK | Cargo: 150 barrels |
+| [Large sail barge](<Equipment/List/Large sail barge>) | 300 GK | Cargo: 650 barrels |
+| [River patrol boat](<Equipment/List/River patrol boat>) | 100 GK | Cargo: 25 barrels |
+| [Longship](<Equipment/List/Longship>) | 40 GK | Cargo: 20 barrels |
+| [Cog](<Equipment/List/Cog>) | 100 GK | Cargo: 100 barrels |
+| [Hulk](<Equipment/List/Hulk>) | 150 GK | Cargo: 200 barrels |
+| [Caravel](<Equipment/List/Caravel>) | 200 GK | Cargo: 350 barrels |
+| [Galley](<Equipment/List/Galley>) | 450 GK | Cargo: 1300 barrels |
+| [Carrack](<Equipment/List/Carrack>) | 650 GK | Cargo: 2500 barrels |
+| [Galleon](<Equipment/List/Galleon>) | 1000 GK | Cargo: 5000 barrels |
+| [Pushcart](<Equipment/List/Pushcart>) | 10 st | Cargo: 1/2 barrel |
+| [Donkey cart](<Equipment/List/Donkey cart>) | 1 GK | Cargo: 1 barrel |
+| [Wagon, 1 ox-horse](<Equipment/List/Wagon, 1 ox-horse>) | 4 GK | Cargo: 5 barrels |
+| [Wagon, 2 ox-horse](<Equipment/List/Wagon, 2 ox-horse>) | 6 GK | Cargo: 10 barrels |
+| [Wagon, 4 ox-horse](<Equipment/List/Wagon, 4 ox-horse>) | 8 GK | Cargo: 20 barrels |
+| [Wagon, 6 ox-horse](<Equipment/List/Wagon, 6 ox-horse>) | 10 GK | Cargo: 35 barrels |
+| [Coach-carriage, 1 horse](<Equipment/List/Coach-carriage, 1 horse>) | 10 GK | Cargo: 1 barrel |
+| [Coach-carriage, 2 horse](<Equipment/List/Coach-carriage, 2 horse>) | 15 GK | Cargo: 2 barrels |
+| [Coach-carriage, 4 horse](<Equipment/List/Coach-carriage, 4 horse>) | 20 GK | Cargo: 4 barrels |
+| [War chariot, 1 horse](<Equipment/List/War chariot, 1 horse>) | 5 GK | Cargo: 1/4 barrel |
+| [War chariot, 2 horse](<Equipment/List/War chariot, 2 horse>) | 10 GK | Cargo: 1/4 barrel |
+| [War Wagon, 4 horses](<Equipment/List/War Wagon, 4 horses>) | 50 GK | Cargo: 1/4 barrel |
+| [Sled, 4 dogs](<Equipment/List/Sled, 4 dogs>) | 6 st | Cargo: 1/4 barrel |
+| [Large sled 8 dogs](<Equipment/List/Large sled 8 dogs>) | 1 GK | Cargo: 1/2 barrel |
 
 ### Inn
 

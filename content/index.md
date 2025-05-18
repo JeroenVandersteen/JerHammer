@@ -22,15 +22,23 @@ Browse all [Runes](<Runes/_index.md>).
 
 Browse all [Spells](<Spells/_index.md>).
 
+Browse all [Curses](<Curses/_index.md>).
+
 [Miscast Table](<Miscasting.md>).
 
 Browse all [Prayers](<Prayers/_index.md>).
 
 Browse all [Trainings](<Trainings/_index.md>).
 
+Browse all [Animal Tricks](<AnimalTricks/_index.md>).
+
 Browse all [Weapons](<Weapons/_index.md>).
 
 Browse all [equipment](<Equipment/_index.md>).
+
+Browse all [Vehicles](<Vehicles/_index.md>).
+
+Browse all [War machines](<WarMachines/_index.md>).
 
 Browse all [herbs](<Herbs/_index.md>).
 
@@ -38,7 +46,7 @@ Browse all [potions](<Potions/_index.md>).
 
 Potion spoilage [Potion Spoilage](<PotionSpoilage.md>).
 
-Shrine [Shrines](<Shrines.md>)
+[Rules for Shrines](<./Shrines_rules>), and browse [all Shrines](<./Shrines/shrines.md>).
 
 The objectives of this system are:
 - The game can be played both with miniatures on a map, or entirely with theatre-of-the-mind.
