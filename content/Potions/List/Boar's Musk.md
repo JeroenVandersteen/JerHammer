@@ -8,11 +8,11 @@ draft: false
 
 ***Level:** 2
 
-**Cost:** 12 cp
+**Cost:** 6 cp
 
-**Duration:** 1 hour
+**Duration:** hours
 
 **Vector:** touch or ingestion
 
-_Drinker stinks for 1 hour, Fel -2_
+_Drinker stinks, Fel -2_
 

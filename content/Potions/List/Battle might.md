@@ -8,11 +8,11 @@ draft: false
 
 ***Level:** 1
 
-**Cost:** 6 cp
+**Cost:** 3 cp
 
-**Duration:** 1 encounter
+**Duration:** minutes
 
 **Vector:** ingestion
 
-_Gain +1 to hit for one encounter_
+_Gain +1 to hit for the duration_
 

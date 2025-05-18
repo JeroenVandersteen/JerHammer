@@ -8,11 +8,11 @@ draft: false
 
 ***Level:** 2
 
-**Cost:** 12 cp
+**Cost:** 6 cp
 
-**Duration:** 1 encounter
+**Duration:** minutes
 
 **Vector:** ingestion
 
-_Gain advantage to initiative for 1 encounter, and 1 reroll_
+_Gain advantage to initiative, and 1 reroll (can be used once)_
 

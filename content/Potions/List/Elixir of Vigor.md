@@ -8,11 +8,11 @@ draft: false
 
 ***Level:** 2
 
-**Cost:** 12 cp
+**Cost:** 6 cp
 
-**Duration:** instant
+**Duration:** minutes
 
 **Vector:** ingestion
 
-_Remove 1 fatigue condition_
+_Remove all fatigue conditions and become immune to fatigue_
 

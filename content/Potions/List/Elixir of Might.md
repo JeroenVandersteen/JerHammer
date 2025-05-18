@@ -8,11 +8,11 @@ draft: false
 
 ***Level:** 2
 
-**Cost:** 12 cp
+**Cost:** 6 cp
 
-**Duration:** 1 encounter
+**Duration:** minutes
 
 **Vector:** ingestion
 
-_Double strength for one encounter_
+_Double strength_
 

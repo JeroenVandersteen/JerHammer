@@ -8,11 +8,11 @@ draft: false
 
 ***Level:** 3
 
-**Cost:** 24 cp
+**Cost:** 12 cp
 
-**Duration:** 1 minute
+**Duration:** minutes
 
 **Vector:** ingestion
 
-_Gain +3 Ag for 1 minute_
+_Gain +3 Ag_
 

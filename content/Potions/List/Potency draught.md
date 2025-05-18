@@ -8,9 +8,9 @@ draft: false
 
 ***Level:** 4
 
-**Cost:** 48 cp
+**Cost:** 24 cp
 
-**Duration:** 1 hour
+**Duration:** hours
 
 **Vector:** ingestion
 

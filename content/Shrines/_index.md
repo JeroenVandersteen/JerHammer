@@ -1,5 +1,5 @@
 ---
-title: "shrines"
+title: "Shrines"
 titleIcon: "fa-solid fa-cross"
 draft: false
 ---

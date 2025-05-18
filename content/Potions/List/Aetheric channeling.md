@@ -8,11 +8,11 @@ draft: false
 
 ***Level:** 3
 
-**Cost:** 24 cp
+**Cost:** 12 cp
 
-**Duration:** 1 encounter
+**Duration:** minutes
 
 **Vector:** ingestion
 
-_Gain +2 on spellcasting tests for 1 encounter_
+_Gain +2 on spellcasting tests_
 

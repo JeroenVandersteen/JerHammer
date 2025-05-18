@@ -8,9 +8,9 @@ draft: false
 
 ***Level:** 3
 
-**Cost:** 24 cp
+**Cost:** 12 cp
 
-**Duration:** 1 hour
+**Duration:** hours
 
 **Vector:** touch or ingestion
 
