@@ -1,5 +1,5 @@
 ---
-title: "curses"
+title: "Curses"
 titleIcon: "fa-solid fa-hat-witch"
 draft: false
 ---
