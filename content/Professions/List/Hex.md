@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Herbs, Poison, Folklore, Chaos, Witchcraft, Astrology, Spirits, Daemonology
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -27,7 +27,7 @@ draft: false
 | [Liar](<Trainings/List/Liar>) | Advantage when lying |
 
 
-### Level 2 (income: Squalid)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -43,7 +43,7 @@ draft: false
 | [Secret Signs](<Trainings/List/Secret Signs>) (Folklore) | Understand secret signs |
 
 
-### Level 3 (income: Squalid)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -61,7 +61,7 @@ draft: false
 | [Courage](<Trainings/List/Courage>) | Advantage to resist fear/torture |
 
 
-### Level 4 (income: Poor)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

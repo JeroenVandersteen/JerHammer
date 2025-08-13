@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Nature, Astrology, Animals, Art, Mythical beasts, Warfare, Spirits, Plants
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -28,7 +28,7 @@ draft: false
 | [Performer](<Trainings/List/Performer>) (Dancing) | Advantage when performing/entertaining/art |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -40,7 +40,7 @@ draft: false
 | [Attractive](<Trainings/List/Attractive>) | Advantage to charm other gender |
 
 
-### Level 3 (income: Poor)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -52,7 +52,7 @@ draft: false
 | [Escape artist](<Trainings/List/Escape artist>) | Advantage to escape grapple/ropes/... |
 
 
-### Level 4 (income: Poor)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

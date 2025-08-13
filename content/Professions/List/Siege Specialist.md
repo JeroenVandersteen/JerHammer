@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Engineering, Warfare, Science, Mathematics, Shipbuilding
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -24,7 +24,7 @@ draft: false
 | [Use war machines](<Trainings/List/Use war machines>) | Can use war machines |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -35,7 +35,7 @@ draft: false
 | [Unshakable](<Trainings/List/Unshakable>) | No cool check on blackpowder fire |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -46,7 +46,7 @@ draft: false
 | [Deep pockets](<Trainings/List/Deep pockets>) | Have simple items |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

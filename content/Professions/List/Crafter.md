@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Cooking, Science, Engineering, Shipbuilding, Economics, Chemistry, Geology, Streetwise
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -27,7 +27,7 @@ draft: false
 | [Use rope](<Trainings/List/Use rope>) | Advantage when using ropes |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -40,7 +40,7 @@ draft: false
 | [Pick lock](<Trainings/List/Pick lock>) | Can use lock picking tools |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -53,7 +53,7 @@ draft: false
 | [Deep pockets](<Trainings/List/Deep pockets>) | Have simple items |
 
 
-### Level 4 (income: Good)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

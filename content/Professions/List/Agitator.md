@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Criminal underworld, Politics, Heraldry, History, Law, Folklore, Streetwise
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -26,7 +26,7 @@ draft: false
 | [Liar](<Trainings/List/Liar>) | Advantage when lying |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -42,7 +42,7 @@ draft: false
 | [Secret Signs](<Trainings/List/Secret Signs>) (Thieves) | Understand secret signs |
 
 
-### Level 3 (income: Poor)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -58,7 +58,7 @@ draft: false
 | [Menacing](<Trainings/List/Menacing>) | Advantage on intimidation |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

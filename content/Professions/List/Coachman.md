@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Navigation, Animals, Geography, Folklore, Streetwise
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -29,7 +29,7 @@ draft: false
 | [Use rope](<Trainings/List/Use rope>) | Advantage when using ropes |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -41,7 +41,7 @@ draft: false
 | [Lucky](<Trainings/List/Lucky>) | Recover 1 extra fortune |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -52,7 +52,7 @@ draft: false
 | [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

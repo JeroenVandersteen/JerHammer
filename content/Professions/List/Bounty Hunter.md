@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Law, Geography, Criminal underworld, Politics, Streetwise
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -29,7 +29,7 @@ draft: false
 | [Track](<Trainings/List/Track>) | Can track |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -42,7 +42,7 @@ draft: false
 | [Use rope](<Trainings/List/Use rope>) | Advantage when using ropes |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -52,7 +52,7 @@ draft: false
 | [Lip reading](<Trainings/List/Lip reading>) | May read lips |
 
 
-### Level 4 (income: Good)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

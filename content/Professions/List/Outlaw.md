@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Nature, Criminal underworld, Folklore, Geography, Riverways, Streetwise
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -28,7 +28,7 @@ draft: false
 | [Set traps](<Trainings/List/Set traps>) | Can set traps |
 
 
-### Level 2 (income: Squalid)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -41,7 +41,7 @@ draft: false
 | [Unseen move](<Trainings/List/Unseen move>) | Hiding is a free action |
 
 
-### Level 3 (income: Poor)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -53,7 +53,7 @@ draft: false
 | [Long jump](<Trainings/List/Long jump>) | Advantage and 2x range/height on jump |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

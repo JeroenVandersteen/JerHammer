@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Criminal underworld, Folklore, Astrology, Economics, Art, Heraldry, History, Streetwise
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -26,7 +26,7 @@ draft: false
 | [Secret identity](<Trainings/List/Secret identity>) | Have a secret identity/life |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -37,7 +37,7 @@ draft: false
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
 
-### Level 3 (income: Poor)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -48,7 +48,7 @@ draft: false
 | [Unseen move](<Trainings/List/Unseen move>) | Hiding is a free action |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

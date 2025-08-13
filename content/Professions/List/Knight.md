@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Animals, Warfare, Fashion, Heraldry, Nobility, Politics, History, Law
 
-### Level 1 (income: Normal)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -28,7 +28,7 @@ draft: false
 | [Ride](<Trainings/List/Ride>) | Ride horses |
 
 
-### Level 2 (income: Good)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -40,7 +40,7 @@ draft: false
 | [Smash hard](<Trainings/List/Smash hard>) | 1d6 impact dam with lethal dam |
 
 
-### Level 3 (income: Good)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -52,7 +52,7 @@ draft: false
 | [Unshakable](<Trainings/List/Unshakable>) | No cool check on blackpowder fire |
 
 
-### Level 4 (income: Rich)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

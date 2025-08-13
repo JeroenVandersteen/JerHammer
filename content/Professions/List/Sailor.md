@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Navigation, Shipbuilding, Sailing, Riverways, Geography, Streetwise
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -30,7 +30,7 @@ draft: false
 | [Use rope](<Trainings/List/Use rope>) | Advantage when using ropes |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -44,7 +44,7 @@ draft: false
 | [Liar](<Trainings/List/Liar>) | Advantage when lying |
 
 
-### Level 3 (income: Poor)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -57,7 +57,7 @@ draft: false
 | [Gold fever](<Trainings/List/Gold fever>) | Advantage to spot precious items |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

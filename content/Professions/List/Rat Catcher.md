@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Poison, Animals, Nature, Criminal underworld, Folklore, Streetwise
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -29,7 +29,7 @@ draft: false
 | [Track](<Trainings/List/Track>) | Can track |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -42,7 +42,7 @@ draft: false
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
 
 
-### Level 3 (income: Poor)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -55,7 +55,7 @@ draft: false
 | [Hunter](<Trainings/List/Hunter>) | Provide food when outdoors |
 
 
-### Level 4 (income: Poor)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

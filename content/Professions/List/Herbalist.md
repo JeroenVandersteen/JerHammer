@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Herbs, Plants, Potions, Poison, Medicine, Nature, Cooking
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -27,7 +27,7 @@ draft: false
 | [Stitch up](<Trainings/List/Stitch up>) | Advantage to remove bleeding |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -40,7 +40,7 @@ draft: false
 | [Iron stomach](<Trainings/List/Iron stomach>) | Advantage vs ingested poisons/diseases |
 
 
-### Level 3 (income: Poor)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -54,7 +54,7 @@ draft: false
 | [Swim](<Trainings/List/Swim>) | Can swim |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

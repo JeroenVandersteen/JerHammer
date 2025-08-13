@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Nature, Navigation, Plants, Animals, Geography
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -29,7 +29,7 @@ draft: false
 | [Set traps](<Trainings/List/Set traps>) | Can set traps |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -42,7 +42,7 @@ draft: false
 | [Unseen move](<Trainings/List/Unseen move>) | Hiding is a free action |
 
 
-### Level 3 (income: Poor)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -54,7 +54,7 @@ draft: false
 | [Use rope](<Trainings/List/Use rope>) | Advantage when using ropes |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

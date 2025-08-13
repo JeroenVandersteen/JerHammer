@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Art, Fashion, Anatomy, Folklore, Heraldry
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -25,7 +25,7 @@ draft: false
 | [Performer](<Trainings/List/Performer>) (Art) | Advantage when performing/entertaining/art |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -36,7 +36,7 @@ draft: false
 | [Performer](<Trainings/List/Performer>) (Poetry) | Advantage when performing/entertaining/art |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -46,7 +46,7 @@ draft: false
 | [Performer](<Trainings/List/Performer>) (Any) | Advantage when performing/entertaining/art |
 
 
-### Level 4 (income: Good)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

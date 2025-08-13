@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Animals, Folklore, Criminal underworld, Streetwise
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -29,7 +29,7 @@ draft: false
 | [Track](<Trainings/List/Track>) | Can track |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -43,7 +43,7 @@ draft: false
 | [Menacing](<Trainings/List/Menacing>) | Advantage on intimidation |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -57,7 +57,7 @@ draft: false
 | [Sturdy traveler](<Trainings/List/Sturdy traveler>) | Advantage on travel endurance |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

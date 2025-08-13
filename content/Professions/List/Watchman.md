@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Law, Folklore, Criminal underworld, Heraldry, Streetwise
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -28,7 +28,7 @@ draft: false
 | [Consume alcohol](<Trainings/List/Consume alcohol>) | Advantage when consuming alcohol |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -40,7 +40,7 @@ draft: false
 | [Smash hard](<Trainings/List/Smash hard>) | 1d6 impact dam with lethal dam |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -53,7 +53,7 @@ draft: false
 | [Investigative](<Trainings/List/Investigative>) | Gain clues |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

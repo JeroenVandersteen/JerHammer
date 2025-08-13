@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Navigation, Animals, Riverways, Geography, Politics, Heraldry
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -28,7 +28,7 @@ draft: false
 | [Sturdy traveler](<Trainings/List/Sturdy traveler>) | Advantage on travel endurance |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -44,7 +44,7 @@ draft: false
 | [Swim](<Trainings/List/Swim>) | Can swim |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -59,7 +59,7 @@ draft: false
 | [Lip reading](<Trainings/List/Lip reading>) | May read lips |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

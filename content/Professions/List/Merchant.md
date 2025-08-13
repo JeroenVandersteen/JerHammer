@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Economics, Geography, Riverways, Fashion, Sailing, Streetwise
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -28,7 +28,7 @@ draft: false
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -40,7 +40,7 @@ draft: false
 | [Improvisation](<Trainings/List/Improvisation>) | Use other skill if narrated |
 
 
-### Level 3 (income: Good)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -52,7 +52,7 @@ draft: false
 | [Ride](<Trainings/List/Ride>) | Ride horses |
 
 
-### Level 4 (income: Rich)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

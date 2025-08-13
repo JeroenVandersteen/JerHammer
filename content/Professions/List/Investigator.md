@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Politics, History, Law, Heraldry, Criminal underworld, Geography, Nobility, Streetwise
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -28,7 +28,7 @@ draft: false
 | [Track](<Trainings/List/Track>) | Can track |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -42,7 +42,7 @@ draft: false
 | [Secret Signs](<Trainings/List/Secret Signs>) (Any) | Understand secret signs |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -54,7 +54,7 @@ draft: false
 | [Pick lock](<Trainings/List/Pick lock>) | Can use lock picking tools |
 
 
-### Level 4 (income: Good)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

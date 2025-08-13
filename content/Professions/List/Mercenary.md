@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Warfare, Folklore, Geography, Heraldry, Nobility, Economics
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -29,7 +29,7 @@ draft: false
 | [Consume alcohol](<Trainings/List/Consume alcohol>) | Advantage when consuming alcohol |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -43,7 +43,7 @@ draft: false
 | [Fast healer](<Trainings/List/Fast healer>) | Heal +1HP/night |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -57,7 +57,7 @@ draft: false
 | [Armor repair](<Trainings/List/Armor repair>) | Repair double armor points/day |
 
 
-### Level 4 (income: Good)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

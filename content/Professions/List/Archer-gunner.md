@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Warfare, Engineering, Mathematics, Folklore, Heraldry
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -27,7 +27,7 @@ draft: false
 | [Use rope](<Trainings/List/Use rope>) | Advantage when using ropes |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -39,7 +39,7 @@ draft: false
 | [Unshakable](<Trainings/List/Unshakable>) | No cool check on blackpowder fire |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -50,7 +50,7 @@ draft: false
 | [Armor repair](<Trainings/List/Armor repair>) | Repair double armor points/day |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

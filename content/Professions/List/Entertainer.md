@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Folklore, Criminal underworld, Art, History, Astrology, Fashion, Streetwise
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -29,7 +29,7 @@ draft: false
 | [Performer](<Trainings/List/Performer>) (Any) | Advantage when performing/entertaining/art |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -45,7 +45,7 @@ draft: false
 | [Performer](<Trainings/List/Performer>) (Any) | Advantage when performing/entertaining/art |
 
 
-### Level 3 (income: Poor)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -58,7 +58,7 @@ draft: false
 | [Performer](<Trainings/List/Performer>) (Any) | Advantage when performing/entertaining/art |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

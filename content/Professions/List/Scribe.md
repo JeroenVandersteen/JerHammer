@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: History, Heraldry, Politics, Theology, Art, Linguistics
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -27,7 +27,7 @@ draft: false
 | [Secret Signs](<Trainings/List/Secret Signs>) (Divine) | Understand secret signs |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -38,7 +38,7 @@ draft: false
 | [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -50,7 +50,7 @@ draft: false
 | [Secret Signs](<Trainings/List/Secret Signs>) (Occult) | Understand secret signs |
 
 
-### Level 4 (income: Good)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

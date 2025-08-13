@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Animals, Warfare, Fashion, Heraldry, Nobility, Politics
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -27,7 +27,7 @@ draft: false
 | [Sturdy traveler](<Trainings/List/Sturdy traveler>) | Advantage on travel endurance |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -38,7 +38,7 @@ draft: false
 | [Untiring](<Trainings/List/Untiring>) | Ignore 1 fatigue condition |
 
 
-### Level 3 (income: Good)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -50,7 +50,7 @@ draft: false
 | [Animal training](<Trainings/List/Animal training>) | Can train animals |
 
 
-### Level 4 (income: Good)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

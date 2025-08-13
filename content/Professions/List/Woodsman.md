@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Nature, Geography, Plants, Animals, Navigation, Herbs, Cooking
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -30,7 +30,7 @@ draft: false
 | [Use rope](<Trainings/List/Use rope>) | Advantage when using ropes |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -43,7 +43,7 @@ draft: false
 | [Track](<Trainings/List/Track>) | Can track |
 
 
-### Level 3 (income: Poor)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -56,7 +56,7 @@ draft: false
 | [Hide in nature](<Trainings/List/Hide in nature>) | Advantage on stealth in nature |
 
 
-### Level 4 (income: Poor)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

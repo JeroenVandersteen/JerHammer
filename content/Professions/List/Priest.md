@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Theology, Heraldry, Politics, Chaos, Daemonology, Undead, Folklore, Witchcraft
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -30,7 +30,7 @@ draft: false
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -44,7 +44,7 @@ draft: false
 | [Secret Signs](<Trainings/List/Secret Signs>) (Divine) | Understand secret signs |
 
 
-### Level 3 (income: Good)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -57,7 +57,7 @@ draft: false
 | [Noble blood](<Trainings/List/Noble blood>) | Born from noble family |
 
 
-### Level 4 (income: Rich)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

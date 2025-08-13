@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Magick theory, History, Chaos, Witchcraft, Folklore, Astrology, Mythical beasts, Mathematics
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -26,7 +26,7 @@ draft: false
 | [Secret Signs](<Trainings/List/Secret Signs>) (Arcane) | Understand secret signs |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -39,7 +39,7 @@ draft: false
 | [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -58,7 +58,7 @@ draft: false
 | [Commanding presence](<Trainings/List/Commanding presence>) | Advantage on Fel to lower status |
 
 
-### Level 4 (income: Good)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

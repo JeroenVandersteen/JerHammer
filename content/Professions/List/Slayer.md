@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Chaos, Mythical beasts, Nature, Greenskins, Daemonology, Undead, Dwarf culture
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -30,7 +30,7 @@ draft: false
 | [Sturdy traveler](<Trainings/List/Sturdy traveler>) | Advantage on travel endurance |
 
 
-### Level 2 (income: Squalid)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -44,7 +44,7 @@ draft: false
 | [Unshakable](<Trainings/List/Unshakable>) | No cool check on blackpowder fire |
 
 
-### Level 3 (income: Poor)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -58,7 +58,7 @@ draft: false
 | [Fortune burning](<Trainings/List/Fortune burning>) | May use 1 extra fortune point/turn |
 
 
-### Level 4 (income: Poor)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Nature, Navigation, Plants, Animals, Geography, Riverways, Greenskins
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -30,7 +30,7 @@ draft: false
 | [Unseen move](<Trainings/List/Unseen move>) | Hiding is a free action |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -44,7 +44,7 @@ draft: false
 | [Swim](<Trainings/List/Swim>) | Can swim |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -58,7 +58,7 @@ draft: false
 | [Set traps](<Trainings/List/Set traps>) | Can set traps |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Geography, History, Heraldry, Mathematics, Riverways, Navigation, Art, Folklore
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -26,7 +26,7 @@ draft: false
 | [Ride](<Trainings/List/Ride>) | Ride horses |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -37,7 +37,7 @@ draft: false
 | [Performer](<Trainings/List/Performer>) (Drawing) | Advantage when performing/entertaining/art |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -48,7 +48,7 @@ draft: false
 | [Sturdy traveler](<Trainings/List/Sturdy traveler>) | Advantage on travel endurance |
 
 
-### Level 4 (income: Good)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

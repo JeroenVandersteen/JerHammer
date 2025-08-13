@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Theology, History, Anatomy, Folklore, Spirits, Medicine
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -29,7 +29,7 @@ draft: false
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -42,7 +42,7 @@ draft: false
 | [Surgeon](<Trainings/List/Surgeon>) | Medicine test and 1 hour to heal double HP/day |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -58,7 +58,7 @@ draft: false
 | [Stitch up](<Trainings/List/Stitch up>) | Advantage to remove bleeding |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

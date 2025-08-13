@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Theology, Magick theory, Folklore, Chaos, Daemonology, Witchcraft, Undead, Politics
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -28,7 +28,7 @@ draft: false
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -42,7 +42,7 @@ draft: false
 | [Unshakable](<Trainings/List/Unshakable>) | No cool check on blackpowder fire |
 
 
-### Level 3 (income: Good)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -59,7 +59,7 @@ draft: false
 | [Courage](<Trainings/List/Courage>) | Advantage to resist fear/torture |
 
 
-### Level 4 (income: Rich)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

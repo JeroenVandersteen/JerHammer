@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Runes, Science, Engineering, Magick theory, Chemistry
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -30,7 +30,7 @@ draft: false
 | [Armor repair](<Trainings/List/Armor repair>) | Repair double armor points/day |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -45,7 +45,7 @@ draft: false
 | [Use rope](<Trainings/List/Use rope>) | Advantage when using ropes |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -60,7 +60,7 @@ draft: false
 | [Set traps](<Trainings/List/Set traps>) | Can set traps |
 
 
-### Level 4 (income: Good)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

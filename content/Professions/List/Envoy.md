@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Politics, Nobility, Heraldry, Law, History, Fashion, Elf culture, Dwarf culture
 
-### Level 1 (income: Normal)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -28,7 +28,7 @@ draft: false
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
 
-### Level 2 (income: Good)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -42,7 +42,7 @@ draft: false
 | [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 
 
-### Level 3 (income: Rich)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -56,7 +56,7 @@ draft: false
 | [Ride](<Trainings/List/Ride>) | Ride horses |
 
 
-### Level 4 (income: Rich)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

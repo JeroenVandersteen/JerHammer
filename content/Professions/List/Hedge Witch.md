@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Herbs, Poison, Folklore, Chaos, Witchcraft, Medicine, Spirits, Astrology
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -30,7 +30,7 @@ draft: false
 | [Hide in nature](<Trainings/List/Hide in nature>) | Advantage on stealth in nature |
 
 
-### Level 2 (income: Squalid)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -43,7 +43,7 @@ draft: false
 | [Stitch up](<Trainings/List/Stitch up>) | Advantage to remove bleeding |
 
 
-### Level 3 (income: Poor)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -62,7 +62,7 @@ draft: false
 | [Unseen move](<Trainings/List/Unseen move>) | Hiding is a free action |
 
 
-### Level 4 (income: Poor)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

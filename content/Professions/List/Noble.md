@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Politics, Nobility, Heraldry, History, Law, Fashion, Art, Geography
 
-### Level 1 (income: Good)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -29,7 +29,7 @@ draft: false
 | [Ride](<Trainings/List/Ride>) | Ride horses |
 
 
-### Level 2 (income: Good)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -44,7 +44,7 @@ draft: false
 | [Performer](<Trainings/List/Performer>) (Any) | Advantage when performing/entertaining/art |
 
 
-### Level 3 (income: Rich)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -57,7 +57,7 @@ draft: false
 | [Iron stomach](<Trainings/List/Iron stomach>) | Advantage vs ingested poisons/diseases |
 
 
-### Level 4 (income: Luxurious)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

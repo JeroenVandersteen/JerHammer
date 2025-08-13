@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Criminal underworld, Folklore, Cooking, Animals, Poison, Astrology, Streetwise
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -28,7 +28,7 @@ draft: false
 | [Sturdy traveler](<Trainings/List/Sturdy traveler>) | Advantage on travel endurance |
 
 
-### Level 2 (income: Squalid)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -41,7 +41,7 @@ draft: false
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
 
 
-### Level 3 (income: Squalid)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -53,7 +53,7 @@ draft: false
 | [Unseen move](<Trainings/List/Unseen move>) | Hiding is a free action |
 
 
-### Level 4 (income: Poor)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

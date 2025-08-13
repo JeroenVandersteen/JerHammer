@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Politics, Nobility, Heraldry, History, Law, Fashion, Art, Geography
 
-### Level 1 (income: Normal)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -32,7 +32,7 @@ draft: false
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -46,7 +46,7 @@ draft: false
 | [Secret Signs](<Trainings/List/Secret Signs>) (Any) | Understand secret signs |
 
 
-### Level 3 (income: Good)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -59,7 +59,7 @@ draft: false
 | [Investigative](<Trainings/List/Investigative>) | Gain clues |
 
 
-### Level 4 (income: Good)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

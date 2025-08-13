@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Politics, Nobility, History, Law, Fashion, Geography, Poison, Criminal underworld
 
-### Level 1 (income: Poor)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -29,7 +29,7 @@ draft: false
 | [Secret identity](<Trainings/List/Secret identity>) | Have a secret identity/life |
 
 
-### Level 2 (income: Normal)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -43,7 +43,7 @@ draft: false
 | [Secret Signs](<Trainings/List/Secret Signs>) (Any) | Understand secret signs |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -56,7 +56,7 @@ draft: false
 | [Unseen move](<Trainings/List/Unseen move>) | Hiding is a free action |
 
 
-### Level 4 (income: Good)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

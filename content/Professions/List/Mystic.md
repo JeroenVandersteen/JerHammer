@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Criminal underworld, Folklore, Astrology, Magick theory, Witchcraft, Chaos, History, Theology
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -27,7 +27,7 @@ draft: false
 | [Secret Signs](<Trainings/List/Secret Signs>) (Folklore) | Understand secret signs |
 
 
-### Level 2 (income: Squalid)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -38,7 +38,7 @@ draft: false
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
 
 
-### Level 3 (income: Poor)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -52,7 +52,7 @@ draft: false
 | [Secret Signs](<Trainings/List/Secret Signs>) (Occult) | Understand secret signs |
 
 
-### Level 4 (income: Poor)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

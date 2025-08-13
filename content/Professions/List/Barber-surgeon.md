@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Anatomy, Medicine, Potions, Poison, Herbs, Chemistry
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -28,7 +28,7 @@ draft: false
 | [Stitch up](<Trainings/List/Stitch up>) | Advantage to remove bleeding |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -45,7 +45,7 @@ draft: false
 | [Surgeon](<Trainings/List/Surgeon>) | Medicine test and 1 hour to heal double HP/day |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -59,7 +59,7 @@ draft: false
 | [Dealmaker](<Trainings/List/Dealmaker>) | Buy/sell items at ±5% |
 
 
-### Level 4 (income: Normal)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |

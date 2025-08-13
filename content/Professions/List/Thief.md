@@ -15,7 +15,7 @@ draft: false
 
 **Lores**: Criminal underworld, Economics, Art, Folklore, Law, Streetwise
 
-### Level 1 (income: Squalid)
+### Level 1
 
 | Trainings | Short Description |
 | --- | --- |
@@ -28,7 +28,7 @@ draft: false
 | [Secret Signs](<Trainings/List/Secret Signs>) (Thieves) | Understand secret signs |
 
 
-### Level 2 (income: Poor)
+### Level 2
 
 | Trainings | Short Description |
 | --- | --- |
@@ -41,7 +41,7 @@ draft: false
 | [Unseen move](<Trainings/List/Unseen move>) | Hiding is a free action |
 
 
-### Level 3 (income: Normal)
+### Level 3
 
 | Trainings | Short Description |
 | --- | --- |
@@ -54,7 +54,7 @@ draft: false
 | [Kip up](<Trainings/List/Kip up>) | Get up with no move |
 
 
-### Level 4 (income: Good)
+### Level 4
 
 | Trainings | Short Description |
 | --- | --- |
