@@ -8,6 +8,6 @@ draft: false
 
 **Prerequisite:** 
 
-_Gain income_
+_Gain an additional income_
 
-You gain income as given by your career.
+You gain income as given by your income level.

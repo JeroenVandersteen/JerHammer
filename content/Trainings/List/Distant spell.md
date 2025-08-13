@@ -6,7 +6,7 @@ draft: false
 
 
 ### Distant spell
-**Prerequisites:** Career
+**Prerequisites:** Profession
 
 _Increase spell range, CN+2_
 

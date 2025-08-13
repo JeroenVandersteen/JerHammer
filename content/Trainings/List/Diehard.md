@@ -10,4 +10,4 @@ draft: false
 
 _+3 HP_
 
-Gain 3 extra hit points for each time you take this talent.
+Gain 3 extra hit points for each time you take this training.

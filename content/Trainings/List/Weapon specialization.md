@@ -10,4 +10,4 @@ draft: false
 
 _+1 dam with that melee weapon_
 
-Choose one melee weapon. You gain +1 damage with that weapon for each time you take this talent.
+Choose one melee weapon. You gain +1 damage with that weapon for each time you take this training.

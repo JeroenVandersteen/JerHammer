@@ -6,8 +6,8 @@ draft: false
 
 ### Modify item
 
-**Prerequisite:** [Inventor](<Talents/List/Inventor>) talent
+**Prerequisite:** [Inventor](<Trainings/List/Inventor>) talent
 
-_Modify items_
+_Modify items, pay for materials, tools_
 
-As per the talent, you may modify a combined level of items up to the number of times you have taken the inventor talent.
+As per the talent, you may modify a combined level of items up to the number of times you have taken the inventor talent. You have to pay the listed price for the materials, use of tools and workshop.

@@ -6,7 +6,7 @@ draft: false
 
 ### Preach
 
-**Prerequisite:** [Impassioned zeal](<Talents/List/Impassioned zeal>) talent
+**Prerequisite:** [Impassioned zeal](<Trainings/List/Impassioned zeal>) talent
 
 _Create a following to be used ad hoc_
 

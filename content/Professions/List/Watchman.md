@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Spear (1H), Torch, Torso leather, Head plate, Poor clothes, Cloak, Lantern, Lamp oil
 
+**Lores**: Law, Folklore, Criminal underworld, Heraldry, Streetwise
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -36,7 +38,6 @@ draft: false
 | [Reliable hit](<Trainings/List/Reliable hit>) | Advantage on dam with that weapon |
 | [Shield push](<Trainings/List/Shield push>) | Push with a shield |
 | [Smash hard](<Trainings/List/Smash hard>) | 1d6 impact dam with lethal dam |
-| [Lore](<Trainings/List/Lore>) (Local) | Deep knowledge on subject |
 
 
 ### Level 3 (income: Normal)
@@ -50,7 +51,6 @@ draft: false
 | [Stunning strike](<Trainings/List/Stunning strike>) | 1 fortune to add stun to damage |
 | [Animal affinity](<Trainings/List/Animal affinity>) | Animals do simple things |
 | [Investigative](<Trainings/List/Investigative>) | Gain clues |
-| [Lore](<Trainings/List/Lore>) (Law) | Deep knowledge on subject |
 
 
 ### Level 4 (income: Normal)
@@ -63,6 +63,5 @@ draft: false
 | [Powerful strike](<Trainings/List/Powerful strike>) | -1 to hit, +1d6 damage |
 | [Robust](<Trainings/List/Robust>) | +1 impact reduction |
 | [Armor repair](<Trainings/List/Armor repair>) | Repair double armor points/day |
-| [Lore](<Trainings/List/Lore>) (Politics) | Deep knowledge on subject |
 
 

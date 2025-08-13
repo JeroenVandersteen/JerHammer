@@ -12,4 +12,4 @@ _Get up with no move_
 You can immediately get up from prone without spending any movement speed.
 
 **Without this training:**
-Without this talent, it takes half a move to get up from prone.
+Without this training, it takes half a move to get up from prone.

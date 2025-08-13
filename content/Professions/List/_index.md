@@ -60,7 +60,7 @@ draft: false
 
 [Bounty Hunter](<Professions/List/Bounty Hunter>)
 
-[Pedlar](<Professions/List/Pedlar>)
+[Peddler](<Professions/List/Peddler>)
 
 [Entertainer](<Professions/List/Entertainer>)
 

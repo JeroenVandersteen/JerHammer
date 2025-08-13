@@ -13,14 +13,18 @@ draft: false
 
 **Trappings**: Knife, Poor clothes, Cloak, Lock picks
 
+**Lores**: Politics, Nobility, History, Law, Fashion, Geography, Poison, Criminal underworld
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
 | --- | --- |
+| [Income](<Trainings/List/Income>) | Increase income per game session |
 | [Disguise](<Trainings/List/Disguise>) | Advantage on disguise |
 | [Infiltration](<Trainings/List/Infiltration>) | Blend into a group |
 | [Investigative](<Trainings/List/Investigative>) | Gain clues |
 | [Liar](<Trainings/List/Liar>) | Advantage when lying |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 | [Secret identity](<Trainings/List/Secret identity>) | Have a secret identity/life |
 
@@ -30,12 +34,12 @@ draft: false
 | Trainings | Short Description |
 | --- | --- |
 | [Cloak parry](<Trainings/List/Cloak parry>) | Cloak has +1 parry |
+| [Income](<Trainings/List/Income>) | Increase income per game session |
 | [Beneath notice](<Trainings/List/Beneath notice>) | People ignore you |
 | [Briber](<Trainings/List/Briber>) | Advantage on bribe |
 | [Dramatic escape](<Trainings/List/Dramatic escape>) | Fortune point for escape |
 | [Elusive](<Trainings/List/Elusive>) | Hide your trail |
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
-| [Lore](<Trainings/List/Lore>) (Politics) | Deep knowledge on subject |
 | [Secret Signs](<Trainings/List/Secret Signs>) (Any) | Understand secret signs |
 
 
@@ -43,6 +47,7 @@ draft: false
 
 | Trainings | Short Description |
 | --- | --- |
+| [Income](<Trainings/List/Income>) | Increase income per game session |
 | [Alley cat](<Trainings/List/Alley cat>) | Advantage on stealth in urban |
 | [Counterfeit](<Trainings/List/Counterfeit>) | Can counterfeit licenses/permits/... |
 | [Interrogate](<Trainings/List/Interrogate>) | Advantage on interrogation/torture |
@@ -57,9 +62,9 @@ draft: false
 | --- | --- |
 | [Assassinate](<Trainings/List/Assassinate>) | +1d6 dam when hidden or surprising |
 | [Execute](<Trainings/List/Execute>) | +3d6 dam to prone/restrained opponent |
+| [Income](<Trainings/List/Income>) | Increase income per game session |
 | [Fortune burning](<Trainings/List/Fortune burning>) | May use 1 extra fortune point/turn |
 | [Advanced education](<Trainings/List/Advanced education>) | Advanced math, science, literature |
 | [Discern lies](<Trainings/List/Discern lies>) | Advantage to detect lies/counterfeit |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
 
 

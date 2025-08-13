@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Short Sword, Torch, Poor clothes, Vicious dog
 
+**Lores**: Animals, Folklore, Criminal underworld, Streetwise
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |

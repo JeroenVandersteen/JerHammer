@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Knife, Crowbar, Squalid clothes, rags, Backpack, Lock picks
 
+**Lores**: Criminal underworld, Economics, Art, Folklore, Law, Streetwise
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -57,7 +59,6 @@ draft: false
 | Trainings | Short Description |
 | --- | --- |
 | [Assassinate](<Trainings/List/Assassinate>) | +1d6 dam when hidden or surprising |
-| [Parry master](<Trainings/List/Parry master>) | Add both hands' parry bonus |
 | [Briber](<Trainings/List/Briber>) | Advantage on bribe |
 | [Discern lies](<Trainings/List/Discern lies>) | Advantage to detect lies/counterfeit |
 | [Disguise](<Trainings/List/Disguise>) | Advantage on disguise |

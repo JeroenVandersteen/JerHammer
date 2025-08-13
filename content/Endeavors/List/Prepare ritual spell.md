@@ -6,7 +6,7 @@ draft: false
 
 ### Prepare ritual spell
 
-**Prerequisite:** [Arcane Magick](<Talents/List/Arcane Magick>) talent
+**Prerequisite:** [Arcane Magick](<Trainings/List/Arcane Magick>) talent
 
 _Preload one ritual spell_
 

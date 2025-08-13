@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Knife, Poor clothes, Magnifying glass
 
+**Lores**: Politics, History, Law, Heraldry, Criminal underworld, Geography, Nobility, Streetwise
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -36,7 +38,7 @@ draft: false
 | [Advanced education](<Trainings/List/Advanced education>) | Advanced math, science, literature |
 | [Discern lies](<Trainings/List/Discern lies>) | Advantage to detect lies/counterfeit |
 | [Lip reading](<Trainings/List/Lip reading>) | May read lips |
-| [Lore](<Trainings/List/Lore>) (Law) | Deep knowledge on subject |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 | [Secret Signs](<Trainings/List/Secret Signs>) (Any) | Understand secret signs |
 
 
@@ -49,7 +51,6 @@ draft: false
 | [Trip](<Trainings/List/Trip>) | Trip when hitting |
 | [Beneath notice](<Trainings/List/Beneath notice>) | People ignore you |
 | [Improvisation](<Trainings/List/Improvisation>) | Use other skill if narrated |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
 | [Pick lock](<Trainings/List/Pick lock>) | Can use lock picking tools |
 
 
@@ -62,7 +63,6 @@ draft: false
 | [Disguise](<Trainings/List/Disguise>) | Advantage on disguise |
 | [Elusive](<Trainings/List/Elusive>) | Hide your trail |
 | [Gold fever](<Trainings/List/Gold fever>) | Advantage to spot precious items |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
 | [Menacing](<Trainings/List/Menacing>) | Advantage on intimidation |
 
 

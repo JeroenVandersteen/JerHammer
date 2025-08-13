@@ -7,7 +7,7 @@ draft: false
 
 ### Impassioned zeal
 **Max:** Fel
-**Prerequisites:** Career
+**Prerequisites:** Profession
 
 _Attract followers_
 

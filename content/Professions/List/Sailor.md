@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Sling, Knife, Squalid clothes, rags, Fishing pole, Grappling hook
 
+**Lores**: Navigation, Shipbuilding, Sailing, Riverways, Geography, Streetwise
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -40,8 +42,6 @@ draft: false
 | [Stunning strike](<Trainings/List/Stunning strike>) | 1 fortune to add stun to damage |
 | [Tough as nails](<Trainings/List/Tough as nails>) | Endurance test to stay conscious at 0 stun |
 | [Liar](<Trainings/List/Liar>) | Advantage when lying |
-| [Lore](<Trainings/List/Lore>) (Geography) | Deep knowledge on subject |
-| [Lore](<Trainings/List/Lore>) (Riverways) | Deep knowledge on subject |
 
 
 ### Level 3 (income: Poor)
@@ -67,6 +67,5 @@ draft: false
 | [Lucky](<Trainings/List/Lucky>) | Recover 1 extra fortune |
 | [Elusive](<Trainings/List/Elusive>) | Hide your trail |
 | [Fast healer](<Trainings/List/Fast healer>) | Heal +1HP/night |
-| [Lore](<Trainings/List/Lore>) (Shipbuilding) | Deep knowledge on subject |
 
 

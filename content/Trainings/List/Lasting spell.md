@@ -6,7 +6,7 @@ draft: false
 
 
 ### Lasting spell
-**Prerequisites:** Career
+**Prerequisites:** Profession
 
 _Double duration, CN+2_
 

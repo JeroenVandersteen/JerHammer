@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Short Sword, Buckler, Torso leather, Head plate, Poor clothes
 
+**Lores**: Warfare, Folklore, Geography, Heraldry, Nobility, Economics
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -65,7 +67,6 @@ draft: false
 | [Robust](<Trainings/List/Robust>) | +1 impact reduction |
 | [Extra fortunate](<Trainings/List/Extra fortunate>) | +1 fortune point max |
 | [Lucky](<Trainings/List/Lucky>) | Recover 1 extra fortune |
-| [Lore](<Trainings/List/Lore>) (Warfare) | Deep knowledge on subject |
 | [Unshakable](<Trainings/List/Unshakable>) | No cool check on blackpowder fire |
 
 

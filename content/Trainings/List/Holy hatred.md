@@ -6,7 +6,7 @@ draft: false
 
 
 ### Holy hatred (group)
-**Prerequisites:** Career
+**Prerequisites:** Profession
 
 _Prayers deal +1d6 dam vs chosen group_
 

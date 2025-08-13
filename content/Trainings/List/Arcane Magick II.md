@@ -8,8 +8,8 @@ draft: false
 ### Arcane Magick II
 **Prerequisites:** Arcane Magick I
 
-_Can cast level 2 arcane spells, half lores_
+_Cast level 2 spells from 1 lore, gain 3 spells_
 
-Choose one half of the Arcane diagram (4 lores). You may cast level 2 spells (CN 3) from any Lore in that half. When you take this talent, you immediately learn 1 level 2 spell. You may learn additional level 2 spells for 75 XP each (or 50 XP if you find that spell in a grimoire). Additionally, you gain 1 arcane perk from any one of the lores in your chosen half.
+You may cast level 2 spells (CN 3) from any one Lore for which you already have the level 1 training. When you take this training, you immediately learn 3 level 2 spells. You may learn additional level 2 spells for 75 XP each (or 50 XP if you find that spell in a grimoire).
 
 Additionally, you may gather spell ingredients as an endeavor. You may gather up to a combined 2 levels of spell ingredients per endeavor.

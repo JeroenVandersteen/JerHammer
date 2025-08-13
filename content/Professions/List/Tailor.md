@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Knife, Rich clothes, Trade tools, Scissors
 
+**Lores**: Fashion, Art, Heraldry, Politics, Nobility
+
 ### Level 1 (income: Normal)
 
 | Trainings | Short Description |
@@ -32,7 +34,6 @@ draft: false
 | [Extra fortunate](<Trainings/List/Extra fortunate>) | +1 fortune point max |
 | [Armor repair](<Trainings/List/Armor repair>) | Repair double armor points/day |
 | [Dealmaker](<Trainings/List/Dealmaker>) | Buy/sell items at ±5% |
-| [Lore](<Trainings/List/Lore>) (Local) | Deep knowledge on subject |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 | [Use rope](<Trainings/List/Use rope>) | Advantage when using ropes |
 
@@ -46,7 +47,7 @@ draft: false
 | [Deep pockets](<Trainings/List/Deep pockets>) | Have simple items |
 | [Discern lies](<Trainings/List/Discern lies>) | Advantage to detect lies/counterfeit |
 | [Investigative](<Trainings/List/Investigative>) | Gain clues |
-| [Lore](<Trainings/List/Lore>) (Nobility) | Deep knowledge on subject |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 
 
 ### Level 4 (income: Good)
@@ -57,7 +58,6 @@ draft: false
 | [Fortune burning](<Trainings/List/Fortune burning>) | May use 1 extra fortune point/turn |
 | [Lucky](<Trainings/List/Lucky>) | Recover 1 extra fortune |
 | [Lip reading](<Trainings/List/Lip reading>) | May read lips |
-| [Lore](<Trainings/List/Lore>) (Economics) | Deep knowledge on subject |
-| [Surgeon](<Trainings/List/Surgeon>) | Medicine test and 1 hour to heal 1 HP/day |
+| [Surgeon](<Trainings/List/Surgeon>) | Medicine test and 1 hour to heal double HP/day |
 
 

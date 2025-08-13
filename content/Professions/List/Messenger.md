@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Short Sword, Poor clothes, Paper, 1 sheet, Quill pen, Ink
 
+**Lores**: Navigation, Animals, Riverways, Geography, Politics, Heraldry
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -21,7 +23,6 @@ draft: false
 | [Animal affinity](<Trainings/List/Animal affinity>) | Animals do simple things |
 | [Fast movement](<Trainings/List/Fast movement>) | Movement +1 (+10m outdoors, +5m indoors) |
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
-| [Lore](<Trainings/List/Lore>) (Geography) | Deep knowledge on subject |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 | [Ride](<Trainings/List/Ride>) | Ride horses |
 | [Sturdy traveler](<Trainings/List/Sturdy traveler>) | Advantage on travel endurance |
@@ -37,7 +38,7 @@ draft: false
 | [Dramatic escape](<Trainings/List/Dramatic escape>) | Fortune point for escape |
 | [Drive](<Trainings/List/Drive>) | Can drive land vehicles |
 | [Elusive](<Trainings/List/Elusive>) | Hide your trail |
-| [Lore](<Trainings/List/Lore>) (Local) | Deep knowledge on subject |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 | [Sail](<Trainings/List/Sail>) | Can use ships |
 | [Secret Signs](<Trainings/List/Secret Signs>) (Guilder) | Understand secret signs |
 | [Swim](<Trainings/List/Swim>) | Can swim |
@@ -66,6 +67,5 @@ draft: false
 | [Argumentative](<Trainings/List/Argumentative>) | Advantage when debating |
 | [Fast healer](<Trainings/List/Fast healer>) | Heal +1HP/night |
 | [Long jump](<Trainings/List/Long jump>) | Advantage and 2x range/height on jump |
-| [Lore](<Trainings/List/Lore>) (Politics) | Deep knowledge on subject |
 
 

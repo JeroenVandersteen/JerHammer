@@ -1,11 +1,11 @@
 ---
-title: "Annointed"
+title: "Anointed"
 titleIcon: "fa-solid fa-hand-fist"
 draft: false
 ---
 
 
-### Annointed
+### Anointed
 **Prerequisites:** Pray I
 
 _Prayers cost 1 faith point less, never 0_

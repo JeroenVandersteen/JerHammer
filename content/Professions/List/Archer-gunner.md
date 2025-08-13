@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Short Bow, Poor clothes
 
+**Lores**: Warfare, Engineering, Mathematics, Folklore, Heraldry
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -56,7 +58,6 @@ draft: false
 | [Robust](<Trainings/List/Robust>) | +1 impact reduction |
 | [Fortune burning](<Trainings/List/Fortune burning>) | May use 1 extra fortune point/turn |
 | [Lucky](<Trainings/List/Lucky>) | Recover 1 extra fortune |
-| [Lore](<Trainings/List/Lore>) (Warfare) | Deep knowledge on subject |
 | [Use war machines](<Trainings/List/Use war machines>) | Can use war machines |
 
 

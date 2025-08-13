@@ -13,15 +13,16 @@ draft: false
 
 **Trappings**: Knife, Poor clothes, Book, Cooking tools, Pestle and mortar, Empty vials
 
+**Lores**: Chemistry, Medicine, Herbs, Poison, Science, Cooking, Plants, Potions
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
 | --- | --- |
 | [Herbalism](<Trainings/List/Herbalism>) (I) | Can gather herbs |
 | [Poisoner](<Trainings/List/Poisoner>) (I) | Can create poisons |
-| [Lore](<Trainings/List/Lore>) (Chemistry) | Deep knowledge on subject |
-| [Lore](<Trainings/List/Lore>) (Medicine) | Deep knowledge on subject |
-| [Lore](<Trainings/List/Lore>) (Plants) | Deep knowledge on subject |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
+| [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
 
@@ -33,7 +34,6 @@ draft: false
 | [Poisoner](<Trainings/List/Poisoner>) (II) | Can create poisons |
 | [First aid](<Trainings/List/First aid>) | Medicine test and full round to heal 1 HP |
 | [Iron stomach](<Trainings/List/Iron stomach>) | Advantage vs ingested poisons/diseases |
-| [Lore](<Trainings/List/Lore>) (Science) | Deep knowledge on subject |
 | [Secret Signs](<Trainings/List/Secret Signs>) (Guilder) | Understand secret signs |
 
 

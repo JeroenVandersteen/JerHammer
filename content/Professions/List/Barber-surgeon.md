@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Knife, Squalid clothes, rags, Bandage, Scissors
 
+**Lores**: Anatomy, Medicine, Potions, Poison, Herbs, Chemistry
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -21,7 +23,7 @@ draft: false
 | [Beneath notice](<Trainings/List/Beneath notice>) | People ignore you |
 | [Cauterize](<Trainings/List/Cauterize>) | Turn bleeding into wounds |
 | [First aid](<Trainings/List/First aid>) | Medicine test and full round to heal 1 HP |
-| [Lore](<Trainings/List/Lore>) (Anatomy) | Deep knowledge on subject |
+| [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 | [Stitch up](<Trainings/List/Stitch up>) | Advantage to remove bleeding |
 
@@ -40,8 +42,7 @@ draft: false
 | [Amputate](<Trainings/List/Amputate>) | Amputate limb to save from death |
 | [Cheating](<Trainings/List/Cheating>) | Sleight of hand test to reroll die/draw card |
 | [Consume alcohol](<Trainings/List/Consume alcohol>) | Advantage when consuming alcohol |
-| [Lore](<Trainings/List/Lore>) (Medicine) | Deep knowledge on subject |
-| [Surgeon](<Trainings/List/Surgeon>) | Medicine test and 1 hour to heal 1 HP/day |
+| [Surgeon](<Trainings/List/Surgeon>) | Medicine test and 1 hour to heal double HP/day |
 
 
 ### Level 3 (income: Normal)

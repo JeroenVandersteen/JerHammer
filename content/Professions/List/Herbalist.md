@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Sickle, Squalid clothes, rags, Cooking tools, Pestle and Mortar
 
+**Lores**: Herbs, Plants, Potions, Poison, Medicine, Nature, Cooking
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -22,7 +24,6 @@ draft: false
 | [First aid](<Trainings/List/First aid>) | Medicine test and full round to heal 1 HP |
 | [Hide in nature](<Trainings/List/Hide in nature>) | Advantage on stealth in nature |
 | [Hunter](<Trainings/List/Hunter>) | Provide food when outdoors |
-| [Lore](<Trainings/List/Lore>) (Herbs) | Deep knowledge on subject |
 | [Stitch up](<Trainings/List/Stitch up>) | Advantage to remove bleeding |
 
 
@@ -33,10 +34,10 @@ draft: false
 | [Mobility](<Trainings/List/Mobility>) | Ignore difficult terrain |
 | [Herbalism](<Trainings/List/Herbalism>) (II) | Can gather herbs |
 | [Poisoner](<Trainings/List/Poisoner>) (I) | Can create poisons |
+| [Create Shrine](<Trainings/List/Create Shrine>) | May create and activate shrines |
 | [Foresight](<Trainings/List/Foresight>) | Fortune to force opponent reroll |
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
 | [Iron stomach](<Trainings/List/Iron stomach>) | Advantage vs ingested poisons/diseases |
-| [Lore](<Trainings/List/Lore>) (Local) | Deep knowledge on subject |
 
 
 ### Level 3 (income: Poor)
@@ -49,7 +50,6 @@ draft: false
 | [Poisoner](<Trainings/List/Poisoner>) (II) | Can create poisons |
 | [Lucky](<Trainings/List/Lucky>) | Recover 1 extra fortune |
 | [Cheating](<Trainings/List/Cheating>) | Sleight of hand test to reroll die/draw card |
-| [Lore](<Trainings/List/Lore>) (Medicine) | Deep knowledge on subject |
 | [Sturdy traveler](<Trainings/List/Sturdy traveler>) | Advantage on travel endurance |
 | [Swim](<Trainings/List/Swim>) | Can swim |
 

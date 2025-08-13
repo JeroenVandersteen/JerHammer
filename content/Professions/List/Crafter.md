@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Hammer, Poor clothes, Trade tools
 
+**Lores**: Cooking, Science, Engineering, Shipbuilding, Economics, Chemistry, Geology, Streetwise
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -35,7 +37,6 @@ draft: false
 | [Untiring](<Trainings/List/Untiring>) | Ignore 1 fatigue condition |
 | [Crafting](<Trainings/List/Crafting>) (II) | Craft items (50% price) |
 | [Inventor](<Trainings/List/Inventor>) (I) | Make item modifications |
-| [Lore](<Trainings/List/Lore>) (Local) | Deep knowledge on subject |
 | [Pick lock](<Trainings/List/Pick lock>) | Can use lock picking tools |
 
 

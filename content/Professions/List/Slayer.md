@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Handaxe, Squalid clothes, rags, Barrel of ale
 
+**Lores**: Chaos, Mythical beasts, Nature, Greenskins, Daemonology, Undead, Dwarf culture
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -25,7 +27,6 @@ draft: false
 | [Untiring](<Trainings/List/Untiring>) | Ignore 1 fatigue condition |
 | [Consume alcohol](<Trainings/List/Consume alcohol>) | Advantage when consuming alcohol |
 | [Courage](<Trainings/List/Courage>) | Advantage to resist fear/torture |
-| [Lore](<Trainings/List/Lore>) (Any monster) | Deep knowledge on subject |
 | [Sturdy traveler](<Trainings/List/Sturdy traveler>) | Advantage on travel endurance |
 
 

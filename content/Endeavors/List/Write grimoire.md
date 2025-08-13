@@ -6,7 +6,7 @@ draft: false
 
 ### Write grimoire
 
-**Prerequisite:** [Arcane Magick](<Talents/List/Arcane Magick>) talent
+**Prerequisite:** [Arcane Magick](<Trainings/List/Arcane Magick>) talent
 
 _Add 1 spell to your grimoire_
 

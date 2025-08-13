@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Knife, Sling, Squalid clothes, rags, Animal trap/hunting trap, Steel wire cage (rabbit), Cooking tools, Tent, Bedroll
 
+**Lores**: Nature, Navigation, Plants, Animals, Geography
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -24,7 +26,6 @@ draft: false
 | [Fast movement](<Trainings/List/Fast movement>) | Movement +1 (+10m outdoors, +5m indoors) |
 | [Hide in nature](<Trainings/List/Hide in nature>) | Advantage on stealth in nature |
 | [Hunter](<Trainings/List/Hunter>) | Provide food when outdoors |
-| [Lore](<Trainings/List/Lore>) (Nature) | Deep knowledge on subject |
 | [Set traps](<Trainings/List/Set traps>) | Can set traps |
 
 

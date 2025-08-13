@@ -13,14 +13,15 @@ draft: false
 
 **Trappings**: Hammer, Poor clothes, Book, Quill pen, Ink
 
+**Lores**: Engineering, Science, Warfare, Chemistry, Geology, Mathematics, Shipbuilding
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
 | --- | --- |
 | [Inventor](<Trainings/List/Inventor>) (I) | Make item modifications |
 | [Advanced education](<Trainings/List/Advanced education>) | Advanced math, science, literature |
-| [Lore](<Trainings/List/Lore>) (Engineering) | Deep knowledge on subject |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
 
@@ -31,7 +32,7 @@ draft: false
 | [Accurate shot](<Trainings/List/Accurate shot>) | +1 dam with that ranged weapon |
 | [Inventor](<Trainings/List/Inventor>) (II) | Make item modifications |
 | [Consume alcohol](<Trainings/List/Consume alcohol>) | Advantage when consuming alcohol |
-| [Lore](<Trainings/List/Lore>) (Science) | Deep knowledge on subject |
+| [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
 | [Use war machines](<Trainings/List/Use war machines>) | Can use war machines |
 
 
@@ -44,7 +45,6 @@ draft: false
 | [Argumentative](<Trainings/List/Argumentative>) | Advantage when debating |
 | [Armor repair](<Trainings/List/Armor repair>) | Repair double armor points/day |
 | [Drive](<Trainings/List/Drive>) | Can drive land vehicles |
-| [Lore](<Trainings/List/Lore>) (Warfare) | Deep knowledge on subject |
 | [Unshakable](<Trainings/List/Unshakable>) | No cool check on blackpowder fire |
 
 

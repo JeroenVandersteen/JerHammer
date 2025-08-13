@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Knife, Hammer, Shovel, Poor clothes
 
+**Lores**: Engineering, Warfare, Science, Mathematics, Shipbuilding
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -30,7 +32,6 @@ draft: false
 | [Long shot](<Trainings/List/Long shot>) | Range increment 1 reduced |
 | [Inventor](<Trainings/List/Inventor>) (I) | Make item modifications |
 | [Drive](<Trainings/List/Drive>) | Can drive land vehicles |
-| [Lore](<Trainings/List/Lore>) (Engineering) | Deep knowledge on subject |
 | [Unshakable](<Trainings/List/Unshakable>) | No cool check on blackpowder fire |
 
 
@@ -43,7 +44,6 @@ draft: false
 | [Advanced education](<Trainings/List/Advanced education>) | Advanced math, science, literature |
 | [Armor repair](<Trainings/List/Armor repair>) | Repair double armor points/day |
 | [Deep pockets](<Trainings/List/Deep pockets>) | Have simple items |
-| [Lore](<Trainings/List/Lore>) (Warfare) | Deep knowledge on subject |
 
 
 ### Level 4 (income: Normal)

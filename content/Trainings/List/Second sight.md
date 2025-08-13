@@ -6,7 +6,7 @@ draft: false
 
 
 ### Second sight
-**Prerequisites:** Career
+**Prerequisites:** Profession
 
 _Sense magick_
 

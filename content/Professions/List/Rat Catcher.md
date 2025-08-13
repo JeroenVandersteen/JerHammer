@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Sling, Knife, Squalid clothes, rags, Vicious dog, Steel wire cage (rabbit), Animal trap/hunting trap
 
+**Lores**: Poison, Animals, Nature, Criminal underworld, Folklore, Streetwise
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -38,7 +40,6 @@ draft: false
 | [Consume alcohol](<Trainings/List/Consume alcohol>) | Advantage when consuming alcohol |
 | [Fast movement](<Trainings/List/Fast movement>) | Movement +1 (+10m outdoors, +5m indoors) |
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
-| [Lore](<Trainings/List/Lore>) (Poison) | Deep knowledge on subject |
 
 
 ### Level 3 (income: Poor)

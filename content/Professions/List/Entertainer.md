@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Throwing knife, Throwing knife, Squalid clothes, rags, Musical instrument
 
+**Lores**: Folklore, Criminal underworld, Art, History, Astrology, Fashion, Streetwise
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -40,7 +42,6 @@ draft: false
 | [Escape artist](<Trainings/List/Escape artist>) | Advantage to escape grapple/ropes/... |
 | [Fast movement](<Trainings/List/Fast movement>) | Movement +1 (+10m outdoors, +5m indoors) |
 | [Kip up](<Trainings/List/Kip up>) | Get up with no move |
-| [Lore](<Trainings/List/Lore>) (Folklore) | Deep knowledge on subject |
 | [Performer](<Trainings/List/Performer>) (Any) | Advantage when performing/entertaining/art |
 
 

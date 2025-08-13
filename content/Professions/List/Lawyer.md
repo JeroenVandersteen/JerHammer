@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Knife, Poor clothes, Book, Quill pen, Ink
 
+**Lores**: Law, Theology, Nobility, Criminal underworld, History, Politics
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -23,8 +25,6 @@ draft: false
 | [Dramatic escape](<Trainings/List/Dramatic escape>) | Fortune point for escape |
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
 | [Liar](<Trainings/List/Liar>) | Advantage when lying |
-| [Lore](<Trainings/List/Lore>) (Law) | Deep knowledge on subject |
-| [Lore](<Trainings/List/Lore>) (Theology) | Deep knowledge on subject |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
 
@@ -37,6 +37,7 @@ draft: false
 | [Argumentative](<Trainings/List/Argumentative>) | Advantage when debating |
 | [Briber](<Trainings/List/Briber>) | Advantage on bribe |
 | [Interrogate](<Trainings/List/Interrogate>) | Advantage on interrogation/torture |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 
 
 ### Level 3 (income: Good)
@@ -47,7 +48,7 @@ draft: false
 | [Taunt](<Trainings/List/Taunt>) | Opposed test to force to attack you |
 | [Commanding presence](<Trainings/List/Commanding presence>) | Advantage on Fel to lower status |
 | [Dealmaker](<Trainings/List/Dealmaker>) | Buy/sell items at ±5% |
-| [Lore](<Trainings/List/Lore>) (Nobility) | Deep knowledge on subject |
+| [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
 | [Menacing](<Trainings/List/Menacing>) | Advantage on intimidation |
 
 
@@ -58,6 +59,5 @@ draft: false
 | [Rout allies](<Trainings/List/Rout allies>) | Spend action to remove fear from allies |
 | [Counterfeit](<Trainings/List/Counterfeit>) | Can counterfeit licenses/permits/... |
 | [Lip reading](<Trainings/List/Lip reading>) | May read lips |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
 
 

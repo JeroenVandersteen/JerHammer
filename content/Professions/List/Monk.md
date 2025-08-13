@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Quarterstaff, Poor clothes, Paper, 1 sheet, Quill pen, Ink
 
+**Lores**: Theology, History, Art, Linguistics, Heraldry
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -20,15 +22,12 @@ draft: false
 | [Write purity seal](<Trainings/List/Write purity seal>) | Spend endeavor to create purity seal(s) |
 | [Devout](<Trainings/List/Devout>) | Gain WP extra faith point max |
 | [Pray I](<Trainings/List/Pray I>) | Can invoke lvl 1 prayers, WP faith point max |
+| [Create Shrine](<Trainings/List/Create Shrine>) | May create and activate shrines |
 | [Extra fortunate](<Trainings/List/Extra fortunate>) | +1 fortune point max |
 | [Consume alcohol](<Trainings/List/Consume alcohol>) | Advantage when consuming alcohol |
-| [Discern lies](<Trainings/List/Discern lies>) | Advantage to detect lies/counterfeit |
 | [First aid](<Trainings/List/First aid>) | Medicine test and full round to heal 1 HP |
-| [Lore](<Trainings/List/Lore>) (Theology) | Deep knowledge on subject |
-| [Lore](<Trainings/List/Lore>) (History) | Deep knowledge on subject |
 | [Performer](<Trainings/List/Performer>) (Calligraphy) | Advantage when performing/entertaining/art |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
-| [Secret Signs](<Trainings/List/Secret Signs>) (Occult) | Understand secret signs |
 
 
 ### Level 2 (income: Poor)
@@ -39,6 +38,9 @@ draft: false
 | [Advanced education](<Trainings/List/Advanced education>) | Advanced math, science, literature |
 | [Counterfeit](<Trainings/List/Counterfeit>) | Can counterfeit licenses/permits/... |
 | [Courage](<Trainings/List/Courage>) | Advantage to resist fear/torture |
+| [Discern lies](<Trainings/List/Discern lies>) | Advantage to detect lies/counterfeit |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
+| [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
 
 
 ### Level 3 (income: Normal)
@@ -51,7 +53,7 @@ draft: false
 | [Herbalism](<Trainings/List/Herbalism>) (I) | Can gather herbs |
 | [Pray III](<Trainings/List/Pray III>) | Can invoke lvl 3 prayers, 3xWP faith point max |
 | [Interrogate](<Trainings/List/Interrogate>) | Advantage on interrogation/torture |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
+| [Secret Signs](<Trainings/List/Secret Signs>) (Occult) | Understand secret signs |
 | [Sturdy traveler](<Trainings/List/Sturdy traveler>) | Advantage on travel endurance |
 
 

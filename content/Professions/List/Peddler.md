@@ -1,17 +1,19 @@
 ---
-title: "Pedlar"
+title: "Peddler"
 titleIcon: "fa-solid fa-compass-drafting"
 draft: false
 ---
 
 
-## Pedlar
+## Peddler
 
 **Profession attributes**: Ag, P, Fel
 
 **Profession skills**: Unarmed Combat, Throwing Weapons, Athletics, Endurance, Sleight of Hand, Stealth, Spot, Knowledge, Deception, Persuasion
 
 **Trappings**: Knife, Poor clothes, Bedroll, Tent
+
+**Lores**: Economics, Geography, Folklore, Streetwise
 
 ### Level 1 (income: Poor)
 
@@ -31,7 +33,7 @@ draft: false
 | [Deep pockets](<Trainings/List/Deep pockets>) | Have simple items |
 | [Drive](<Trainings/List/Drive>) | Can drive land vehicles |
 | [Liar](<Trainings/List/Liar>) | Advantage when lying |
-| [Lore](<Trainings/List/Lore>) (Economics) | Deep knowledge on subject |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 
 
 ### Level 3 (income: Normal)
@@ -43,7 +45,6 @@ draft: false
 | [Fortune burning](<Trainings/List/Fortune burning>) | May use 1 extra fortune point/turn |
 | [Lucky](<Trainings/List/Lucky>) | Recover 1 extra fortune |
 | [Improvisation](<Trainings/List/Improvisation>) | Use other skill if narrated |
-| [Lore](<Trainings/List/Lore>) (Geography) | Deep knowledge on subject |
 
 
 ### Level 4 (income: Good)
@@ -55,6 +56,5 @@ draft: false
 | [Extra fortunate](<Trainings/List/Extra fortunate>) | +1 fortune point max |
 | [Dramatic escape](<Trainings/List/Dramatic escape>) | Fortune point for escape |
 | [Elusive](<Trainings/List/Elusive>) | Hide your trail |
-| [Lore](<Trainings/List/Lore>) (Local) | Deep knowledge on subject |
 
 

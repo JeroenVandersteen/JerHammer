@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Club, Squalid clothes, rags, Paper, 1 sheet, Quill pen, Ink
 
+**Lores**: Criminal underworld, Politics, Heraldry, History, Law, Folklore, Streetwise
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -22,7 +24,6 @@ draft: false
 | [Argumentative](<Trainings/List/Argumentative>) | Advantage when debating |
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
 | [Liar](<Trainings/List/Liar>) | Advantage when lying |
-| [Lore](<Trainings/List/Lore>) (Politics) | Deep knowledge on subject |
 
 
 ### Level 2 (income: Poor)
@@ -64,6 +65,5 @@ draft: false
 | [Inspire allies](<Trainings/List/Inspire allies>) | 1 fortune to give allies advantage to hit |
 | [Rout allies](<Trainings/List/Rout allies>) | Spend action to remove fear from allies |
 | [Dramatic escape](<Trainings/List/Dramatic escape>) | Fortune point for escape |
-| [Lore](<Trainings/List/Lore>) (Heraldry) | Deep knowledge on subject |
 
 

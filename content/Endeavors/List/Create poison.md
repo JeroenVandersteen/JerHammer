@@ -6,8 +6,8 @@ draft: false
 
 ### Create poison
 
-**Prerequisite:** [Poisoner](<Talents/List/Poisoner>) talent
+**Prerequisite:** [Poisoner](<Trainings/List/Poisoner>) talent
 
-_Create poisons_
+_Create poisons, pay for ingredients, tools_
 
-As per the talent, you may create a combined level of poisons up to the number of times you have taken the create poison talent. You have to pay 50% of the listed item price for the ingredients, use of tools and workshop.
+As per the talent, you may create a combined level of poisons up to the number of times you have taken the create poison talent. You have to pay the listed price for the ingredients, use of tools and workshop.

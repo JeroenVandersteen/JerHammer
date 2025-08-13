@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Mining Pick, Shovel, Head plate, Poor clothes, Rope ladder (5 m)
 
+**Lores**: Geology, Engineering, Science, Criminal underworld, Folklore
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -23,7 +25,6 @@ draft: false
 | [Twohanded master](<Trainings/List/Twohanded master>) | +1/2 S to dam on two-handed melee weapons |
 | [Consume alcohol](<Trainings/List/Consume alcohol>) | Advantage when consuming alcohol |
 | [Gold fever](<Trainings/List/Gold fever>) | Advantage to spot precious items |
-| [Lore](<Trainings/List/Lore>) (Geology) | Deep knowledge on subject |
 | [Use rope](<Trainings/List/Use rope>) | Advantage when using ropes |
 
 
@@ -36,7 +37,6 @@ draft: false
 | [Brutal strike](<Trainings/List/Brutal strike>) | Add S to dam, opponent gains advantage to hit |
 | [Reliable hit](<Trainings/List/Reliable hit>) | Advantage on dam with that weapon |
 | [Tough as nails](<Trainings/List/Tough as nails>) | Endurance test to stay conscious at 0 stun |
-| [Lore](<Trainings/List/Lore>) (Local) | Deep knowledge on subject |
 | [Unshakable](<Trainings/List/Unshakable>) | No cool check on blackpowder fire |
 
 
@@ -65,6 +65,5 @@ draft: false
 | [Crafting](<Trainings/List/Crafting>) (II) | Craft items (50% price) |
 | [Drive](<Trainings/List/Drive>) | Can drive land vehicles |
 | [Iron stomach](<Trainings/List/Iron stomach>) | Advantage vs ingested poisons/diseases |
-| [Lore](<Trainings/List/Lore>) (Engineering) | Deep knowledge on subject |
 
 

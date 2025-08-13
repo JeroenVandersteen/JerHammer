@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Knife, Squalid clothes, rags, Cooking tools, Candle (dozen)
 
+**Lores**: Criminal underworld, Folklore, Astrology, Magick theory, Witchcraft, Chaos, History, Theology
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -34,7 +36,6 @@ draft: false
 | [Cheating](<Trainings/List/Cheating>) | Sleight of hand test to reroll die/draw card |
 | [Gold fever](<Trainings/List/Gold fever>) | Advantage to spot precious items |
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
-| [Lore](<Trainings/List/Lore>) (Astrology) | Deep knowledge on subject |
 
 
 ### Level 3 (income: Poor)
@@ -43,6 +44,7 @@ draft: false
 | --- | --- |
 | [Brewing](<Trainings/List/Brewing>) (I) | Can brew potions |
 | [Herbalism](<Trainings/List/Herbalism>) (I) | Can gather herbs |
+| [Create Shrine](<Trainings/List/Create Shrine>) | May create and activate shrines |
 | [Argumentative](<Trainings/List/Argumentative>) | Advantage when debating |
 | [Briber](<Trainings/List/Briber>) | Advantage on bribe |
 | [Dealmaker](<Trainings/List/Dealmaker>) | Buy/sell items at ±5% |
@@ -60,6 +62,5 @@ draft: false
 | [Deep pockets](<Trainings/List/Deep pockets>) | Have simple items |
 | [Dramatic escape](<Trainings/List/Dramatic escape>) | Fortune point for escape |
 | [Improvisation](<Trainings/List/Improvisation>) | Use other skill if narrated |
-| [Lore](<Trainings/List/Lore>) (Prophecy) | Deep knowledge on subject |
 
 

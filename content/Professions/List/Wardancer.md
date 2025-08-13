@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Short Sword, Short Sword, Squalid clothes, rags, Cloak, Ceremonial lint
 
+**Lores**: Nature, Astrology, Animals, Art, Mythical beasts, Warfare, Spirits, Plants
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -57,7 +59,6 @@ draft: false
 | [Dervish attack](<Trainings/List/Dervish attack>) | Deal full dam on all that are hit |
 | [Exploit advantage](<Trainings/List/Exploit advantage>) | Extra advantage on advantage |
 | [Furious assault](<Trainings/List/Furious assault>) | 1 fortune to make extra attack at disadvantage |
-| [Parry master](<Trainings/List/Parry master>) | Add both hands' parry bonus |
 | [Riposte II](<Trainings/List/Riposte II>) | Advantage to hit when opponent misses |
 | [Trip](<Trainings/List/Trip>) | Trip when hitting |
 

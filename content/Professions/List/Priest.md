@@ -13,17 +13,20 @@ draft: false
 
 **Trappings**: Quarterstaff, Poor clothes, Book, Candle (dozen)
 
+**Lores**: Theology, Heraldry, Politics, Chaos, Daemonology, Undead, Folklore, Witchcraft
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
 | --- | --- |
 | [Write purity seal](<Trainings/List/Write purity seal>) | Spend endeavor to create purity seal(s) |
 | [Pray I](<Trainings/List/Pray I>) | Can invoke lvl 1 prayers, WP faith point max |
+| [Create Shrine](<Trainings/List/Create Shrine>) | May create and activate shrines |
 | [Extra fortunate](<Trainings/List/Extra fortunate>) | +1 fortune point max |
 | [Consume alcohol](<Trainings/List/Consume alcohol>) | Advantage when consuming alcohol |
 | [First aid](<Trainings/List/First aid>) | Medicine test and full round to heal 1 HP |
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
-| [Lore](<Trainings/List/Lore>) (Theology) | Deep knowledge on subject |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
 
@@ -46,11 +49,11 @@ draft: false
 | Trainings | Short Description |
 | --- | --- |
 | [Brewing](<Trainings/List/Brewing>) (I) | Can brew potions |
-| [Annointed](<Trainings/List/Annointed>) | Prayers cost 1 faith point less, never 0 |
+| [Anointed](<Trainings/List/Anointed>) | Prayers cost 1 faith point less, never 0 |
 | [Pray III](<Trainings/List/Pray III>) | Can invoke lvl 3 prayers, 3xWP faith point max |
 | [Courage](<Trainings/List/Courage>) | Advantage to resist fear/torture |
 | [Interrogate](<Trainings/List/Interrogate>) | Advantage on interrogation/torture |
-| [Lore](<Trainings/List/Lore>) (Heraldry) | Deep knowledge on subject |
+| [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
 | [Noble blood](<Trainings/List/Noble blood>) | Born from noble family |
 
 
@@ -63,6 +66,5 @@ draft: false
 | [Pray IV](<Trainings/List/Pray IV>) | Can invoke lvl 4 prayers, 4xWP faith point max |
 | [Commanding presence](<Trainings/List/Commanding presence>) | Advantage on Fel to lower status |
 | [Lip reading](<Trainings/List/Lip reading>) | May read lips |
-| [Lore](<Trainings/List/Lore>) (Politics) | Deep knowledge on subject |
 
 

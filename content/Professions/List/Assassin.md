@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Knife, Pistol Crossbow, Poor clothes, Cloak, Rope, 10 meters
 
+**Lores**: Politics, Poison, Heraldry, Criminal underworld, Streetwise
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -38,7 +40,6 @@ draft: false
 | [Poisoner](<Trainings/List/Poisoner>) (II) | Can create poisons |
 | [Alley cat](<Trainings/List/Alley cat>) | Advantage on stealth in urban |
 | [Kip up](<Trainings/List/Kip up>) | Get up with no move |
-| [Lore](<Trainings/List/Lore>) (Poison) | Deep knowledge on subject |
 
 
 ### Level 3 (income: Normal)
@@ -50,7 +51,6 @@ draft: false
 | [Beneath notice](<Trainings/List/Beneath notice>) | People ignore you |
 | [Disguise](<Trainings/List/Disguise>) | Advantage on disguise |
 | [Escape artist](<Trainings/List/Escape artist>) | Advantage to escape grapple/ropes/... |
-| [Lore](<Trainings/List/Lore>) (Politics) | Deep knowledge on subject |
 | [Unseen move](<Trainings/List/Unseen move>) | Hiding is a free action |
 | [Use rope](<Trainings/List/Use rope>) | Advantage when using ropes |
 

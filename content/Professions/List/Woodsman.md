@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Axe, Squalid clothes, rags, Animal trap/hunting trap, Cooking tools
 
+**Lores**: Nature, Geography, Plants, Animals, Navigation, Herbs, Cooking
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -38,7 +40,6 @@ draft: false
 | [Terrain master](<Trainings/List/Terrain master>) | Create cover, (dis)advantageous/difficult terrain |
 | [Tough as nails](<Trainings/List/Tough as nails>) | Endurance test to stay conscious at 0 stun |
 | [Untiring](<Trainings/List/Untiring>) | Ignore 1 fatigue condition |
-| [Lore](<Trainings/List/Lore>) (Nature) | Deep knowledge on subject |
 | [Track](<Trainings/List/Track>) | Can track |
 
 

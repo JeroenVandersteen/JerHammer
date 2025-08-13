@@ -13,14 +13,16 @@ draft: false
 
 **Trappings**: Knife, Poor clothes, Paper, 1 sheet, Quill pen, Ink, Book
 
+**Lores**: Any
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
 | --- | --- |
 | [Advanced education](<Trainings/List/Advanced education>) | Advanced math, science, literature |
 | [Consume alcohol](<Trainings/List/Consume alcohol>) | Advantage when consuming alcohol |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
+| [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
 
@@ -34,8 +36,6 @@ draft: false
 | [Beneath notice](<Trainings/List/Beneath notice>) | People ignore you |
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
 | [Investigative](<Trainings/List/Investigative>) | Gain clues |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
 | [Performer](<Trainings/List/Performer>) (Calligraphy) | Advantage when performing/entertaining/art |
 | [Secret Signs](<Trainings/List/Secret Signs>) (Any) | Understand secret signs |
 
@@ -51,7 +51,6 @@ draft: false
 | [Argumentative](<Trainings/List/Argumentative>) | Advantage when debating |
 | [Briber](<Trainings/List/Briber>) | Advantage on bribe |
 | [Counterfeit](<Trainings/List/Counterfeit>) | Can counterfeit licenses/permits/... |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
 
 
 ### Level 4 (income: Normal)
@@ -65,6 +64,5 @@ draft: false
 | [Deep pockets](<Trainings/List/Deep pockets>) | Have simple items |
 | [Drive](<Trainings/List/Drive>) | Can drive land vehicles |
 | [Interrogate](<Trainings/List/Interrogate>) | Advantage on interrogation/torture |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
 
 

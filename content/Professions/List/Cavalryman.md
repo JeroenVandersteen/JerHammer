@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Spear (1H), Torso leather, Head plate, Poor clothes
 
+**Lores**: Animals, Warfare, Fashion, Heraldry, Nobility, Politics
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -46,7 +48,6 @@ draft: false
 | [Bypass armor](<Trainings/List/Bypass armor>) | 1 fortune to ignore impact reduction |
 | [Weapon specialization](<Trainings/List/Weapon specialization>) | +1 dam with that melee weapon |
 | [Animal training](<Trainings/List/Animal training>) | Can train animals |
-| [Lore](<Trainings/List/Lore>) (Warfare) | Deep knowledge on subject |
 
 
 ### Level 4 (income: Good)
@@ -59,6 +60,5 @@ draft: false
 | [Smash hard](<Trainings/List/Smash hard>) | 1d6 impact dam with lethal dam |
 | [Stunning strike](<Trainings/List/Stunning strike>) | 1 fortune to add stun to damage |
 | [War leader](<Trainings/List/War leader>) | Allies gain advantage vs fear |
-| [Lore](<Trainings/List/Lore>) (Heraldry) | Deep knowledge on subject |
 
 

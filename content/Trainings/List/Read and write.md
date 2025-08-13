@@ -12,4 +12,4 @@ _Can read and write_
 You have learned to read and write in any language you can speak. This includes some basic math knowledge and basic education.
 
 **Without this training:**
-Without this talent, characters cannot read nor write.
+Without this training, characters cannot read nor write.

@@ -6,7 +6,7 @@ draft: false
 
 ### Make purity seal
 
-**Prerequisite:** [Write purity seal](<Talents/List/Write purity seal>) talent
+**Prerequisite:** [Write purity seal](<Trainings/List/Write purity seal>) talent
 
 _Make 1 purity seal per time talent taken_
 

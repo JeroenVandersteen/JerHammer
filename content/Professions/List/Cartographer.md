@@ -13,12 +13,14 @@ draft: false
 
 **Trappings**: Knife, Sling, Poor clothes, Paper, 1 sheet, Quill pen, Ink, Navigator's tools
 
+**Lores**: Geography, History, Heraldry, Mathematics, Riverways, Navigation, Art, Folklore
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
 | --- | --- |
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
-| [Lore](<Trainings/List/Lore>) (Geography) | Deep knowledge on subject |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 | [Performer](<Trainings/List/Performer>) (Calligraphy) | Advantage when performing/entertaining/art |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 | [Ride](<Trainings/List/Ride>) | Ride horses |
@@ -31,7 +33,7 @@ draft: false
 | [Mobile dodge](<Trainings/List/Mobile dodge>) | When moving, +1 dodge |
 | [Advanced education](<Trainings/List/Advanced education>) | Advanced math, science, literature |
 | [Investigative](<Trainings/List/Investigative>) | Gain clues |
-| [Lore](<Trainings/List/Lore>) (History) | Deep knowledge on subject |
+| [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
 | [Performer](<Trainings/List/Performer>) (Drawing) | Advantage when performing/entertaining/art |
 
 
@@ -43,7 +45,6 @@ draft: false
 | [Deep pockets](<Trainings/List/Deep pockets>) | Have simple items |
 | [Elusive](<Trainings/List/Elusive>) | Hide your trail |
 | [Improvisation](<Trainings/List/Improvisation>) | Use other skill if narrated |
-| [Lore](<Trainings/List/Lore>) (Heraldry) | Deep knowledge on subject |
 | [Sturdy traveler](<Trainings/List/Sturdy traveler>) | Advantage on travel endurance |
 
 

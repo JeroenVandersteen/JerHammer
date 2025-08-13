@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Light Hammer, Torso leather, Poor clothes, Scrolls with the Word of Sigmar
 
+**Lores**: Theology, Chaos, Daemonology, Greenskins, Undead, Witchcraft, Warfare
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -24,7 +26,6 @@ draft: false
 | [Pray I](<Trainings/List/Pray I>) | Can invoke lvl 1 prayers, WP faith point max |
 | [Impassioned zeal](<Trainings/List/Impassioned zeal>) | Attract followers |
 | [Courage](<Trainings/List/Courage>) | Advantage to resist fear/torture |
-| [Lore](<Trainings/List/Lore>) (Theology) | Deep knowledge on subject |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
 
@@ -37,6 +38,7 @@ draft: false
 | [Protect ally](<Trainings/List/Protect ally>) | Spend move to protect ally |
 | [Devout](<Trainings/List/Devout>) | Gain WP extra faith point max |
 | [Pray II](<Trainings/List/Pray II>) | Can invoke lvl 2 prayers, 2xWP faith point max |
+| [Create Shrine](<Trainings/List/Create Shrine>) | May create and activate shrines |
 | [Cauterize](<Trainings/List/Cauterize>) | Turn bleeding into wounds |
 | [Discern lies](<Trainings/List/Discern lies>) | Advantage to detect lies/counterfeit |
 | [Menacing](<Trainings/List/Menacing>) | Advantage on intimidation |
@@ -49,7 +51,7 @@ draft: false
 | [Debilitating strike](<Trainings/List/Debilitating strike>) | Loose action instead of damage |
 | [Execute](<Trainings/List/Execute>) | +3d6 dam to prone/restrained opponent |
 | [Rout allies](<Trainings/List/Rout allies>) | Spend action to remove fear from allies |
-| [Annointed](<Trainings/List/Annointed>) | Prayers cost 1 faith point less, never 0 |
+| [Anointed](<Trainings/List/Anointed>) | Prayers cost 1 faith point less, never 0 |
 | [Pray III](<Trainings/List/Pray III>) | Can invoke lvl 3 prayers, 3xWP faith point max |
 | [Holy hatred (group)](<Trainings/List/Holy hatred>) | Prayers deal +1d6 dam vs chosen group |
 | [Advanced education](<Trainings/List/Advanced education>) | Advanced math, science, literature |
@@ -66,6 +68,6 @@ draft: false
 | [War leader](<Trainings/List/War leader>) | Allies gain advantage vs fear |
 | [Pray IV](<Trainings/List/Pray IV>) | Can invoke lvl 4 prayers, 4xWP faith point max |
 | [Commanding presence](<Trainings/List/Commanding presence>) | Advantage on Fel to lower status |
-| [Lore](<Trainings/List/Lore>) (Warfare) | Deep knowledge on subject |
+| [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
 
 

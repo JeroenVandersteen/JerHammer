@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Short Sword, Torso leather, Poor clothes, Rope, 10 meters, Manacles, Tent, Bedroll, Cooking tools
 
+**Lores**: Law, Geography, Criminal underworld, Politics, Streetwise
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -58,6 +60,5 @@ draft: false
 | [Improved initiative](<Trainings/List/Improved initiative>) | Advantage to initiative |
 | [Pull closer](<Trainings/List/Pull closer>) | Pull when hitting with entangle |
 | [Disguise](<Trainings/List/Disguise>) | Advantage on disguise |
-| [Lore](<Trainings/List/Lore>) (Law) | Deep knowledge on subject |
 
 

@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Whip, Knife, Poor clothes, Cloak
 
+**Lores**: Navigation, Animals, Geography, Folklore, Streetwise
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -37,7 +39,6 @@ draft: false
 | [Grappler](<Trainings/List/Grappler>) | Advantage when grappling |
 | [Mounted fighter](<Trainings/List/Mounted fighter>) | Advantage against unmounted opponents |
 | [Lucky](<Trainings/List/Lucky>) | Recover 1 extra fortune |
-| [Lore](<Trainings/List/Lore>) (Local) | Deep knowledge on subject |
 
 
 ### Level 3 (income: Normal)
@@ -48,7 +49,7 @@ draft: false
 | [Extra fortunate](<Trainings/List/Extra fortunate>) | +1 fortune point max |
 | [Deep pockets](<Trainings/List/Deep pockets>) | Have simple items |
 | [Elusive](<Trainings/List/Elusive>) | Hide your trail |
-| [Lore](<Trainings/List/Lore>) (Geography) | Deep knowledge on subject |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 
 
 ### Level 4 (income: Normal)

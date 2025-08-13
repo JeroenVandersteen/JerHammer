@@ -6,7 +6,7 @@ draft: false
 
 ### Train animal
 
-**Prerequisite:** [Animal training](<Talents/List/Animal training>) talent
+**Prerequisite:** [Animal training](<Trainings/List/Animal training>) talent
 
 _Gain 1 trick to animal companion_
 

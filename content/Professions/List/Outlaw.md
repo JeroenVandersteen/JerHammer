@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Brass Knuckles, Squalid clothes, rags, Bedroll, Tent, Cooking tools
 
+**Lores**: Nature, Criminal underworld, Folklore, Geography, Riverways, Streetwise
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -35,7 +37,6 @@ draft: false
 | [Witty repartee](<Trainings/List/Witty repartee>) | Insult to gain +1 damage |
 | [Camouflage](<Trainings/List/Camouflage>) | May hide a group of characters |
 | [Elusive](<Trainings/List/Elusive>) | Hide your trail |
-| [Lore](<Trainings/List/Lore>) (Local) | Deep knowledge on subject |
 | [Track](<Trainings/List/Track>) | Can track |
 | [Unseen move](<Trainings/List/Unseen move>) | Hiding is a free action |
 
@@ -60,7 +61,6 @@ draft: false
 | [Long shot](<Trainings/List/Long shot>) | Range increment 1 reduced |
 | [Counterfeit](<Trainings/List/Counterfeit>) | Can counterfeit licenses/permits/... |
 | [Liar](<Trainings/List/Liar>) | Advantage when lying |
-| [Lore](<Trainings/List/Lore>) (Law) | Deep knowledge on subject |
 | [Pick lock](<Trainings/List/Pick lock>) | Can use lock picking tools |
 
 

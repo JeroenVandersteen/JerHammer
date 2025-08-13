@@ -6,8 +6,8 @@ draft: false
 
 ### Brew potion
 
-**Prerequisite:** [Brewing](<Talents/List/Brewing>) talent
+**Prerequisite:** [Brewing](<Trainings/List/Brewing>) talent
 
-_Brew potions_
+_Brew potions, pay for ingredients, tools_
 
-As per the talent, you may brew a combined level of potions up to the number of times you have taken the brew talent. You have to pay 50% of the listed potion price for the ingredients, use of tools and workshop.
+As per the talent, you may brew a combined level of potions up to the number of times you have taken the brew talent. You have to pay the listed price for the ingredients, use of tools and workshop.

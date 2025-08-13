@@ -6,7 +6,7 @@ draft: false
 
 
 ### Quick casting
-**Prerequisites:** Career
+**Prerequisites:** Profession
 
 _Cast 2 spells, each CN+2_
 

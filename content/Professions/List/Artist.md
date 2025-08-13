@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Knife, Squalid clothes, rags, Quill pen, Ink
 
+**Lores**: Art, Fashion, Anatomy, Folklore, Heraldry
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -41,8 +43,6 @@ draft: false
 | [Fortune burning](<Trainings/List/Fortune burning>) | May use 1 extra fortune point/turn |
 | [Counterfeit](<Trainings/List/Counterfeit>) | Can counterfeit licenses/permits/... |
 | [Deep pockets](<Trainings/List/Deep pockets>) | Have simple items |
-| [Lore](<Trainings/List/Lore>) (Art) | Deep knowledge on subject |
-| [Lore](<Trainings/List/Lore>) (Heraldry) | Deep knowledge on subject |
 | [Performer](<Trainings/List/Performer>) (Any) | Advantage when performing/entertaining/art |
 
 

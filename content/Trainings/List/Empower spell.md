@@ -6,7 +6,7 @@ draft: false
 
 
 ### Empower spell
-**Prerequisites:** Career
+**Prerequisites:** Profession
 
 _Reroll damage, CN+2_
 

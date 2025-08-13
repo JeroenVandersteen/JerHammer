@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Short Sword, Buckler, Torso leather, Head plate, Normal clothes, Cloak
 
+**Lores**: Animals, Warfare, Fashion, Heraldry, Nobility, Politics, History, Law
+
 ### Level 1 (income: Normal)
 
 | Trainings | Short Description |
@@ -20,7 +22,7 @@ draft: false
 | [Armor master](<Trainings/List/Armor master>) | Reduce armor penalties by 1 |
 | [Disarming strike](<Trainings/List/Disarming strike>) | Opposed test to disarm |
 | [Reliable hit](<Trainings/List/Reliable hit>) | Advantage on dam with that weapon |
-| [Lore](<Trainings/List/Lore>) (Heraldry) | Deep knowledge on subject |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 | [Noble blood](<Trainings/List/Noble blood>) | Born from noble family |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 | [Ride](<Trainings/List/Ride>) | Ride horses |
@@ -47,7 +49,6 @@ draft: false
 | [Advanced education](<Trainings/List/Advanced education>) | Advanced math, science, literature |
 | [Attractive](<Trainings/List/Attractive>) | Advantage to charm other gender |
 | [Courage](<Trainings/List/Courage>) | Advantage to resist fear/torture |
-| [Lore](<Trainings/List/Lore>) (Warfare) | Deep knowledge on subject |
 | [Unshakable](<Trainings/List/Unshakable>) | No cool check on blackpowder fire |
 
 
@@ -61,6 +62,5 @@ draft: false
 | [Stunning strike](<Trainings/List/Stunning strike>) | 1 fortune to add stun to damage |
 | [War leader](<Trainings/List/War leader>) | Allies gain advantage vs fear |
 | [Commanding presence](<Trainings/List/Commanding presence>) | Advantage on Fel to lower status |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
 
 

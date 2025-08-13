@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Sling, Squalid clothes, rags, Bedroll
 
+**Lores**: Criminal underworld, Folklore, Cooking, Animals, Poison, Astrology, Streetwise
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -48,7 +50,6 @@ draft: false
 | [Cheating](<Trainings/List/Cheating>) | Sleight of hand test to reroll die/draw card |
 | [Escape artist](<Trainings/List/Escape artist>) | Advantage to escape grapple/ropes/... |
 | [Fast healer](<Trainings/List/Fast healer>) | Heal +1HP/night |
-| [Lore](<Trainings/List/Lore>) (Local) | Deep knowledge on subject |
 | [Unseen move](<Trainings/List/Unseen move>) | Hiding is a free action |
 
 

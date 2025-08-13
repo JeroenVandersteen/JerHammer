@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Sickle, Poor clothes, Bandage, Candle (dozen)
 
+**Lores**: Theology, History, Anatomy, Folklore, Spirits, Medicine
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -23,7 +25,7 @@ draft: false
 | [Extra fortunate](<Trainings/List/Extra fortunate>) | +1 fortune point max |
 | [Beneath notice](<Trainings/List/Beneath notice>) | People ignore you |
 | [First aid](<Trainings/List/First aid>) | Medicine test and full round to heal 1 HP |
-| [Lore](<Trainings/List/Lore>) (Theology) | Deep knowledge on subject |
+| [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
 
@@ -33,10 +35,11 @@ draft: false
 | --- | --- |
 | [Bloodletting](<Trainings/List/Bloodletting>) | Take bleed for advantage vs disease/poison |
 | [Pray II](<Trainings/List/Pray II>) | Can invoke lvl 2 prayers, 2xWP faith point max |
+| [Create Shrine](<Trainings/List/Create Shrine>) | May create and activate shrines |
 | [Advanced education](<Trainings/List/Advanced education>) | Advanced math, science, literature |
 | [Discern lies](<Trainings/List/Discern lies>) | Advantage to detect lies/counterfeit |
 | [Performer](<Trainings/List/Performer>) (Calligraphy) | Advantage when performing/entertaining/art |
-| [Surgeon](<Trainings/List/Surgeon>) | Medicine test and 1 hour to heal 1 HP/day |
+| [Surgeon](<Trainings/List/Surgeon>) | Medicine test and 1 hour to heal double HP/day |
 
 
 ### Level 3 (income: Normal)
@@ -51,8 +54,7 @@ draft: false
 | [Lucky](<Trainings/List/Lucky>) | Recover 1 extra fortune |
 | [Courage](<Trainings/List/Courage>) | Advantage to resist fear/torture |
 | [Lip reading](<Trainings/List/Lip reading>) | May read lips |
-| [Lore](<Trainings/List/Lore>) (Politics) | Deep knowledge on subject |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 | [Stitch up](<Trainings/List/Stitch up>) | Advantage to remove bleeding |
 
 

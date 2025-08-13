@@ -12,4 +12,4 @@ _Can swim_
 You have learned to swim. The GM may ask for an athletics (strength) or an endurance (toughness) test if the swim is particularly hard.
 
 **Without this training:**
-Without this talent, characters cannot swim.
+Without this training, characters cannot swim.

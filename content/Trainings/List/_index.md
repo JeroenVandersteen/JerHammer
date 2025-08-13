@@ -60,8 +60,6 @@ draft: false
 | [Mounted fighter](<Trainings/List/Mounted fighter>) |  |  | Advantage against unmounted opponents |
 | [One-hand dodging](<Trainings/List/One-hand dodging>) |  |  | +1 dodge with empty offhand |
 | [One-hand fencing](<Trainings/List/One-hand fencing>) |  |  | +1 parry with empty offhand |
-| [Parry arrows](<Trainings/List/Parry arrows>) |  |  | Add shield parry bonus to dodge |
-| [Parry master](<Trainings/List/Parry master>) |  |  | Add both hands' parry bonus |
 | [Pistolier](<Trainings/List/Pistolier>) |  |  | Only offhand pistol at disadvantage |
 | [Powerful strike](<Trainings/List/Powerful strike>) | S, 4 |  | -1 to hit, +1d6 damage |
 | [Protect ally](<Trainings/List/Protect ally>) |  |  | Spend move to protect ally |
@@ -101,26 +99,33 @@ draft: false
 
 | Training | Max | Prereq | Short Description |
 | :--- | --- | :--- | :--- |
-| [Brewing](<Trainings/List/Brewing>) | Int, 4 | Career | Can brew potions |
-| [Crafting](<Trainings/List/Crafting>) | Int, 4 | Career | Craft items (50% price) |
-| [Herbalism](<Trainings/List/Herbalism>) | Int, 4 | Career | Can gather herbs |
-| [Inventor](<Trainings/List/Inventor>) | Int, 4 | Career | Make item modifications |
-| [Poisoner](<Trainings/List/Poisoner>) | Int, 4 | Career | Can create poisons |
-| [Runesmithing](<Trainings/List/Runesmithing>) | WP, 5 | Career | Can add runes to items |
+| [Brewing](<Trainings/List/Brewing>) | Int, 4 | Profession | Can brew potions |
+| [Crafting](<Trainings/List/Crafting>) | Int, 4 | Profession | Craft items (50% price) |
+| [Herbalism](<Trainings/List/Herbalism>) | Int, 4 | Profession | Can gather herbs |
+| [Income](<Trainings/List/Income>) | Level+2 |  | Increase income per game session |
+| [Inventor](<Trainings/List/Inventor>) | Int, 4 | Profession | Make item modifications |
+| [Poisoner](<Trainings/List/Poisoner>) | Int, 4 | Profession | Can create poisons |
+| [Runesmithing](<Trainings/List/Runesmithing>) | WP, 5 | Profession | Can add runes to items |
 
 ## Divine Trainings
 
 | Training | Max | Prereq | Short Description |
 | :--- | --- | :--- | :--- |
-| [Write purity seal](<Trainings/List/Write purity seal>) | Fel, 4 | Career | Spend endeavor to create purity seal(s) |
-| [Annointed](<Trainings/List/Annointed>) |  | Pray I | Prayers cost 1 faith point less, never 0 |
+| [Write purity seal](<Trainings/List/Write purity seal>) | Fel, 4 | Profession | Spend endeavor to create purity seal(s) |
+| [Anointed](<Trainings/List/Anointed>) |  | Pray I | Prayers cost 1 faith point less, never 0 |
 | [Devout](<Trainings/List/Devout>) |  | Pray I | Gain WP extra faith point max |
-| [Pray I](<Trainings/List/Pray I>) |  | Career | Can invoke lvl 1 prayers, WP faith point max |
+| [Pray I](<Trainings/List/Pray I>) |  | Profession | Can invoke lvl 1 prayers, WP faith point max |
 | [Pray II](<Trainings/List/Pray II>) |  | Pray I | Can invoke lvl 2 prayers, 2xWP faith point max |
 | [Pray III](<Trainings/List/Pray III>) |  | Pray II | Can invoke lvl 3 prayers, 3xWP faith point max |
 | [Pray IV](<Trainings/List/Pray IV>) |  | Pray III | Can invoke lvl 4 prayers, 4xWP faith point max |
-| [Holy hatred (group)](<Trainings/List/Holy hatred>) |  | Career | Prayers deal +1d6 dam vs chosen group |
-| [Impassioned zeal](<Trainings/List/Impassioned zeal>) | Fel | Career | Attract followers |
+| [Holy hatred (group)](<Trainings/List/Holy hatred>) |  | Profession | Prayers deal +1d6 dam vs chosen group |
+| [Impassioned zeal](<Trainings/List/Impassioned zeal>) | Fel | Profession | Attract followers |
+
+## Divine/Magick Trainings
+
+| Training | Max | Prereq | Short Description |
+| :--- | --- | :--- | :--- |
+| [Create Shrine](<Trainings/List/Create Shrine>) | WP | Profession | May create and activate shrines |
 
 ## Fortune Trainings
 
@@ -134,24 +139,24 @@ draft: false
 
 | Training | Max | Prereq | Short Description |
 | :--- | --- | :--- | :--- |
-| [Aetheric attunement](<Trainings/List/Aetheric attunement>) |  | Career | Reduce miscast tally by WP after miscast |
-| [Arcane Magick I](<Trainings/List/Arcane Magick I>) |  | Career | Can cast level 1 arcane spells, all lores |
-| [Arcane Magick II](<Trainings/List/Arcane Magick II>) |  | Arcane Magick I | Can cast level 2 arcane spells, half lores |
-| [Arcane Magick III](<Trainings/List/Arcane Magick III>) |  | Arcane Magick II | Can cast level 3 arcane spells, quadrant lores |
-| [Arcane Magick IV](<Trainings/List/Arcane Magick IV>) |  | Arcane Magick III | Can cast level 4 arcane spells, 1 lore |
-| [Battle wizard](<Trainings/List/Battle wizard>) | WP | Career | Armor pen. 1 less; no miscast disadv in melee |
+| [Aetheric attunement](<Trainings/List/Aetheric attunement>) |  | Profession | Reduce miscast tally by WP after miscast |
+| [Arcane Magick I](<Trainings/List/Arcane Magick I>) |  | Profession | Cast level 1 spells from 1 lore, gain 3 spells |
+| [Arcane Magick II](<Trainings/List/Arcane Magick II>) |  | Arcane Magick I | Cast level 2 spells from 1 lore, gain 3 spells |
+| [Arcane Magick III](<Trainings/List/Arcane Magick III>) |  | Arcane Magick II | Cast level 3 spells from 1 lore, gain 3 spells |
+| [Arcane Magick IV](<Trainings/List/Arcane Magick IV>) |  | Arcane Magick III | Cast level 4 spells from 1 lore, gain 3 spells |
+| [Battle wizard](<Trainings/List/Battle wizard>) | WP | Profession | Armor pen. 1 less; no miscast disadv in melee |
 | [Blood Magick](<Trainings/List/Blood Magick>) | WP |  | Take HP-1 for CN-1 |
-| [Counterspell](<Trainings/List/Counterspell>) |  | Career | May defend against spells |
+| [Counterspell](<Trainings/List/Counterspell>) |  | Profession | May defend against spells |
 | [Dissipate channeling](<Trainings/List/Dissipate channeling>) |  |  | May build down channeling |
-| [Distant spell](<Trainings/List/Distant spell>) |  | Career | Increase spell range, CN+2 |
-| [Empower spell](<Trainings/List/Empower spell>) |  | Career | Reroll damage, CN+2 |
-| [Favorite spell](<Trainings/List/Favorite spell>) | Int | Career | CN-1 on one spell |
-| [Hidden spell](<Trainings/List/Hidden spell>) | Int | Career | No sound/gestures on one spell |
-| [Lasting spell](<Trainings/List/Lasting spell>) |  | Career | Double duration, CN+2 |
-| [Magick resistance](<Trainings/List/Magick resistance>) | WP, 3 | Career | Gain +1 Magick DC |
-| [Quick casting](<Trainings/List/Quick casting>) |  | Career | Cast 2 spells, each CN+2 |
+| [Distant spell](<Trainings/List/Distant spell>) |  | Profession | Increase spell range, CN+2 |
+| [Empower spell](<Trainings/List/Empower spell>) |  | Profession | Reroll damage, CN+2 |
+| [Favorite spell](<Trainings/List/Favorite spell>) | Int | Profession | CN-1 on one spell |
+| [Hidden spell](<Trainings/List/Hidden spell>) | Int | Profession | No sound/gestures on one spell |
+| [Lasting spell](<Trainings/List/Lasting spell>) |  | Profession | Double duration, CN+2 |
+| [Magick resistance](<Trainings/List/Magick resistance>) | WP, 3 | Profession | Gain +1 Magick DC |
+| [Quick casting](<Trainings/List/Quick casting>) |  | Profession | Cast 2 spells, each CN+2 |
 | [Reflect spell](<Trainings/List/Reflect spell>) |  | Counterspell | May reflect spell back to caster |
-| [Second sight](<Trainings/List/Second sight>) |  | Career | Sense magick |
+| [Second sight](<Trainings/List/Second sight>) |  | Profession | Sense magick |
 
 ## Skill Trainings
 
@@ -203,12 +208,13 @@ draft: false
 | [Liar](<Trainings/List/Liar>) |  |  | Advantage when lying |
 | [Lip reading](<Trainings/List/Lip reading>) |  |  | May read lips |
 | [Long jump](<Trainings/List/Long jump>) |  |  | Advantage and 2x range/height on jump |
-| [Lore](<Trainings/List/Lore>) |  |  | Deep knowledge on subject |
+| [Lore generalist](<Trainings/List/Lore generalist>) |  |  | Have a 1-in-3 chance to have any lore |
+| [Lore specialist](<Trainings/List/Lore specialist>) |  |  | Additional advantage when using a lore |
 | [Menacing](<Trainings/List/Menacing>) |  |  | Advantage on intimidation |
 | [Night vision](<Trainings/List/Night vision>) | P | Racial | See clearly in dim light for 20m |
 | [Noble blood](<Trainings/List/Noble blood>) |  |  | Born from noble family |
 | [Performer](<Trainings/List/Performer>) |  |  | Advantage when performing/entertaining/art |
-| [Pick lock](<Trainings/List/Pick lock>) |  | Career | Can use lock picking tools |
+| [Pick lock](<Trainings/List/Pick lock>) |  | Profession | Can use lock picking tools |
 | [Read and write](<Trainings/List/Read and write>) |  |  | Can read and write |
 | [Ride](<Trainings/List/Ride>) |  |  | Ride horses |
 | [Sail](<Trainings/List/Sail>) |  |  | Can use ships |
@@ -217,7 +223,7 @@ draft: false
 | [Set traps](<Trainings/List/Set traps>) |  |  | Can set traps |
 | [Stitch up](<Trainings/List/Stitch up>) |  |  | Advantage to remove bleeding |
 | [Sturdy traveler](<Trainings/List/Sturdy traveler>) |  |  | Advantage on travel endurance |
-| [Surgeon](<Trainings/List/Surgeon>) |  |  | Medicine test and 1 hour to heal 1 HP/day |
+| [Surgeon](<Trainings/List/Surgeon>) |  |  | Medicine test and 1 hour to heal double HP/day |
 | [Swim](<Trainings/List/Swim>) |  |  | Can swim |
 | [Track](<Trainings/List/Track>) |  |  | Can track |
 | [Unseen move](<Trainings/List/Unseen move>) |  |  | Hiding is a free action |

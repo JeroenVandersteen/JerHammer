@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Hammer, Poor clothes, Trade tools
 
+**Lores**: Runes, Science, Engineering, Magick theory, Chemistry
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |

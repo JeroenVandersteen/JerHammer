@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Short Sword, Torso leather, Poor clothes, Bedroll, Tent, Tent, Bedroll, Cooking tools
 
+**Lores**: Nature, Navigation, Plants, Animals, Geography, Riverways, Greenskins
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -22,7 +24,6 @@ draft: false
 | [Mobility](<Trainings/List/Mobility>) | Ignore difficult terrain |
 | [Fast movement](<Trainings/List/Fast movement>) | Movement +1 (+10m outdoors, +5m indoors) |
 | [Hide in nature](<Trainings/List/Hide in nature>) | Advantage on stealth in nature |
-| [Lore](<Trainings/List/Lore>) (Geography) | Deep knowledge on subject |
 | [Ride](<Trainings/List/Ride>) | Ride horses |
 | [Sturdy traveler](<Trainings/List/Sturdy traveler>) | Advantage on travel endurance |
 | [Track](<Trainings/List/Track>) | Can track |
@@ -39,6 +40,7 @@ draft: false
 | [Camouflage](<Trainings/List/Camouflage>) | May hide a group of characters |
 | [Elusive](<Trainings/List/Elusive>) | Hide your trail |
 | [Hunter](<Trainings/List/Hunter>) | Provide food when outdoors |
+| [Lore generalist](<Trainings/List/Lore generalist>) | Have a 1-in-3 chance to have any lore |
 | [Swim](<Trainings/List/Swim>) | Can swim |
 
 

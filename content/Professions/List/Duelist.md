@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Pistol, Poor clothes, Bandage
 
+**Lores**: Heraldry, Nobility, Law, Anatomy, Fashion, Politics
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -21,6 +23,7 @@ draft: false
 | [Extended crit range](<Trainings/List/Extended crit range>) | Crit range +1 |
 | [Improved initiative](<Trainings/List/Improved initiative>) | Advantage to initiative |
 | [Weapon specialization](<Trainings/List/Weapon specialization>) | +1 dam with that melee weapon |
+| [Income](<Trainings/List/Income>) | Increase income per game session |
 | [Fortune burning](<Trainings/List/Fortune burning>) | May use 1 extra fortune point/turn |
 | [Unshakable](<Trainings/List/Unshakable>) | No cool check on blackpowder fire |
 
@@ -33,6 +36,7 @@ draft: false
 | [Blather](<Trainings/List/Blather>) | Opposed deception/logic to cause disadvantage |
 | [Deathstrike](<Trainings/List/Deathstrike>) | Spend action to deal 2x dam next time |
 | [Pistolier](<Trainings/List/Pistolier>) | Only offhand pistol at disadvantage |
+| [Income](<Trainings/List/Income>) | Increase income per game session |
 | [Extra fortunate](<Trainings/List/Extra fortunate>) | +1 fortune point max |
 | [Briber](<Trainings/List/Briber>) | Advantage on bribe |
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
@@ -47,6 +51,7 @@ draft: false
 | [Exploit advantage](<Trainings/List/Exploit advantage>) | Extra advantage on advantage |
 | [Long shot](<Trainings/List/Long shot>) | Range increment 1 reduced |
 | [Reliable hit](<Trainings/List/Reliable hit>) | Advantage on dam with that weapon |
+| [Income](<Trainings/List/Income>) | Increase income per game session |
 | [Dramatic entrance](<Trainings/List/Dramatic entrance>) | Fortune point for social advantage |
 | [Improvisation](<Trainings/List/Improvisation>) | Use other skill if narrated |
 | [Kip up](<Trainings/List/Kip up>) | Get up with no move |
@@ -58,10 +63,10 @@ draft: false
 | --- | --- |
 | [Armor piercing](<Trainings/List/Armor piercing>) | 1 fortune to ignore armor points |
 | [Diehard](<Trainings/List/Diehard>) | +3 HP |
+| [Income](<Trainings/List/Income>) | Increase income per game session |
 | [Lucky](<Trainings/List/Lucky>) | Recover 1 extra fortune |
 | [Courage](<Trainings/List/Courage>) | Advantage to resist fear/torture |
 | [Fast movement](<Trainings/List/Fast movement>) | Movement +1 (+10m outdoors, +5m indoors) |
 | [Long jump](<Trainings/List/Long jump>) | Advantage and 2x range/height on jump |
-| [Lore](<Trainings/List/Lore>) (Law) | Deep knowledge on subject |
 
 

@@ -6,7 +6,7 @@ draft: false
 
 ### Divination
 
-**Prerequisite:** [Divination](<Talents/List/Divination>) talent
+**Prerequisite:** [Divination](<Trainings/List/Divination>) talent
 
 _Roll Int dice; can be used to swap_
 

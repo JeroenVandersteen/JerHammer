@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Short Sword, Torch, Poor clothes, Instruments of torture
 
+**Lores**: Theology, Magick theory, Folklore, Chaos, Daemonology, Witchcraft, Undead, Politics
+
 ### Level 1 (income: Poor)
 
 | Trainings | Short Description |
@@ -22,7 +24,6 @@ draft: false
 | [Impassioned zeal](<Trainings/List/Impassioned zeal>) | Attract followers |
 | [Discern lies](<Trainings/List/Discern lies>) | Advantage to detect lies/counterfeit |
 | [Interrogate](<Trainings/List/Interrogate>) | Advantage on interrogation/torture |
-| [Lore](<Trainings/List/Lore>) (Witches) | Deep knowledge on subject |
 | [Menacing](<Trainings/List/Menacing>) | Advantage on intimidation |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |
 
@@ -36,7 +37,7 @@ draft: false
 | [Briber](<Trainings/List/Briber>) | Advantage on bribe |
 | [Cauterize](<Trainings/List/Cauterize>) | Turn bleeding into wounds |
 | [Gossip](<Trainings/List/Gossip>) | Gain 1 rumor/session |
-| [Lore](<Trainings/List/Lore>) (Law) | Deep knowledge on subject |
+| [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
 | [Track](<Trainings/List/Track>) | Can track |
 | [Unshakable](<Trainings/List/Unshakable>) | No cool check on blackpowder fire |
 
@@ -52,10 +53,10 @@ draft: false
 | [Write purity seal](<Trainings/List/Write purity seal>) | Spend endeavor to create purity seal(s) |
 | [Pray I](<Trainings/List/Pray I>) | Can invoke lvl 1 prayers, WP faith point max |
 | [Holy hatred (group)](<Trainings/List/Holy hatred>) | Prayers deal +1d6 dam vs chosen group |
+| [Create Shrine](<Trainings/List/Create Shrine>) | May create and activate shrines |
 | [Argumentative](<Trainings/List/Argumentative>) | Advantage when debating |
 | [Commanding presence](<Trainings/List/Commanding presence>) | Advantage on Fel to lower status |
 | [Courage](<Trainings/List/Courage>) | Advantage to resist fear/torture |
-| [Lore](<Trainings/List/Lore>) (Local) | Deep knowledge on subject |
 
 
 ### Level 4 (income: Rich)
@@ -70,7 +71,5 @@ draft: false
 | [Pray II](<Trainings/List/Pray II>) | Can invoke lvl 2 prayers, 2xWP faith point max |
 | [Magick resistance](<Trainings/List/Magick resistance>) | Gain +1 Magick DC |
 | [Lip reading](<Trainings/List/Lip reading>) | May read lips |
-| [Lore](<Trainings/List/Lore>) (Politics) | Deep knowledge on subject |
-| [Lore](<Trainings/List/Lore>) (Chaos) | Deep knowledge on subject |
 
 

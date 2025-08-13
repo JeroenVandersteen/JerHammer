@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Knife, Squalid clothes, rags, Candle (dozen)
 
+**Lores**: Criminal underworld, Folklore, Astrology, Economics, Art, Heraldry, History, Streetwise
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -43,7 +45,6 @@ draft: false
 | [Disguise](<Trainings/List/Disguise>) | Advantage on disguise |
 | [Infiltration](<Trainings/List/Infiltration>) | Blend into a group |
 | [Lip reading](<Trainings/List/Lip reading>) | May read lips |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
 | [Unseen move](<Trainings/List/Unseen move>) | Hiding is a free action |
 
 
@@ -54,7 +55,6 @@ draft: false
 | [Impassioned zeal](<Trainings/List/Impassioned zeal>) | Attract followers |
 | [Deep pockets](<Trainings/List/Deep pockets>) | Have simple items |
 | [Fast healer](<Trainings/List/Fast healer>) | Heal +1HP/night |
-| [Lore](<Trainings/List/Lore>) (Any) | Deep knowledge on subject |
 | [Menacing](<Trainings/List/Menacing>) | Advantage on intimidation |
 | [Pick lock](<Trainings/List/Pick lock>) | Can use lock picking tools |
 

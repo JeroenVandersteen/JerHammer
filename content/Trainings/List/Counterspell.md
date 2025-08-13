@@ -6,7 +6,7 @@ draft: false
 
 
 ### Counterspell
-**Prerequisites:** Career
+**Prerequisites:** Profession
 
 _May defend against spells_
 

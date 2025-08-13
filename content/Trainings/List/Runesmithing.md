@@ -7,8 +7,8 @@ draft: false
 
 ### Runesmithing
 **Max:** WP, 5
-**Prerequisites:** Career
+**Prerequisites:** Profession
 
 _Can add runes to items_
 
-You can use an endeavour to add runes up to a combined level of runes equal to the number of times the talent was taken. You can call yourself apprentice (I), journeyman (II), master (III), grandmaster (IV), or grand runemaster (V), depending on the number of times this talent was taken.
+You can use an endeavour to add runes up to a combined level of runes equal to the number of times the training was taken. You have to pay the listed cost for the use of tools and workshop. You can call yourself apprentice (I), journeyman (II), master (III), grandmaster (IV), or grand runemaster (V), depending on the number of times this training was taken.

@@ -10,4 +10,4 @@ draft: false
 
 _+1 fortune point max_
 
-Your fortune point maximum increases by 1 for each time you take this talent.
+Your fortune point maximum increases by 1 for each time you take this training.

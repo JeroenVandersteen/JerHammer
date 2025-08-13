@@ -13,6 +13,8 @@ draft: false
 
 **Trappings**: Cat o' nine tails whip, Squalid clothes, rags, Scrolls with the Word of Sigmar
 
+**Lores**: Theology, Chaos, Witchcraft, Folklore, Astrology, Anatomy, Streetwise
+
 ### Level 1 (income: Squalid)
 
 | Trainings | Short Description |
@@ -22,7 +24,6 @@ draft: false
 | [Tough as nails](<Trainings/List/Tough as nails>) | Endurance test to stay conscious at 0 stun |
 | [Write purity seal](<Trainings/List/Write purity seal>) | Spend endeavor to create purity seal(s) |
 | [Impassioned zeal](<Trainings/List/Impassioned zeal>) | Attract followers |
-| [Lore](<Trainings/List/Lore>) (Theology) | Deep knowledge on subject |
 | [Menacing](<Trainings/List/Menacing>) | Advantage on intimidation |
 | [Secret Signs](<Trainings/List/Secret Signs>) (Divine) | Understand secret signs |
 | [Unshakable](<Trainings/List/Unshakable>) | No cool check on blackpowder fire |
@@ -38,6 +39,7 @@ draft: false
 | [Frenzy](<Trainings/List/Frenzy>) | When frenzied, advantage to hit |
 | [Relentless charge](<Trainings/List/Relentless charge>) | +1d6 dam when charging |
 | [Pray I](<Trainings/List/Pray I>) | Can invoke lvl 1 prayers, WP faith point max |
+| [Create Shrine](<Trainings/List/Create Shrine>) | May create and activate shrines |
 | [Fast healer](<Trainings/List/Fast healer>) | Heal +1HP/night |
 
 
@@ -66,7 +68,6 @@ draft: false
 | [Untiring](<Trainings/List/Untiring>) | Ignore 1 fatigue condition |
 | [Pray III](<Trainings/List/Pray III>) | Can invoke lvl 3 prayers, 3xWP faith point max |
 | [Escape artist](<Trainings/List/Escape artist>) | Advantage to escape grapple/ropes/... |
-| [Lore](<Trainings/List/Lore>) (The Empire) | Deep knowledge on subject |
 | [Sturdy traveler](<Trainings/List/Sturdy traveler>) | Advantage on travel endurance |
 
 
