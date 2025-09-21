@@ -12,6 +12,6 @@ draft: false
  | **Damage**: - - | 
  | **To hit bonus**:  | 
  | **Parry bonus**:  | 
- | **Qualities**: Trip, entangle | 
+ | **Qualities**: Trip, entangle, light | 
  | **Range**: Short | 
  | **Skill**: Throwing Weapons | 

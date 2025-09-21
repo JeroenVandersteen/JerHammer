@@ -9,8 +9,8 @@ draft: false
 | Feather fall |
 | :--- |
 | **Level:** 3 |
-| **Lore:** Heavenly Elements |
-| **Casting TN:** 19 |
+| **Lore:** Fire Element |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Short |

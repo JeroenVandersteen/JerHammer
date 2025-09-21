@@ -10,7 +10,7 @@ draft: false
 
 **Level:** 2
 
-**Cost:** 24d
+**Cost:** 24 cp
 
 **Duration:** Permanent
 

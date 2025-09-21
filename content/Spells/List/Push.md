@@ -11,8 +11,8 @@ _With a primal roar, the mage unleashes a shockwave of force, sending adversarie
 | Push |
 | :--- |
 | **Level:** 2 |
-| **Lore:** Heavenly Elements |
-| **Casting TN:** 17 |
+| **Lore:** Fire Element |
+| **Casting TN:** 15 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

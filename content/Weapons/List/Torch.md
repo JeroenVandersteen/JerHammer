@@ -12,6 +12,6 @@ draft: false
  | **Damage**: S+1d6+1 Impact | 
  | **To hit bonus**:  | 
  | **Parry bonus**:  | 
- | **Qualities**: Flaming | 
+ | **Qualities**: Flaming, light | 
  | **Range**:  | 
  | **Skill**: Weapon Offense | 

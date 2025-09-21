@@ -20,7 +20,7 @@ draft: false
 | Trainings | Short Description |
 | --- | --- |
 | [Write purity seal](<Trainings/List/Write purity seal>) | Spend endeavor to create purity seal(s) |
-| [Devout](<Trainings/List/Devout>) | Gain WP extra faith point max |
+| [Devout](<Trainings/List/Devout>) | Gain 2x WP extra faith point max |
 | [Pray I](<Trainings/List/Pray I>) | Can invoke lvl 1 prayers, WP faith point max |
 | [Create Shrine](<Trainings/List/Create Shrine>) | May create and activate shrines |
 | [Extra fortunate](<Trainings/List/Extra fortunate>) | +1 fortune point max |

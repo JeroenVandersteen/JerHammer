@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 2 |
 | **Lore:** Death |
-| **Casting TN:** 17 |
+| **Casting TN:** 15 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Self |

@@ -12,7 +12,7 @@ _In the hands of the smith, metal bends to will, whether to heal the broken or s
 | :--- |
 | **Level:** 3 |
 | **Lore:** Terrestrial Elements |
-| **Casting TN:** 19 |
+| **Casting TN:** 17 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Touch |

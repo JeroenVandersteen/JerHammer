@@ -10,14 +10,14 @@ draft: false
 | :--- |
 | **Level:** 4 |
 | **Lore:** Life |
-| **Casting TN:** 21 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
-| **Duration:** rounds |
+| **Duration:** instant |
 | **Range:** Short |
 | **Target:** Area |
-| **Damage:** one-time 4d6L, entangle |
+| **Damage:** 7d6L, entangle |
 | **Armor:** AP counts |
-| **Resist:** Dodge TN |
+| **Resist:** Ranged TN |
 | **Effect:** Combat spell.  |
 
-This spell deals one-time 4d6L, entangle (AP counts) to all creatures in an area at short range each round, for WP rounds. The spellcast check has to also be equal to or higher than the target's Dodge TN. 
+This spell deals 7d6L, entangle (AP counts) to all creatures in an area at short range instantly. The spellcast check has to also be equal to or higher than the target's Ranged TN. 

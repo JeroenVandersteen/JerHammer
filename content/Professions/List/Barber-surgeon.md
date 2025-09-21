@@ -22,6 +22,7 @@ draft: false
 | [Herbalism](<Trainings/List/Herbalism>) (I) | Can gather herbs |
 | [Beneath notice](<Trainings/List/Beneath notice>) | People ignore you |
 | [Cauterize](<Trainings/List/Cauterize>) | Turn bleeding into wounds |
+| [Combat surgeon](<Trainings/List/Combat surgeon>) | Medicine test to heal 1d6HP/level, but fatigue after |
 | [First aid](<Trainings/List/First aid>) | Medicine test and full round to heal 1 HP |
 | [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
 | [Read and write](<Trainings/List/Read and write>) | Can read and write |

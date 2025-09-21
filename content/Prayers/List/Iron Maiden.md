@@ -9,7 +9,7 @@ draft: false
 | Iron Maiden |
 | :--- |
 | **Level:** 2 |
-| **Invoking TN:** 17 |
+| **Invoking TN:** 15 |
 | **Type:** Offense |
 | **Duration:** rounds |
 | **Range:** Short |

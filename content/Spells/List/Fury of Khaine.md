@@ -12,7 +12,7 @@ _With a whispered prayer to the god of war, the target is suffused with divine w
 | :--- |
 | **Level:** 2 |
 | **Lore:** Heart |
-| **Casting TN:** 17 |
+| **Casting TN:** 15 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Short |

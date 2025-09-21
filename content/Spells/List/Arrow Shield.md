@@ -11,8 +11,8 @@ _In a dance of light and shadow, wooden arrows meet an unseen barrier, falling h
 | Arrow Shield |
 | :--- |
 | **Level:** 2 |
-| **Lore:** Heavenly Elements |
-| **Casting TN:** 17 |
+| **Lore:** Fire Element |
+| **Casting TN:** 15 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Self |

@@ -34,7 +34,7 @@ draft: false
 
 | Trainings | Short Description |
 | --- | --- |
-| [Devout](<Trainings/List/Devout>) | Gain WP extra faith point max |
+| [Devout](<Trainings/List/Devout>) | Gain 2x WP extra faith point max |
 | [Pray II](<Trainings/List/Pray II>) | Can invoke lvl 2 prayers, 2xWP faith point max |
 | [Impassioned zeal](<Trainings/List/Impassioned zeal>) | Attract followers |
 | [Advanced education](<Trainings/List/Advanced education>) | Advanced math, science, literature |

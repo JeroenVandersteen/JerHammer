@@ -12,10 +12,10 @@ _You bathe the area in darkness, and cause your opponents to shriek in pain_
 | :--- |
 | **Level:** 4 |
 | **Lore:** Darkness |
-| **Casting TN:** 21 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Short |
-| **Effect:** Whole area is cast in darkness, all opponents take 1d6L dam per round and disadv on all rolls |
+| **Effect:** Whole area is cast in darkness, all opponents take 4d6L dam per round (AP ignored) and disadv on all rolls |
 
  The whole area around you is bathed in darkness (light sources and dark vision work normally). All opponents suffer disadvantage to all rolls for the duration of the spell. The caster may choose which character is consider an opponent and which one is not.

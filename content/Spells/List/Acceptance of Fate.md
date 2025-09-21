@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 2 |
 | **Lore:** Heart |
-| **Casting TN:** 17 |
+| **Casting TN:** 15 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Short |

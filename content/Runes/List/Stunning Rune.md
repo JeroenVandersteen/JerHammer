@@ -10,7 +10,7 @@ draft: false
 
 **Level:** 1
 
-**Cost:** 3d
+**Cost:** 6 cp
 
 **Duration:** One-time
 

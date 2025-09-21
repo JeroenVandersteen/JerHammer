@@ -9,6 +9,6 @@ draft: false
 **Max:** WP, 3
 **Prerequisites:** Profession
 
-_Gain +1 Magick DC_
+_Gain +1 Spell TN_
 
-You are very resilient to magick; the winds of magick have a harder time flowing through you, and you are just not meant to cast spells. You gain a +1 on your magick DC per time you take this training, but you suffer 1 disadvantage die per time you take this training on checks to cast spells.
+You are very resilient to magick; the winds of magick have a harder time flowing through you, and you are just not meant to cast spells. You gain a +1 on your spell  defenseTN per time you take this training, but you suffer 1 disadvantage die per time you take this training on checks to cast spells.

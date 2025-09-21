@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 3 |
 | **Lore:** Life |
-| **Casting TN:** 19 |
+| **Casting TN:** 17 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Short |

@@ -9,8 +9,8 @@ draft: false
 | Curse of Arrow Attraction |
 | :--- |
 | **Level:** 3 |
-| **Lore:** Heavenly Elements |
-| **Casting TN:** 19 |
+| **Lore:** Fire Element |
+| **Casting TN:** 17 |
 | **Type:** Hex |
 | **Duration:** rounds |
 | **Range:** Short |

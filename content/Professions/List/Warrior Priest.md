@@ -36,7 +36,7 @@ draft: false
 | [Bypass armor](<Trainings/List/Bypass armor>) | 1 fortune to ignore impact reduction |
 | [Drilled](<Trainings/List/Drilled>) | Dam +1 when next to ally |
 | [Protect ally](<Trainings/List/Protect ally>) | Spend move to protect ally |
-| [Devout](<Trainings/List/Devout>) | Gain WP extra faith point max |
+| [Devout](<Trainings/List/Devout>) | Gain 2x WP extra faith point max |
 | [Pray II](<Trainings/List/Pray II>) | Can invoke lvl 2 prayers, 2xWP faith point max |
 | [Create Shrine](<Trainings/List/Create Shrine>) | May create and activate shrines |
 | [Cauterize](<Trainings/List/Cauterize>) | Turn bleeding into wounds |

@@ -51,7 +51,7 @@ draft: false
 | [Iron Jaw](<Trainings/List/Iron Jaw>) | Ignore 1 stun condition |
 | [Relentless rage](<Trainings/List/Relentless rage>) | When frenzied, ignore knockdown |
 | [Undieing rage](<Trainings/List/Undieing rage>) | When frenzied, gain T temporary HP |
-| [Devout](<Trainings/List/Devout>) | Gain WP extra faith point max |
+| [Devout](<Trainings/List/Devout>) | Gain 2x WP extra faith point max |
 | [Pray II](<Trainings/List/Pray II>) | Can invoke lvl 2 prayers, 2xWP faith point max |
 | [Holy hatred (group)](<Trainings/List/Holy hatred>) | Prayers deal +1d6 dam vs chosen group |
 | [Courage](<Trainings/List/Courage>) | Advantage to resist fear/torture |

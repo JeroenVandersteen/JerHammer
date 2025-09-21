@@ -11,15 +11,15 @@ _Purifying through flames, consuming impurities and leaving behind only ash in i
 | Firebolt |
 | :--- |
 | **Level:** 3 |
-| **Lore:** Heavenly Elements |
-| **Casting TN:** 19 |
+| **Lore:** Fire Element |
+| **Casting TN:** 17 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |
 | **Target:** 1 |
-| **Damage:** 6d6 L, ablaze condition |
+| **Damage:** 8d6 L, ablaze condition |
 | **Armor:** AP counts |
-| **Resist:** Dodge TN |
+| **Resist:** Ranged TN |
 | **Effect:** Combat spell.  |
 
-This spell deals 6d6 L, ablaze condition (AP counts) to 1 target at short range instantly. The spellcast check has to also be equal to or higher than the target's Dodge TN. This spell purges corruption from the area, preventing bodies from rising as undead. Any undead attempting to rise within the cleansed area are immediately destroyed.
+This spell deals 8d6 L, ablaze condition (AP counts) to 1 target at short range instantly. The spellcast check has to also be equal to or higher than the target's Ranged TN. This spell purges corruption from the area, preventing bodies from rising as undead. Any undead attempting to rise within the cleansed area are immediately destroyed.

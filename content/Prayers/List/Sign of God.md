@@ -9,7 +9,7 @@ draft: false
 | Sign of God |
 | :--- |
 | **Level:** 2 |
-| **Invoking TN:** 17 |
+| **Invoking TN:** 15 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Self |

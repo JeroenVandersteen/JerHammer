@@ -10,7 +10,7 @@ draft: false
 
 **Level:** 4
 
-**Cost:** 48d
+**Cost:** 48 cp
 
 _May add poison to the damage_
 

@@ -8,9 +8,9 @@ draft: false
 
 **Type:** Weapon
 
-**Level:** 2
+**Level:** 3
 
-**Cost:** 6d
+**Cost:** 24 cp
 
 **Duration:** Permanent
 

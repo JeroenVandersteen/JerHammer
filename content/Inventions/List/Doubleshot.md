@@ -10,7 +10,7 @@ draft: false
 
 **Level:** 3
 
-**Cost:** 24d
+**Cost:** 24 cp
 
 _2 arrows/bullets/bolts in 1 shot_
 

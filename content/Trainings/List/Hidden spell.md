@@ -9,7 +9,7 @@ draft: false
 **Max:** Int
 **Prerequisites:** Profession
 
-_No sound/gestures on one spell_
+_Choose one spell: no sound/gestures_
 
 Choose one spell. To cast that spell you only need small, subtle gestures (like some flicks of the fingers) and soft whispers. This makes that most people do not notice you are casting that spell, and that you can still cast this spell while restrained. You may take this training multiple times. Every time you take the training, you can choose a different spell.
 

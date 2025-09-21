@@ -63,6 +63,7 @@ draft: false
 | [Poisoner](<Trainings/List/Poisoner>) (III) | Can create poisons |
 | [Extra fortunate](<Trainings/List/Extra fortunate>) | +1 fortune point max |
 | [Fortune burning](<Trainings/List/Fortune burning>) | May use 1 extra fortune point/turn |
+| [Combat surgeon](<Trainings/List/Combat surgeon>) | Medicine test to heal 1d6HP/level, but fatigue after |
 | [Dealmaker](<Trainings/List/Dealmaker>) | Buy/sell items at ±5% |
 | [Use rope](<Trainings/List/Use rope>) | Advantage when using ropes |
 

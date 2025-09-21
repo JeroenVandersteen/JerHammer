@@ -10,7 +10,7 @@ draft: false
 
 **Level:** 3
 
-**Cost:** 24d
+**Cost:** 24 cp
 
 _Quicker reload_
 

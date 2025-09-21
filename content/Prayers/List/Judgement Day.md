@@ -9,7 +9,7 @@ draft: false
 | Judgement Day |
 | :--- |
 | **Level:** 4 |
-| **Invoking TN:** 21 |
+| **Invoking TN:** 19 |
 | **Type:** Offense |
 | **Duration:** instant |
 | **Range:** Short |

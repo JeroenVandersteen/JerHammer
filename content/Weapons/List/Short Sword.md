@@ -12,6 +12,6 @@ draft: false
  | **Damage**: S+2d6+1 Lethal | 
  | **To hit bonus**: 1 | 
  | **Parry bonus**: 1 | 
- | **Qualities**:  | 
+ | **Qualities**: Light | 
  | **Range**:  | 
  | **Skill**: Weapon Offense | 

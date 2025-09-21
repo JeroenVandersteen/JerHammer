@@ -12,7 +12,7 @@ _In the depths of the mind's darkest fears, shadows coil and whisper, sowing see
 | :--- |
 | **Level:** 2 |
 | **Lore:** Heart |
-| **Casting TN:** 17 |
+| **Casting TN:** 15 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Self |

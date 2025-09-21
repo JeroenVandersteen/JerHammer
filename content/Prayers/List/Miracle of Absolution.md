@@ -9,7 +9,7 @@ draft: false
 | Miracle of Absolution |
 | :--- |
 | **Level:** 4 |
-| **Invoking TN:** 21 |
+| **Invoking TN:** 19 |
 | **Type:** Heal |
 | **Duration:** instant |
 | **Range:** Touch |

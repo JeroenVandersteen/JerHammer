@@ -12,6 +12,6 @@ draft: false
  | **Damage**: S+1d6+1 Lethal | 
  | **To hit bonus**: -1 | 
  | **Parry bonus**: -1 | 
- | **Qualities**: Dangerous, to hit/parry penalties only vs weapons | 
+ | **Qualities**: Dangerous, to hit/parry penalties only vs weapons, light | 
  | **Range**:  | 
  | **Skill**: Unarmed Combat | 

@@ -10,7 +10,7 @@ draft: false
 
 **Level:** 4
 
-**Cost:** 48d
+**Cost:** 48 cp
 
 _May fire 3 times before reloading_
 

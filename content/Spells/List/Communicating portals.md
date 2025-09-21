@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 4 |
 | **Lore:** Darkness |
-| **Casting TN:** 21 |
+| **Casting TN:** 19 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |

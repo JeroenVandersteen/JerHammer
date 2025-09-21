@@ -8,9 +8,9 @@ draft: false
 
 **Type:** Weapon
 
-**Level:** 1
+**Level:** 2
 
-**Cost:** 3d
+**Cost:** 12 cp
 
 **Duration:** Permanent
 

@@ -15,13 +15,13 @@ draft: false
 | [Battle might](<Potions/List/Battle might>) | 1 | 3 | minutes | ingestion | Gain +1 to hit for the duration |
 | [Tincture of Striking](<Potions/List/Tincture of Striking>) | 1 | 3 | 1 turn | ingestion | Gain advantage to hit for one turn |
 | [Power Tonicum](<Potions/List/Power Tonicum>) | 1 | 3 | 1 turn | ingestion | Gain +1d6 dam on next hit |
+| [Elixir of Vigor](<Potions/List/Elixir of Vigor>) | 1 | 3 | minutes | ingestion | Remove all fatigue conditions and become immune to fatigue |
 
 ### Level 2 potions
 
 | Potion | Level | Cost (cp) | Duration | Vector | Short description |
 | :--- | --- | --- | :--- | :--- | :--- |
 | [Greater Healing Draught](<Potions/List/Greater Healing Draught>) | 2 | 6 | instant | ingestion | Heal 2d6 HP and 2d6 SP |
-| [Elixir of Vigor](<Potions/List/Elixir of Vigor>) | 2 | 6 | minutes | ingestion | Remove all fatigue conditions and become immune to fatigue |
 | [Fury Philtre](<Potions/List/Fury Philtre>) | 2 | 6 | 1 turn | ingestion | Make 1 extra attack |
 | [Elixir of Might](<Potions/List/Elixir of Might>) | 2 | 6 | minutes | ingestion | Double strength |
 | [Foresight](<Potions/List/Foresight>) | 2 | 6 | minutes | ingestion | Gain advantage to initiative, and 1 reroll (can be used once) |

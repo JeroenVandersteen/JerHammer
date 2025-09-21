@@ -38,6 +38,7 @@ draft: false
 | [Herbalism](<Trainings/List/Herbalism>) (II) | Can gather herbs |
 | [Poisoner](<Trainings/List/Poisoner>) (II) | Can create poisons |
 | [Arcane Magick II](<Trainings/List/Arcane Magick II>) | Cast level 2 spells from 1 lore, gain 3 spells |
+| [Combat surgeon](<Trainings/List/Combat surgeon>) | Medicine test to heal 1d6HP/level, but fatigue after |
 | [Iron stomach](<Trainings/List/Iron stomach>) | Advantage vs ingested poisons/diseases |
 | [Liar](<Trainings/List/Liar>) | Advantage when lying |
 | [Stitch up](<Trainings/List/Stitch up>) | Advantage to remove bleeding |
@@ -53,7 +54,7 @@ draft: false
 | [Arcane Magick III](<Trainings/List/Arcane Magick III>) | Cast level 3 spells from 1 lore, gain 3 spells |
 | [Counterspell](<Trainings/List/Counterspell>) | May defend against spells |
 | [Dissipate channeling](<Trainings/List/Dissipate channeling>) | May build down channeling |
-| [Hidden spell](<Trainings/List/Hidden spell>) | No sound/gestures on one spell |
+| [Hidden spell](<Trainings/List/Hidden spell>) | Choose one spell: no sound/gestures |
 | [Animal training](<Trainings/List/Animal training>) | Can train animals |
 | [Elusive](<Trainings/List/Elusive>) | Hide your trail |
 | [First aid](<Trainings/List/First aid>) | Medicine test and full round to heal 1 HP |

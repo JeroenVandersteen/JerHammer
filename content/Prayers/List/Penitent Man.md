@@ -9,7 +9,7 @@ draft: false
 | Penitent Man |
 | :--- |
 | **Level:** 1 |
-| **Invoking TN:** 15 |
+| **Invoking TN:** 13 |
 | **Type:** Offense |
 | **Duration:** rounds |
 | **Range:** Short |

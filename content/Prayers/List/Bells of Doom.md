@@ -9,7 +9,7 @@ draft: false
 | Bells of Doom |
 | :--- |
 | **Level:** 1 |
-| **Invoking TN:** 15 |
+| **Invoking TN:** 13 |
 | **Type:** Offense |
 | **Duration:** instant |
 | **Range:** Short |

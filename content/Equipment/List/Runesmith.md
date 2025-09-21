@@ -6,9 +6,9 @@ draft: false
 
 ### Runesmith
 
-**Cost:** x2 rune cost 
+**Cost:** x3 rune cost 
 
 **Category:** Services 
 
-_Double cost of runes_
+_Triple cost of runes_
 

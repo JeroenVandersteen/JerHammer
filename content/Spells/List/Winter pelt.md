@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 1 |
 | **Lore:** Life |
-| **Casting TN:** 15 |
+| **Casting TN:** 13 |
 | **Type:** Enchantment |
 | **Duration:** hours |
 | **Range:** Self |

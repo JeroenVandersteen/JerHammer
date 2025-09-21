@@ -9,7 +9,7 @@ draft: false
 | Bless food and drinks |
 | :--- |
 | **Level:** 1 |
-| **Invoking TN:** 15 |
+| **Invoking TN:** 13 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Short |

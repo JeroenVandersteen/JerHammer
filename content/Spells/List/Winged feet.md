@@ -9,11 +9,11 @@ draft: false
 | Winged feet |
 | :--- |
 | **Level:** 2 |
-| **Lore:** Heavenly Elements |
-| **Casting TN:** 17 |
+| **Lore:** Fire Element |
+| **Casting TN:** 15 |
 | **Type:**  |
 | **Duration:** rounds |
 | **Range:** Touch |
-| **Effect:** Target gains double move speed, and dodge TN+1 |
+| **Effect:** Target gains double move speed, and Ranged TN+1 |
 
  

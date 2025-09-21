@@ -179,6 +179,6 @@ draft: false
 | [Messenger-courier, per day trip](<Equipment/List/Messenger-courier, per day trip>) | 1 st |  |
 | [Pigeon message, per message (anywhere)](<Equipment/List/Pigeon message, per message (anywhere)>) | 1 st |  |
 | [Signal house message, per message (anywhere)](<Equipment/List/Signal house message, per message (anywhere)>) | 2 st |  |
-| [Runesmith](<Equipment/List/Runesmith>) | x2 rune cost | Double cost of runes |
-| [Inventor](<Equipment/List/Inventor>) | x2 invention cost | Double cost of inventions |
-| [Purity seal](<Equipment/List/Purity seal>) | 2 st |  |
+| [Runesmith](<Equipment/List/Runesmith>) | x3 rune cost | Triple cost of runes |
+| [Inventor](<Equipment/List/Inventor>) | x3 invention cost | Triple cost of inventions |
+| [Purity seal](<Equipment/List/Purity seal>) | 1 st 6 cp |  |

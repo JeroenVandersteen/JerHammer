@@ -11,8 +11,8 @@ _Enchanting a blade with roaring flames, turning it into a deadly weapon that bu
 | Flaming sword |
 | :--- |
 | **Level:** 2 |
-| **Lore:** Heavenly Elements |
-| **Casting TN:** 17 |
+| **Lore:** Fire Element |
+| **Casting TN:** 15 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Touch |

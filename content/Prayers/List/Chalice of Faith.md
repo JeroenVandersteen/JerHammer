@@ -9,7 +9,7 @@ draft: false
 | Chalice of Faith |
 | :--- |
 | **Level:** 2 |
-| **Invoking TN:** 17 |
+| **Invoking TN:** 15 |
 | **Type:** Buff |
 | **Duration:** rounds |
 | **Range:** Short |

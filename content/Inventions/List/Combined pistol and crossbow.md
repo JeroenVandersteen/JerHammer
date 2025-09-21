@@ -10,7 +10,7 @@ draft: false
 
 **Level:** 4
 
-**Cost:** 48d
+**Cost:** 48 cp
 
 _Acts as both weapons_
 

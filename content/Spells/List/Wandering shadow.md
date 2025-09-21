@@ -12,7 +12,7 @@ _Your shadow moves as if it has a mind of its own._
 | :--- |
 | **Level:** 1 |
 | **Lore:** Darkness |
-| **Casting TN:** 15 |
+| **Casting TN:** 13 |
 | **Type:** Utility |
 | **Duration:** minutes |
 | **Range:** Self |

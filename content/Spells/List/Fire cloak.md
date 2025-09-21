@@ -11,8 +11,8 @@ _Enveloping oneself in flames as a protective barrier, warding off assailants wi
 | Fire cloak |
 | :--- |
 | **Level:** 3 |
-| **Lore:** Heavenly Elements |
-| **Casting TN:** 19 |
+| **Lore:** Fire Element |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Self |

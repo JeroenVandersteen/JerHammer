@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 4 |
 | **Lore:** Light |
-| **Casting TN:** 21 |
+| **Casting TN:** 19 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Short |

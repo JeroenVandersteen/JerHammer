@@ -6,9 +6,9 @@ draft: false
 
 ### Elixir of Vigor
 
-***Level:** 2
+***Level:** 1
 
-**Cost:** 6 cp
+**Cost:** 3 cp
 
 **Duration:** minutes
 

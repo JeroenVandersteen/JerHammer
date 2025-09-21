@@ -12,7 +12,7 @@ _As arcane energies converge, a shield of shimmering light surrounds allies, ben
 | :--- |
 | **Level:** 2 |
 | **Lore:** Light |
-| **Casting TN:** 17 |
+| **Casting TN:** 15 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Short |

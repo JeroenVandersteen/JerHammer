@@ -10,7 +10,7 @@ draft: false
 
 **Level:** 2
 
-**Cost:** 12d
+**Cost:** 12 cp
 
 _Can be used as melee weapon_
 

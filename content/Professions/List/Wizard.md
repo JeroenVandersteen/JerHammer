@@ -34,6 +34,13 @@ draft: false
 | [Create Shrine](<Trainings/List/Create Shrine>) | May create and activate shrines |
 | [Arcane Magick II](<Trainings/List/Arcane Magick II>) | Cast level 2 spells from 1 lore, gain 3 spells |
 | [Counterspell](<Trainings/List/Counterspell>) | May defend against spells |
+| [Damaging spell](<Trainings/List/Damaging spell>) | Choose one spell: gain +1d6 damage |
+| [Distant spell](<Trainings/List/Distant spell>) | Any spell: increase spell range, TN+1 |
+| [Empower spell](<Trainings/List/Empower spell>) | Any spell: reroll damage, TN+1 |
+| [Favorite spell](<Trainings/List/Favorite spell>) | Choose one spell: TN-1 |
+| [Hidden spell](<Trainings/List/Hidden spell>) | Choose one spell: no sound/gestures |
+| [Lasting spell](<Trainings/List/Lasting spell>) | Any spell: increase duration, TN+1 |
+| [Robust spell](<Trainings/List/Robust spell>) | Choose one spell: advantage on damage roll |
 | [Second sight](<Trainings/List/Second sight>) | Sense magick |
 | [Advanced education](<Trainings/List/Advanced education>) | Advanced math, science, literature |
 | [Lore specialist](<Trainings/List/Lore specialist>) | Additional advantage when using a lore |
@@ -48,12 +55,7 @@ draft: false
 | [Aetheric attunement](<Trainings/List/Aetheric attunement>) | Reduce miscast tally by WP after miscast |
 | [Arcane Magick III](<Trainings/List/Arcane Magick III>) | Cast level 3 spells from 1 lore, gain 3 spells |
 | [Dissipate channeling](<Trainings/List/Dissipate channeling>) | May build down channeling |
-| [Distant spell](<Trainings/List/Distant spell>) | Increase spell range, CN+2 |
-| [Empower spell](<Trainings/List/Empower spell>) | Reroll damage, CN+2 |
-| [Favorite spell](<Trainings/List/Favorite spell>) | CN-1 on one spell |
-| [Hidden spell](<Trainings/List/Hidden spell>) | No sound/gestures on one spell |
-| [Lasting spell](<Trainings/List/Lasting spell>) | Double duration, CN+2 |
-| [Quick casting](<Trainings/List/Quick casting>) | Cast 2 spells, each CN+2 |
+| [Quick casting](<Trainings/List/Quick casting>) | Cast 2 spells, each TN+2 |
 | [Reflect spell](<Trainings/List/Reflect spell>) | May reflect spell back to caster |
 | [Commanding presence](<Trainings/List/Commanding presence>) | Advantage on Fel to lower status |
 

@@ -11,15 +11,15 @@ _The caster conjures a bolt of fire and hurls it at their opponent. For flavor, 
 | Bolt |
 | :--- |
 | **Level:** 2 |
-| **Lore:** Heavenly Elements |
-| **Casting TN:** 17 |
+| **Lore:** Fire Element |
+| **Casting TN:** 15 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |
 | **Target:** 1 |
-| **Damage:** 5d6 L/i |
+| **Damage:** 7d6 L/i |
 | **Armor:** AP/IR counts |
 | **Resist:** Spell TN |
 | **Effect:** Combat spell. Caster chooses lethal or impact |
 
-This spell deals 5d6 L/i (AP/IR counts) to 1 target at short range instantly. The spellcast check has to also be equal to or higher than the target's Spell TN. Similar to Blast, but the damage is focused into a bolt of energy that strikes a single target.
+This spell deals 7d6 L/i (AP/IR counts) to 1 target at short range instantly. The spellcast check has to also be equal to or higher than the target's Spell TN. Similar to Blast, but the damage is focused into a bolt of energy that strikes a single target.

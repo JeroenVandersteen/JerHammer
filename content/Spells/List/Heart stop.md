@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 4 |
 | **Lore:** Heart |
-| **Casting TN:** 21 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

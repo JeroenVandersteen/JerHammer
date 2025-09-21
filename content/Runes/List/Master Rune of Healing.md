@@ -10,9 +10,9 @@ draft: false
 
 **Level:** 3
 
-**Cost:** 12d
+**Cost:** 24 cp
 
 **Duration:** Permanent
 
-_Heal 1 wound on each hit_
+_Heal 1 HP when hitting at least once this turn_
 

@@ -35,8 +35,15 @@ draft: false
 | [Herbalism](<Trainings/List/Herbalism>) (I) | Can gather herbs |
 | [Poisoner](<Trainings/List/Poisoner>) (I) | Can create poisons |
 | [Arcane Magick II](<Trainings/List/Arcane Magick II>) | Cast level 2 spells from 1 lore, gain 3 spells |
-| [Blood Magick](<Trainings/List/Blood Magick>) | Take HP-1 for CN-1 |
+| [Blood Magick](<Trainings/List/Blood Magick>) | Take HP-1 for TN-1 |
 | [Counterspell](<Trainings/List/Counterspell>) | May defend against spells |
+| [Damaging spell](<Trainings/List/Damaging spell>) | Choose one spell: gain +1d6 damage |
+| [Distant spell](<Trainings/List/Distant spell>) | Any spell: increase spell range, TN+1 |
+| [Empower spell](<Trainings/List/Empower spell>) | Any spell: reroll damage, TN+1 |
+| [Favorite spell](<Trainings/List/Favorite spell>) | Choose one spell: TN-1 |
+| [Hidden spell](<Trainings/List/Hidden spell>) | Choose one spell: no sound/gestures |
+| [Lasting spell](<Trainings/List/Lasting spell>) | Any spell: increase duration, TN+1 |
+| [Robust spell](<Trainings/List/Robust spell>) | Choose one spell: advantage on damage roll |
 | [Animal training](<Trainings/List/Animal training>) | Can train animals |
 | [Cauterize](<Trainings/List/Cauterize>) | Turn bleeding into wounds |
 | [Secret identity](<Trainings/List/Secret identity>) | Have a secret identity/life |
@@ -51,12 +58,7 @@ draft: false
 | [Herbalism](<Trainings/List/Herbalism>) (II) | Can gather herbs |
 | [Poisoner](<Trainings/List/Poisoner>) (II) | Can create poisons |
 | [Arcane Magick III](<Trainings/List/Arcane Magick III>) | Cast level 3 spells from 1 lore, gain 3 spells |
-| [Distant spell](<Trainings/List/Distant spell>) | Increase spell range, CN+2 |
-| [Empower spell](<Trainings/List/Empower spell>) | Reroll damage, CN+2 |
-| [Favorite spell](<Trainings/List/Favorite spell>) | CN-1 on one spell |
-| [Hidden spell](<Trainings/List/Hidden spell>) | No sound/gestures on one spell |
-| [Lasting spell](<Trainings/List/Lasting spell>) | Double duration, CN+2 |
-| [Quick casting](<Trainings/List/Quick casting>) | Cast 2 spells, each CN+2 |
+| [Quick casting](<Trainings/List/Quick casting>) | Cast 2 spells, each TN+2 |
 | [Reflect spell](<Trainings/List/Reflect spell>) | May reflect spell back to caster |
 | [Courage](<Trainings/List/Courage>) | Advantage to resist fear/torture |
 

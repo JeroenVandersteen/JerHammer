@@ -8,7 +8,7 @@ draft: false
 
 ***Level:** 2
 
-**Cost:** 12 cp
+**Cost:** 6 cp
 
 **Duration:** hours
 

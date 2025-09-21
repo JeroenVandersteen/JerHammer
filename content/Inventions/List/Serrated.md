@@ -10,7 +10,7 @@ draft: false
 
 **Level:** 1
 
-**Cost:** 6d
+**Cost:** 6 cp
 
 _Dam +1 against unarmored_
 

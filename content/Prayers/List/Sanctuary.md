@@ -9,7 +9,7 @@ draft: false
 | Sanctuary |
 | :--- |
 | **Level:** 3 |
-| **Invoking TN:** 19 |
+| **Invoking TN:** 17 |
 | **Type:** Heal |
 | **Duration:** rounds |
 | **Range:** WP sphere |

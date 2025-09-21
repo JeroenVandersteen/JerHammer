@@ -9,7 +9,7 @@ draft: false
 | Confession |
 | :--- |
 | **Level:** 3 |
-| **Invoking TN:** 19 |
+| **Invoking TN:** 17 |
 | **Type:** Utility |
 | **Duration:** 1 round |
 | **Range:** Touch |

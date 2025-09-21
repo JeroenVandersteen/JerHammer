@@ -8,6 +8,6 @@ draft: false
 ### Devout
 **Prerequisites:** Pray I
 
-_Gain WP extra faith point max_
+_Gain 2x WP extra faith point max_
 
-You gain an extra WP faith point maximum to invoke prayers.
+You gain an extra (2 x WP) faith point maximum to invoke prayers.

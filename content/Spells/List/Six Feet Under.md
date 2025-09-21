@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 3 |
 | **Lore:** Death |
-| **Casting TN:** 19 |
+| **Casting TN:** 17 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

@@ -9,7 +9,7 @@ draft: false
 | Mist of Incense |
 | :--- |
 | **Level:** 1 |
-| **Invoking TN:** 15 |
+| **Invoking TN:** 13 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |

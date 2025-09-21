@@ -12,5 +12,7 @@ _Medicine test and full round to heal 1 HP_
 
 Choose a target to apply first aid on within 1 minute of sustaining damage. The target can also be yourself. Spend a full round and make medicine test. If successful, the target character heals 1 HP for each time you have taken this training, and the target is also stabilized. If failed, the target loses 1 HP, regardless of the number of times the training was taken. This can only be attempted once per character per combat. Using (and spending) bandages gives an advantage to the medicine test.
 
+Additionally, while helping a character that is at 0 HP, that dying character gains advantage to their endurance test to check if they stabilize or die.
+
 **Without this training:**
 Without this training, you cannot attempt to heal another character.

@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 2 |
 | **Lore:** Light |
-| **Casting TN:** 17 |
+| **Casting TN:** 15 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Self |

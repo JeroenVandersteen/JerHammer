@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 3 |
 | **Lore:** Terrestrial Elements |
-| **Casting TN:** 19 |
+| **Casting TN:** 17 |
 | **Type:** Utility |
 | **Duration:** hours |
 | **Range:** Self |

@@ -10,14 +10,14 @@ draft: false
 | :--- |
 | **Level:** 3 |
 | **Lore:** Mind |
-| **Casting TN:** 19 |
+| **Casting TN:** 17 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |
 | **Target:** Area |
-| **Damage:** 2d6 i, fear condition |
+| **Damage:** 5d6 i, fear condition |
 | **Armor:** IR counts |
 | **Resist:** Spell TN |
 | **Effect:** Combat spell.  |
 
-This spell deals 2d6 i, fear condition (IR counts) to all creatures in an area at short range instantly. The spellcast check has to also be equal to or higher than the target's Spell TN. 
+This spell deals 5d6 i, fear condition (IR counts) to all creatures in an area at short range instantly. The spellcast check has to also be equal to or higher than the target's Spell TN. 

@@ -9,7 +9,7 @@ draft: false
 | See truth |
 | :--- |
 | **Level:** 2 |
-| **Invoking TN:** 17 |
+| **Invoking TN:** 15 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Self |

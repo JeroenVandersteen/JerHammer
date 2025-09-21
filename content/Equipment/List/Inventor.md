@@ -6,9 +6,9 @@ draft: false
 
 ### Inventor
 
-**Cost:** x2 invention cost 
+**Cost:** x3 invention cost 
 
 **Category:** Services 
 
-_Double cost of inventions_
+_Triple cost of inventions_
 

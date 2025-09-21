@@ -11,7 +11,7 @@ _The heretic suffers the wounds of our Saviour, bleeding from arms and feet._
 | Wounds of the Saviour, Stigmata |
 | :--- |
 | **Level:** 4 |
-| **Invoking TN:** 21 |
+| **Invoking TN:** 19 |
 | **Type:** Offense |
 | **Duration:** instant |
 | **Range:** Short |

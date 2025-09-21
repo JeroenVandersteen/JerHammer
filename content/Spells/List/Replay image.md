@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 3 |
 | **Lore:** Mind |
-| **Casting TN:** 19 |
+| **Casting TN:** 17 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Short |

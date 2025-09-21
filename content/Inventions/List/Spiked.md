@@ -10,7 +10,7 @@ draft: false
 
 **Level:** 3
 
-**Cost:** 24d
+**Cost:** 24 cp
 
 _May make an attack with spikes_
 

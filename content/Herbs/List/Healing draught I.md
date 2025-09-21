@@ -8,7 +8,7 @@ draft: false
 
 ***Level:** 1
 
-**Cost:** 6 cp
+**Cost:** 3 cp
 
 **Duration:** instant
 

@@ -20,7 +20,7 @@ draft: false
 | Trainings | Short Description |
 | --- | --- |
 | [Write purity seal](<Trainings/List/Write purity seal>) | Spend endeavor to create purity seal(s) |
-| [Devout](<Trainings/List/Devout>) | Gain WP extra faith point max |
+| [Devout](<Trainings/List/Devout>) | Gain 2x WP extra faith point max |
 | [Pray I](<Trainings/List/Pray I>) | Can invoke lvl 1 prayers, WP faith point max |
 | [Extra fortunate](<Trainings/List/Extra fortunate>) | +1 fortune point max |
 | [Beneath notice](<Trainings/List/Beneath notice>) | People ignore you |
@@ -37,6 +37,7 @@ draft: false
 | [Pray II](<Trainings/List/Pray II>) | Can invoke lvl 2 prayers, 2xWP faith point max |
 | [Create Shrine](<Trainings/List/Create Shrine>) | May create and activate shrines |
 | [Advanced education](<Trainings/List/Advanced education>) | Advanced math, science, literature |
+| [Combat surgeon](<Trainings/List/Combat surgeon>) | Medicine test to heal 1d6HP/level, but fatigue after |
 | [Discern lies](<Trainings/List/Discern lies>) | Advantage to detect lies/counterfeit |
 | [Performer](<Trainings/List/Performer>) (Calligraphy) | Advantage when performing/entertaining/art |
 | [Surgeon](<Trainings/List/Surgeon>) | Medicine test and 1 hour to heal double HP/day |

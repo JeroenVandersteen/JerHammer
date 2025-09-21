@@ -11,15 +11,15 @@ _Unleashing a torrent of flames from the caster's breath, scorching everything i
 | Breathe Fire |
 | :--- |
 | **Level:** 4 |
-| **Lore:** Heavenly Elements |
-| **Casting TN:** 21 |
+| **Lore:** Fire Element |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |
 | **Target:** Area |
-| **Damage:** 4d6+1 L, ablaze condition |
+| **Damage:** 6d6 L, ablaze condition |
 | **Armor:** AP counts |
-| **Resist:** Dodge TN |
+| **Resist:** Ranged TN |
 | **Effect:** Combat spell.  |
 
-This spell deals 4d6+1 L, ablaze condition (AP counts) to all creatures in an area at short range instantly. The spellcast check has to also be equal to or higher than the target's Dodge TN. 
+This spell deals 6d6 L, ablaze condition (AP counts) to all creatures in an area at short range instantly. The spellcast check has to also be equal to or higher than the target's Ranged TN. 

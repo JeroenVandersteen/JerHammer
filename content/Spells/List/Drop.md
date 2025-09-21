@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 1 |
 | **Lore:** Death |
-| **Casting TN:** 15 |
+| **Casting TN:** 13 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Short |

@@ -8,15 +8,15 @@ draft: false
 
  Weapon | Price | Damage | Type | To hit | Parry | Qualities | Range |
  :--- | :--- | --- | --- | --- | --- | :--- | :--- |
-| [Knife](<Weapons/List/Knife>) | 8cp | S+1d6+1 | Lethal |  |  |  |  |
-| [Sickle](<Weapons/List/Sickle>) | 10cp | S+1d6+2 | Lethal |  |  |  |  |
-| [Short Sword](<Weapons/List/Short Sword>) | 2st 2cp | S+2d6+1 | Lethal | 1 | 1 |  |  |
+| [Knife](<Weapons/List/Knife>) | 8cp | S+1d6+1 | Lethal |  |  | Light |  |
+| [Sickle](<Weapons/List/Sickle>) | 10cp | S+1d6+2 | Lethal |  |  | Light |  |
+| [Short Sword](<Weapons/List/Short Sword>) | 2st 2cp | S+2d6+1 | Lethal | 1 | 1 | Light |  |
 | [Broadsword](<Weapons/List/Broadsword>) | 2st 7cp | S+2d6+2 | Lethal | 1 | 1 |  |  |
 | [Longsword](<Weapons/List/Longsword>) | 3st 2cp | S+3d6 | Lethal | 1 | 1 |  |  |
 | [Katzbalger](<Weapons/List/Katzbalger>) | 2st 11cp | S+2d6+3 | Lethal | 1 | 1 |  |  |
 | [Schaviona](<Weapons/List/Schaviona>) | 2st 11cp | S+2d6+3 | Lethal | 1 | 1 |  |  |
-| [Rapier](<Weapons/List/Rapier>) | 2st 10cp | S+2d6+1 | Lethal | 2 | 1 |  |  |
-| [Falchion](<Weapons/List/Falchion>) | 2st 2cp | S+2d6+1 | Lethal | 1 | 1 |  |  |
+| [Rapier](<Weapons/List/Rapier>) | 2st 10cp | S+2d6+1 | Lethal | 2 | 1 | Light |  |
+| [Falchion](<Weapons/List/Falchion>) | 2st 2cp | S+2d6+1 | Lethal | 1 | 1 | Light |  |
 | [Sabre](<Weapons/List/Sabre>) | 2st 7cp | S+2d6+2 | Lethal | 1 | 1 |  |  |
 | [Bastard Sword (1H)](<Weapons/List/Bastard Sword>) | 3st 2cp | S+3d6 | Lethal | 1 | 1 | Heavy |  |
 | [Bastard Sword (2H)](<Weapons/List/Bastard Sword>) | 5st 3cp | 2S+3d6 | Lethal | 1 | 1 | Heavy |  |
@@ -26,7 +26,7 @@ draft: false
 
  Weapon | Price | Damage | Type | To hit | Parry | Qualities | Range |
  :--- | :--- | --- | --- | --- | --- | :--- | :--- |
-| [Handaxe](<Weapons/List/Handaxe>) | 2st | S+3d6 | Lethal |  |  |  |  |
+| [Handaxe](<Weapons/List/Handaxe>) | 2st | S+3d6 | Lethal |  |  | Light |  |
 | [Axe](<Weapons/List/Axe>) | 3st 2cp | S+4d6 | Lethal |  |  |  |  |
 | [Long Axe](<Weapons/List/Long Axe>) | 4st 7cp | 2S+4d6 | Lethal |  |  | Heavy |  |
 | [Heavy Axe](<Weapons/List/Heavy Axe>) | 5st 10cp | 2S+4d6+1 | Lethal |  |  | Armor destroying, heavy |  |
@@ -52,12 +52,12 @@ draft: false
 
  Weapon | Price | Damage | Type | To hit | Parry | Qualities | Range |
  :--- | :--- | --- | --- | --- | --- | :--- | :--- |
-| [Unarmed](<Weapons/List/Unarmed>) | - | S+1d6 | Impact | -1 | -1 | Dangerous, to hit/parry penalties only vs weapons |  |
-| [Brass Knuckles](<Weapons/List/Brass Knuckles>) | 3cp | S+1d6+1 | Impact | -1 | -1 | To hit/parry penalties only vs weapons |  |
+| [Unarmed](<Weapons/List/Unarmed>) | - | S+1d6 | Impact | -1 | -1 | Dangerous, to hit/parry penalties only vs weapons, light |  |
+| [Brass Knuckles](<Weapons/List/Brass Knuckles>) | 3cp | S+1d6+1 | Impact | -1 | -1 | To hit/parry penalties only vs weapons, light |  |
 | [Club](<Weapons/List/Club>) | 1st 1cp | S+2d6 | Impact |  |  |  |  |
 | [Spiked Club](<Weapons/List/Spiked Club>) | 2st | S+3d6 | Lethal/Impact |  |  |  |  |
 | [Great Club](<Weapons/List/Great Club>) | 4st 7cp | 2S+4d6 | Impact |  |  | Heavy |  |
-| [Mace](<Weapons/List/Mace>) | 2st | S+3d6 | Impact |  |  |  |  |
+| [Mace](<Weapons/List/Mace>) | 2st | S+3d6 | Impact |  |  | Light |  |
 | [Heavy Mace](<Weapons/List/Heavy Mace>) | 3st 2cp | S+4d6 | Impact |  |  | Heavy |  |
 | [Goedendag](<Weapons/List/Goedendag>) | 5st | 2S+4d6+1 | Impact |  |  | Heavy |  |
 | [Great Maul](<Weapons/List/Great Maul>) | 5st 6cp | 2S+4d6+2 | Impact |  |  | Heavy |  |
@@ -65,13 +65,13 @@ draft: false
 | [Ball-and-chain flail](<Weapons/List/Ball-and-chain flail>) | 5st 1cp | S+5d6 | Lethal/Impact | -1 |  | Trip, dangerous |  |
 | [Flail](<Weapons/List/Flail>) | 4st 2cp | S+4d6+1 | Impact | -1 |  | Trip, dangerous |  |
 | [Heavy Flail](<Weapons/List/Heavy Flail>) | 6st 11cp | 2S+5d6+1 | Impact | -1 |  | Trip, dangerous, heavy |  |
-| [Light Hammer](<Weapons/List/Light Hammer>) | 1st 7cp | S+2d6+2 | Impact |  |  |  |  |
+| [Light Hammer](<Weapons/List/Light Hammer>) | 1st 7cp | S+2d6+2 | Impact |  |  | Light |  |
 | [Warhammer](<Weapons/List/Warhammer>) | 2st 8cp | S+3d6+2 | Impact |  |  |  |  |
 | [Long Hammer](<Weapons/List/Long Hammer>) | 3st 11cp | 2S+3d6+2 | Impact |  |  | Heavy |  |
 | [Great Hammer](<Weapons/List/Great Hammer>) | 5st 6cp | 2S+4d6+2 | Impact |  |  | Heavy |  |
 | [War Pick](<Weapons/List/War Pick>) | 3st 10cp | S+4d6 | Lethal |  |  | Armor destroying |  |
 | [Quarterstaff](<Weapons/List/Quarterstaff>) | 4st 2cp | 2S+2d6 | Impact | 1 | 1 |  |  |
-| [Torch](<Weapons/List/Torch>) | 8cp | S+1d6+1 | Impact |  |  | Flaming |  |
+| [Torch](<Weapons/List/Torch>) | 8cp | S+1d6+1 | Impact |  |  | Flaming, light |  |
 
 
  Weapon | Price | Damage | Type | To hit | Parry | Qualities | Range |
@@ -110,7 +110,7 @@ draft: false
 
  Weapon | Price | Damage | Type | To hit | Parry | Qualities | Range |
  :--- | :--- | --- | --- | --- | --- | :--- | :--- |
-| [Net](<Weapons/List/Net>) | 3cp | - | - |  |  | Trip, entangle | Short |
+| [Net](<Weapons/List/Net>) | 3cp | - | - |  |  | Trip, entangle, light | Short |
 | [Lasso](<Weapons/List/Lasso>) | 3cp | - | - |  |  | Trip, entangle | Short |
 | [Whip](<Weapons/List/Whip>) | 1st 6cp | 2d6 | Lethal |  |  | Trip, entangle, dangerous |  |
 | [Cat o' nine tails whip](<Weapons/List/Cat o' nine tails whip>) | 2st 6cp | 3d6 | Lethal |  |  | Trip, entangle, dangerous |  |
@@ -120,15 +120,15 @@ draft: false
 
  Weapon | Price | Damage | Type | To hit | Parry | Qualities | Range |
  :--- | :--- | --- | --- | --- | --- | :--- | :--- |
-| [Unarmed](<Weapons/List/Unarmed>) | - | S+1d6 | Impact | -1 | -1 | Dangerous, to hit/parry penalties only vs weapons |  |
-| [Torch](<Weapons/List/Torch>) | 8cp | S+1d6+1 | Impact |  |  | Flaming |  |
+| [Unarmed](<Weapons/List/Unarmed>) | - | S+1d6 | Impact | -1 | -1 | Dangerous, to hit/parry penalties only vs weapons, light |  |
+| [Torch](<Weapons/List/Torch>) | 8cp | S+1d6+1 | Impact |  |  | Flaming, light |  |
 | [Pitchfork](<Weapons/List/Pitchfork>) | 3st 3cp | 2S+2d6+1 | Lethal | 1 |  |  |  |
 | [Crowbar](<Weapons/List/Crowbar>) | 1st 1cp | S+2d6 | Impact |  |  |  |  |
-| [Hammer](<Weapons/List/Hammer>) | 1st 1cp | S+2d6+1 | Impact |  | -1 |  |  |
+| [Hammer](<Weapons/List/Hammer>) | 1st 1cp | S+2d6+1 | Impact |  | -1 | Light |  |
 | [Mining Pick](<Weapons/List/Mining Pick>) | 2st 11cp | 2S+2d6+1 | Lethal |  |  | Armor destoying |  |
 | [Shovel](<Weapons/List/Shovel>) | 5cp | 2S+1d6 | Impact | -1 | -1 |  |  |
-| [Broken bottle](<Weapons/List/Broken bottle>) | 3cp | S+1d6+1 | Lethal | -1 | -1 | Dangerous, to hit/parry penalties only vs weapons |  |
-| [Wooden stick](<Weapons/List/Wooden stick>) | 8cp | S+1d6+1 | Impact |  |  |  |  |
+| [Broken bottle](<Weapons/List/Broken bottle>) | 3cp | S+1d6+1 | Lethal | -1 | -1 | Dangerous, to hit/parry penalties only vs weapons, light |  |
+| [Wooden stick](<Weapons/List/Wooden stick>) | 8cp | S+1d6+1 | Impact |  |  | Light |  |
 
 
  Weapon | Price | Damage | Type | To hit | Parry | Qualities | Range |

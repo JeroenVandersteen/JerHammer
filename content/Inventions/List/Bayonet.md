@@ -1,16 +1,16 @@
 ---
-title: "Bajonet"
+title: "Bayonet"
 titleIcon: "fa-solid fa-compass-drafting"
 draft: false
 ---
 
-### Bajonet
+### Bayonet
 
 **Target Item:** Crossbow, firearm
 
 **Level:** 2
 
-**Cost:** 12d
+**Cost:** 12 cp
 
 _Can be used as melee weapon_
 

@@ -6,11 +6,11 @@ draft: false
 
 ### Sawed-off
 
-**Target Item:** Blunderbus
+**Target Item:** Blunderbuss
 
 **Level:** 1
 
-**Cost:** 6d
+**Cost:** 6 cp
 
 _Gain +1 to hit, but -1d6 damage_
 

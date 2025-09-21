@@ -113,7 +113,7 @@ draft: false
 | :--- | --- | :--- | :--- |
 | [Write purity seal](<Trainings/List/Write purity seal>) | Fel, 4 | Profession | Spend endeavor to create purity seal(s) |
 | [Anointed](<Trainings/List/Anointed>) |  | Pray I | Prayers cost 1 faith point less, never 0 |
-| [Devout](<Trainings/List/Devout>) |  | Pray I | Gain WP extra faith point max |
+| [Devout](<Trainings/List/Devout>) |  | Pray I | Gain 2x WP extra faith point max |
 | [Pray I](<Trainings/List/Pray I>) |  | Profession | Can invoke lvl 1 prayers, WP faith point max |
 | [Pray II](<Trainings/List/Pray II>) |  | Pray I | Can invoke lvl 2 prayers, 2xWP faith point max |
 | [Pray III](<Trainings/List/Pray III>) |  | Pray II | Can invoke lvl 3 prayers, 3xWP faith point max |
@@ -145,17 +145,19 @@ draft: false
 | [Arcane Magick III](<Trainings/List/Arcane Magick III>) |  | Arcane Magick II | Cast level 3 spells from 1 lore, gain 3 spells |
 | [Arcane Magick IV](<Trainings/List/Arcane Magick IV>) |  | Arcane Magick III | Cast level 4 spells from 1 lore, gain 3 spells |
 | [Battle wizard](<Trainings/List/Battle wizard>) | WP | Profession | Armor pen. 1 less; no miscast disadv in melee |
-| [Blood Magick](<Trainings/List/Blood Magick>) | WP |  | Take HP-1 for CN-1 |
+| [Blood Magick](<Trainings/List/Blood Magick>) | WP |  | Take HP-1 for TN-1 |
 | [Counterspell](<Trainings/List/Counterspell>) |  | Profession | May defend against spells |
+| [Damaging spell](<Trainings/List/Damaging spell>) |  | Profession | Choose one spell: gain +1d6 damage |
 | [Dissipate channeling](<Trainings/List/Dissipate channeling>) |  |  | May build down channeling |
-| [Distant spell](<Trainings/List/Distant spell>) |  | Profession | Increase spell range, CN+2 |
-| [Empower spell](<Trainings/List/Empower spell>) |  | Profession | Reroll damage, CN+2 |
-| [Favorite spell](<Trainings/List/Favorite spell>) | Int | Profession | CN-1 on one spell |
-| [Hidden spell](<Trainings/List/Hidden spell>) | Int | Profession | No sound/gestures on one spell |
-| [Lasting spell](<Trainings/List/Lasting spell>) |  | Profession | Double duration, CN+2 |
-| [Magick resistance](<Trainings/List/Magick resistance>) | WP, 3 | Profession | Gain +1 Magick DC |
-| [Quick casting](<Trainings/List/Quick casting>) |  | Profession | Cast 2 spells, each CN+2 |
+| [Distant spell](<Trainings/List/Distant spell>) |  | Profession | Any spell: increase spell range, TN+1 |
+| [Empower spell](<Trainings/List/Empower spell>) |  | Profession | Any spell: reroll damage, TN+1 |
+| [Favorite spell](<Trainings/List/Favorite spell>) | Int | Profession | Choose one spell: TN-1 |
+| [Hidden spell](<Trainings/List/Hidden spell>) | Int | Profession | Choose one spell: no sound/gestures |
+| [Lasting spell](<Trainings/List/Lasting spell>) |  | Profession | Any spell: increase duration, TN+1 |
+| [Magick resistance](<Trainings/List/Magick resistance>) | WP, 3 | Profession | Gain +1 Spell TN |
+| [Quick casting](<Trainings/List/Quick casting>) |  | Profession | Cast 2 spells, each TN+2 |
 | [Reflect spell](<Trainings/List/Reflect spell>) |  | Counterspell | May reflect spell back to caster |
+| [Robust spell](<Trainings/List/Robust spell>) |  | Profession | Choose one spell: advantage on damage roll |
 | [Second sight](<Trainings/List/Second sight>) |  | Profession | Sense magick |
 
 ## Skill Trainings
@@ -177,6 +179,7 @@ draft: false
 | [Cauterize](<Trainings/List/Cauterize>) |  |  | Turn bleeding into wounds |
 | [Cheating](<Trainings/List/Cheating>) |  |  | Sleight of hand test to reroll die/draw card |
 | [Climb](<Trainings/List/Climb>) |  |  | Advantage on climbing |
+| [Combat surgeon](<Trainings/List/Combat surgeon>) | Ag |  | Medicine test to heal 1d6HP/level, but fatigue after |
 | [Commanding presence](<Trainings/List/Commanding presence>) |  |  | Advantage on Fel to lower status |
 | [Consume alcohol](<Trainings/List/Consume alcohol>) |  |  | Advantage when consuming alcohol |
 | [Counterfeit](<Trainings/List/Counterfeit>) |  | Read/write | Can counterfeit licenses/permits/... |
@@ -214,7 +217,7 @@ draft: false
 | [Night vision](<Trainings/List/Night vision>) | P | Racial | See clearly in dim light for 20m |
 | [Noble blood](<Trainings/List/Noble blood>) |  |  | Born from noble family |
 | [Performer](<Trainings/List/Performer>) |  |  | Advantage when performing/entertaining/art |
-| [Pick lock](<Trainings/List/Pick lock>) |  | Profession | Can use lock picking tools |
+| [Pick lock](<Trainings/List/Pick lock>) |  |  | Can use lock picking tools |
 | [Read and write](<Trainings/List/Read and write>) |  |  | Can read and write |
 | [Ride](<Trainings/List/Ride>) |  |  | Ride horses |
 | [Sail](<Trainings/List/Sail>) |  |  | Can use ships |

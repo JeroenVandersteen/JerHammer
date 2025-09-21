@@ -6,7 +6,7 @@ draft: false
 
 ### Purity seal
 
-**Cost:** 2 st 
+**Cost:** 1 st 6 cp 
 
 **Category:** Services 
 

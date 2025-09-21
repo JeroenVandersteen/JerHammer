@@ -11,13 +11,13 @@ _Channeling intense heat to seal wounds shut with the power of fire, halting blo
 | Cauterize |
 | :--- |
 | **Level:** 2 |
-| **Lore:** Heavenly Elements |
-| **Casting TN:** 17 |
+| **Lore:** Fire Element |
+| **Casting TN:** 15 |
 | **Type:** Healing |
 | **Duration:** instant |
 | **Range:** Touch |
 | **Target:** 1 |
-| **Heal:** 2d6, bleeding condition healed |
+| **Heal:** 3d6, bleeding condition healed |
 | **Effect:** Healing spell. Target heals 3d6 L and 1 bleeding condition |
 
-One creature touched heals 2d6, bleeding condition healed. 
+One creature touched heals 3d6, bleeding condition healed. 

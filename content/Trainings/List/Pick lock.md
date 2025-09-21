@@ -6,7 +6,6 @@ draft: false
 
 
 ### Pick lock
-**Prerequisites:** Profession
 
 _Can use lock picking tools_
 

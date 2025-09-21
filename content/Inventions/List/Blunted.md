@@ -10,8 +10,8 @@ draft: false
 
 **Level:** 1
 
-**Cost:** 6d
+**Cost:** 6 cp
 
-_Deals impact instead of lethal damage_
+_Deals impact instead of lethal dam._
 
 The damage type becomes impact instead of lethal damage.

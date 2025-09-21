@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 3 |
 | **Lore:** Darkness |
-| **Casting TN:** 19 |
+| **Casting TN:** 17 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Self |
