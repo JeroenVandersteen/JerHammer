@@ -9,7 +9,7 @@ draft: false
 | Choir of Thorns |
 | :--- |
 | **Level:** 2 |
-| **Invoking TN:** 15 |
+| **Invoking TN:** 17 |
 | **Type:** Offense |
 | **Duration:** minutes |
 | **Range:** Short |

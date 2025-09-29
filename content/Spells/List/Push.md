@@ -12,7 +12,7 @@ _With a primal roar, the mage unleashes a shockwave of force, sending adversarie
 | :--- |
 | **Level:** 2 |
 | **Lore:** Fire Element |
-| **Casting TN:** 15 |
+| **Casting TN:** 17 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

@@ -11,7 +11,7 @@ _Your devotees are protected by an ironclad faith._
 | Ironclad faith |
 | :--- |
 | **Level:** 1 |
-| **Invoking TN:** 13 |
+| **Invoking TN:** 15 |
 | **Type:** Buff |
 | **Duration:** rounds |
 | **Range:** Short |

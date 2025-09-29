@@ -9,7 +9,7 @@ draft: false
 | Compassion |
 | :--- |
 | **Level:** 3 |
-| **Invoking TN:** 17 |
+| **Invoking TN:** 19 |
 | **Type:** Debuff |
 | **Duration:** rounds |
 | **Range:** Short |

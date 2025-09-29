@@ -56,7 +56,7 @@ draft: false
 
 | Trainings | Short Description |
 | --- | --- |
-| [Dervish attack](<Trainings/List/Dervish attack>) | Deal full dam on all that are hit |
+| [Dervish attack](<Trainings/List/Dervish attack>) | Deal 1/2 dam on all that are hit |
 | [Exploit advantage](<Trainings/List/Exploit advantage>) | Extra advantage on advantage |
 | [Furious assault](<Trainings/List/Furious assault>) | 1 fortune to make extra attack at disadvantage |
 | [Riposte II](<Trainings/List/Riposte II>) | Advantage to hit when opponent misses |

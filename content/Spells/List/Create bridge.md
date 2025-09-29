@@ -12,7 +12,7 @@ _In the realm where dreams and reality intertwine, a bridge of shimmering light 
 | :--- |
 | **Level:** 2 |
 | **Lore:** Terrestrial Elements |
-| **Casting TN:** 15 |
+| **Casting TN:** 17 |
 | **Type:** Utility |
 | **Duration:** rounds |
 | **Range:** Touch |

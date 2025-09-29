@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 3 |
 | **Lore:** Light |
-| **Casting TN:** 17 |
+| **Casting TN:** 19 |
 | **Type:** Healing |
 | **Duration:** instant |
 | **Range:** Short |

@@ -34,7 +34,7 @@ draft: false
 | [Brewing](<Trainings/List/Brewing>) (I) | Can brew potions |
 | [Herbalism](<Trainings/List/Herbalism>) (I) | Can gather herbs |
 | [Poisoner](<Trainings/List/Poisoner>) (I) | Can create poisons |
-| [Arcane Magick II](<Trainings/List/Arcane Magick II>) | Cast level 2 spells from 1 lore, gain 3 spells |
+| [Arcane Magick II](<Trainings/List/Arcane Magick II>) | Cast level 2 spells from 1 lore, gain 1 spell |
 | [Blood Magick](<Trainings/List/Blood Magick>) | Take HP-1 for TN-1 |
 | [Counterspell](<Trainings/List/Counterspell>) | May defend against spells |
 | [Damaging spell](<Trainings/List/Damaging spell>) | Choose one spell: gain +1d6 damage |
@@ -57,7 +57,7 @@ draft: false
 | [Brewing](<Trainings/List/Brewing>) (II) | Can brew potions |
 | [Herbalism](<Trainings/List/Herbalism>) (II) | Can gather herbs |
 | [Poisoner](<Trainings/List/Poisoner>) (II) | Can create poisons |
-| [Arcane Magick III](<Trainings/List/Arcane Magick III>) | Cast level 3 spells from 1 lore, gain 3 spells |
+| [Arcane Magick III](<Trainings/List/Arcane Magick III>) | Cast level 3 spells from 1 lore, gain 1 spell |
 | [Quick casting](<Trainings/List/Quick casting>) | Cast 2 spells, each TN+2 |
 | [Reflect spell](<Trainings/List/Reflect spell>) | May reflect spell back to caster |
 | [Courage](<Trainings/List/Courage>) | Advantage to resist fear/torture |
@@ -71,7 +71,7 @@ draft: false
 | [Brewing](<Trainings/List/Brewing>) (III) | Can brew potions |
 | [Herbalism](<Trainings/List/Herbalism>) (III) | Can gather herbs |
 | [Poisoner](<Trainings/List/Poisoner>) (III) | Can create poisons |
-| [Arcane Magick IV](<Trainings/List/Arcane Magick IV>) | Cast level 4 spells from 1 lore, gain 3 spells |
+| [Arcane Magick IV](<Trainings/List/Arcane Magick IV>) | Cast level 4 spells from 1 lore, gain 1 spell |
 | [Amputate](<Trainings/List/Amputate>) | Amputate limb to save from death |
 | [Escape artist](<Trainings/List/Escape artist>) | Advantage to escape grapple/ropes/... |
 | [First aid](<Trainings/List/First aid>) | Medicine test and full round to heal 1 HP |

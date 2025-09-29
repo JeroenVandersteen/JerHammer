@@ -9,7 +9,7 @@ draft: false
 | Angels of Vengeance |
 | :--- |
 | **Level:** 3 |
-| **Invoking TN:** 17 |
+| **Invoking TN:** 19 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Short |

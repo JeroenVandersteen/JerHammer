@@ -11,7 +11,7 @@ _You place a crown of thorns on the heretic's head to make them feel the sufferi
 | Crown of Thorns |
 | :--- |
 | **Level:** 3 |
-| **Invoking TN:** 17 |
+| **Invoking TN:** 19 |
 | **Type:** Offense |
 | **Duration:** instant |
 | **Range:** Touch |

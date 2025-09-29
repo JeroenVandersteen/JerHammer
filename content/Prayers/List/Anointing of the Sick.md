@@ -9,7 +9,7 @@ draft: false
 | Anointing of the Sick |
 | :--- |
 | **Level:** 3 |
-| **Invoking TN:** 17 |
+| **Invoking TN:** 19 |
 | **Type:** Heal |
 | **Duration:** instant |
 | **Range:** Touch |

@@ -9,7 +9,7 @@ draft: false
 | Martyr's sacrifice |
 | :--- |
 | **Level:** 2 |
-| **Invoking TN:** 15 |
+| **Invoking TN:** 17 |
 | **Type:** Heal |
 | **Duration:** instant |
 | **Range:** Touch |

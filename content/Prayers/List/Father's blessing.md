@@ -9,7 +9,7 @@ draft: false
 | Father's blessing |
 | :--- |
 | **Level:** 3 |
-| **Invoking TN:** 17 |
+| **Invoking TN:** 19 |
 | **Type:** Utility |
 | **Duration:** hours |
 | **Range:** Short |

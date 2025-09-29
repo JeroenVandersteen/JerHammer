@@ -9,7 +9,7 @@ draft: false
 | Repentance |
 | :--- |
 | **Level:** 1 |
-| **Invoking TN:** 13 |
+| **Invoking TN:** 15 |
 | **Type:** Debuff |
 | **Duration:** rounds |
 | **Range:** Short |

@@ -19,6 +19,8 @@ draft: false
 
 | Trainings | Short Description |
 | --- | --- |
+| [Exploit advantage](<Trainings/List/Exploit advantage>) | Extra advantage on advantage |
+| [Extended crit range](<Trainings/List/Extended crit range>) | Crit range +1 |
 | [Herbalism](<Trainings/List/Herbalism>) (I) | Can gather herbs |
 | [Beneath notice](<Trainings/List/Beneath notice>) | People ignore you |
 | [Cauterize](<Trainings/List/Cauterize>) | Turn bleeding into wounds |

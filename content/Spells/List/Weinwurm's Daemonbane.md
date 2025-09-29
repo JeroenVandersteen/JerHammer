@@ -12,7 +12,7 @@ _You can on the holy light to banish a demon entirely._
 | :--- |
 | **Level:** 4 |
 | **Lore:** Light |
-| **Casting TN:** 19 |
+| **Casting TN:** 21 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

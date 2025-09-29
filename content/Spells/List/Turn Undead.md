@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 3 |
 | **Lore:** Death |
-| **Casting TN:** 17 |
+| **Casting TN:** 19 |
 | **Type:** Hex |
 | **Duration:** rounds |
 | **Range:** Short |

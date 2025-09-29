@@ -12,7 +12,7 @@ _Purifying through flames, consuming impurities and leaving behind only ash in i
 | :--- |
 | **Level:** 3 |
 | **Lore:** Fire Element |
-| **Casting TN:** 17 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

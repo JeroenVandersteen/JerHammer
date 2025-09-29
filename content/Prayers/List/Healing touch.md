@@ -9,7 +9,7 @@ draft: false
 | Healing touch |
 | :--- |
 | **Level:** 1 |
-| **Invoking TN:** 13 |
+| **Invoking TN:** 15 |
 | **Type:** Heal |
 | **Duration:** instant |
 | **Range:** Touch |

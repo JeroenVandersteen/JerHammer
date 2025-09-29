@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 4 |
 | **Lore:** Life |
-| **Casting TN:** 19 |
+| **Casting TN:** 21 |
 | **Type:** Healing |
 | **Duration:** rounds |
 | **Range:** Self |

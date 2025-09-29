@@ -12,7 +12,7 @@ _Conjuring a barrier of roaring flames, obstructing passage and repelling foes w
 | :--- |
 | **Level:** 3 |
 | **Lore:** Fire Element |
-| **Casting TN:** 17 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Short |

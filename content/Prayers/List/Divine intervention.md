@@ -11,7 +11,7 @@ _God intervenes to fling away the heretics._
 | Divine intervention |
 | :--- |
 | **Level:** 1 |
-| **Invoking TN:** 13 |
+| **Invoking TN:** 15 |
 | **Type:** Offense |
 | **Duration:** instant |
 | **Range:** Short |

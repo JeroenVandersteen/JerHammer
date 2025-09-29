@@ -12,7 +12,7 @@ _In a radiant display of power, a dome of shimmering energy rises, a bastion aga
 | :--- |
 | **Level:** 3 |
 | **Lore:** Light |
-| **Casting TN:** 17 |
+| **Casting TN:** 19 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Self |

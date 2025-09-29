@@ -9,7 +9,7 @@ draft: false
 | Revelation |
 | :--- |
 | **Level:** 4 |
-| **Invoking TN:** 19 |
+| **Invoking TN:** 21 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Self |

@@ -12,7 +12,7 @@ _In the crucible of flesh, iron stirs, seeking escape from mortal coil, as the b
 | :--- |
 | **Level:** 4 |
 | **Lore:** Heart |
-| **Casting TN:** 19 |
+| **Casting TN:** 21 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

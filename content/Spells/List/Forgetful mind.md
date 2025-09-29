@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 4 |
 | **Lore:** Mind |
-| **Casting TN:** 19 |
+| **Casting TN:** 21 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Touch |

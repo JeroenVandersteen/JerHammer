@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 1 |
 | **Lore:** Heart |
-| **Casting TN:** 13 |
+| **Casting TN:** 15 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Touch |

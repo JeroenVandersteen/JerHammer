@@ -12,7 +12,7 @@ _From the mists of arcane mastery, a blade of pure energy coalesces, its edge ho
 | :--- |
 | **Level:** 2 |
 | **Lore:** Darkness |
-| **Casting TN:** 15 |
+| **Casting TN:** 17 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Self |

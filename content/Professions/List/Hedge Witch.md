@@ -37,7 +37,7 @@ draft: false
 | [Brewing](<Trainings/List/Brewing>) (II) | Can brew potions |
 | [Herbalism](<Trainings/List/Herbalism>) (II) | Can gather herbs |
 | [Poisoner](<Trainings/List/Poisoner>) (II) | Can create poisons |
-| [Arcane Magick II](<Trainings/List/Arcane Magick II>) | Cast level 2 spells from 1 lore, gain 3 spells |
+| [Arcane Magick II](<Trainings/List/Arcane Magick II>) | Cast level 2 spells from 1 lore, gain 1 spell |
 | [Combat surgeon](<Trainings/List/Combat surgeon>) | Medicine test to heal 1d6HP/level, but fatigue after |
 | [Iron stomach](<Trainings/List/Iron stomach>) | Advantage vs ingested poisons/diseases |
 | [Liar](<Trainings/List/Liar>) | Advantage when lying |
@@ -51,7 +51,7 @@ draft: false
 | [Brewing](<Trainings/List/Brewing>) (III) | Can brew potions |
 | [Herbalism](<Trainings/List/Herbalism>) (III) | Can gather herbs |
 | [Poisoner](<Trainings/List/Poisoner>) (III) | Can create poisons |
-| [Arcane Magick III](<Trainings/List/Arcane Magick III>) | Cast level 3 spells from 1 lore, gain 3 spells |
+| [Arcane Magick III](<Trainings/List/Arcane Magick III>) | Cast level 3 spells from 1 lore, gain 1 spell |
 | [Counterspell](<Trainings/List/Counterspell>) | May defend against spells |
 | [Dissipate channeling](<Trainings/List/Dissipate channeling>) | May build down channeling |
 | [Hidden spell](<Trainings/List/Hidden spell>) | Choose one spell: no sound/gestures |
@@ -70,7 +70,7 @@ draft: false
 | [Brewing](<Trainings/List/Brewing>) (IV) | Can brew potions |
 | [Herbalism](<Trainings/List/Herbalism>) (IV) | Can gather herbs |
 | [Poisoner](<Trainings/List/Poisoner>) (IV) | Can create poisons |
-| [Arcane Magick IV](<Trainings/List/Arcane Magick IV>) | Cast level 4 spells from 1 lore, gain 3 spells |
+| [Arcane Magick IV](<Trainings/List/Arcane Magick IV>) | Cast level 4 spells from 1 lore, gain 1 spell |
 | [Camouflage](<Trainings/List/Camouflage>) | May hide a group of characters |
 | [Surgeon](<Trainings/List/Surgeon>) | Medicine test and 1 hour to heal double HP/day |
 | [Track](<Trainings/List/Track>) | Can track |

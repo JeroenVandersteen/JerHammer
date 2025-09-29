@@ -9,7 +9,7 @@ draft: false
 | Divine study |
 | :--- |
 | **Level:** 1 |
-| **Invoking TN:** 13 |
+| **Invoking TN:** 15 |
 | **Type:** Utility |
 | **Duration:** hours |
 | **Range:** Self |

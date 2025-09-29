@@ -9,7 +9,7 @@ draft: false
 | Strike the blasphemous |
 | :--- |
 | **Level:** 2 |
-| **Invoking TN:** 15 |
+| **Invoking TN:** 17 |
 | **Type:** Offense |
 | **Duration:** instant |
 | **Range:** Touch |

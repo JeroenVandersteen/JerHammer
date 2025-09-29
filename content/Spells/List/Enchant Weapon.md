@@ -12,7 +12,7 @@ _With whispered incantations, the blade awakens, humming with newfound strength 
 | :--- |
 | **Level:** 2 |
 | **Lore:** Light |
-| **Casting TN:** 15 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** minutes |
 | **Range:** Touch |

@@ -20,7 +20,7 @@ draft: false
 | [Gather spell ingredients](<Endeavors/List/Gather spell ingredients>) | [Arcane Magick](<Trainings/List/Arcane Magick>) talent | Gather spell ingredients |
 | [Prepare ritual spell](<Endeavors/List/Prepare ritual spell>) | [Arcane Magick](<Trainings/List/Arcane Magick>) talent | Preload one ritual spell |
 | [Write grimoire](<Endeavors/List/Write grimoire>) | [Arcane Magick](<Trainings/List/Arcane Magick>) talent | Add 1 spell to your grimoire |
-| [Study grimoire](<Endeavors/List/Study grimoire>) | [Arcane Magick](<Trainings/List/Arcane Magick>) talent | Learn 1 spell from another's grimoire |
+| [Research spell](<Endeavors/List/Research spell>) | [Arcane Magick](<Trainings/List/Arcane Magick>) talent | Learn 1 spell, at a cost |
 | [Train animal](<Endeavors/List/Train animal>) | [Animal training](<Trainings/List/Animal training>) talent | Gain 1 trick to animal companion |
 | [Craft item](<Endeavors/List/Craft item>) | [Crafting](<Trainings/List/Crafting>) talent | Craft items, total cost is 50% of item cost |
 | [Brew potion](<Endeavors/List/Brew potion>) | [Brewing](<Trainings/List/Brewing>) talent | Brew potions, pay for ingredients, tools |

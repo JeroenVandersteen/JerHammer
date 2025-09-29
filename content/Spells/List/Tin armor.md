@@ -12,7 +12,7 @@ _In the heat of battle, steel becomes frail, turning even the mightiest armor in
 | :--- |
 | **Level:** 1 |
 | **Lore:** Terrestrial Elements |
-| **Casting TN:** 13 |
+| **Casting TN:** 15 |
 | **Type:** Hex |
 | **Duration:** instant |
 | **Range:** Short |

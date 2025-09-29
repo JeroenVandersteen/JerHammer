@@ -11,7 +11,7 @@ _You hold an icon of a Saint to protect you and your devotees from suffering._
 | Icon of Protection |
 | :--- |
 | **Level:** 2 |
-| **Invoking TN:** 15 |
+| **Invoking TN:** 17 |
 | **Type:** Buff |
 | **Duration:** rounds |
 | **Range:** Short |

@@ -62,7 +62,7 @@ draft: false
 
 | Trainings | Short Description |
 | --- | --- |
-| [Dervish attack](<Trainings/List/Dervish attack>) | Deal full dam on all that are hit |
+| [Dervish attack](<Trainings/List/Dervish attack>) | Deal 1/2 dam on all that are hit |
 | [Robust](<Trainings/List/Robust>) | +1 impact reduction |
 | [Thick hide](<Trainings/List/Thick hide>) | +1 armor point |
 | [Tough as nails](<Trainings/List/Tough as nails>) | Endurance test to stay conscious at 0 stun |

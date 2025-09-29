@@ -12,7 +12,7 @@ _A fiery sphere hurtling through the air, exploding on impact, engulfing all in 
 | :--- |
 | **Level:** 3 |
 | **Lore:** Fire Element |
-| **Casting TN:** 17 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

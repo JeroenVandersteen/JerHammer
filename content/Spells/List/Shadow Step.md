@@ -12,7 +12,7 @@ _In a flash of light and shadow, the mage vanishes from sight, reappearing momen
 | :--- |
 | **Level:** 3 |
 | **Lore:** Darkness |
-| **Casting TN:** 17 |
+| **Casting TN:** 19 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Self |

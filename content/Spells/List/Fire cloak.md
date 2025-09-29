@@ -12,7 +12,7 @@ _Enveloping oneself in flames as a protective barrier, warding off assailants wi
 | :--- |
 | **Level:** 3 |
 | **Lore:** Fire Element |
-| **Casting TN:** 17 |
+| **Casting TN:** 19 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Self |

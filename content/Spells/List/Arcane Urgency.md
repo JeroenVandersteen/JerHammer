@@ -12,7 +12,7 @@ _In the blink of an eye, the world blurs and shifts as the target moves with pre
 | :--- |
 | **Level:** 2 |
 | **Lore:** Terrestrial Elements |
-| **Casting TN:** 15 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** instant |
 | **Range:** Short |

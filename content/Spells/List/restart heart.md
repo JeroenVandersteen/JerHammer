@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 3 |
 | **Lore:** Heart |
-| **Casting TN:** 17 |
+| **Casting TN:** 19 |
 | **Type:** Healing |
 | **Duration:** instant |
 | **Range:** Touch |

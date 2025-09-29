@@ -32,7 +32,7 @@ draft: false
 | --- | --- |
 | [Herbalism](<Trainings/List/Herbalism>) (I) | Can gather herbs |
 | [Create Shrine](<Trainings/List/Create Shrine>) | May create and activate shrines |
-| [Arcane Magick II](<Trainings/List/Arcane Magick II>) | Cast level 2 spells from 1 lore, gain 3 spells |
+| [Arcane Magick II](<Trainings/List/Arcane Magick II>) | Cast level 2 spells from 1 lore, gain 1 spell |
 | [Counterspell](<Trainings/List/Counterspell>) | May defend against spells |
 | [Damaging spell](<Trainings/List/Damaging spell>) | Choose one spell: gain +1d6 damage |
 | [Distant spell](<Trainings/List/Distant spell>) | Any spell: increase spell range, TN+1 |
@@ -53,7 +53,7 @@ draft: false
 | [Brewing](<Trainings/List/Brewing>) (I) | Can brew potions |
 | [Herbalism](<Trainings/List/Herbalism>) (II) | Can gather herbs |
 | [Aetheric attunement](<Trainings/List/Aetheric attunement>) | Reduce miscast tally by WP after miscast |
-| [Arcane Magick III](<Trainings/List/Arcane Magick III>) | Cast level 3 spells from 1 lore, gain 3 spells |
+| [Arcane Magick III](<Trainings/List/Arcane Magick III>) | Cast level 3 spells from 1 lore, gain 1 spell |
 | [Dissipate channeling](<Trainings/List/Dissipate channeling>) | May build down channeling |
 | [Quick casting](<Trainings/List/Quick casting>) | Cast 2 spells, each TN+2 |
 | [Reflect spell](<Trainings/List/Reflect spell>) | May reflect spell back to caster |
@@ -66,7 +66,7 @@ draft: false
 | --- | --- |
 | [Brewing](<Trainings/List/Brewing>) (II) | Can brew potions |
 | [Herbalism](<Trainings/List/Herbalism>) (III) | Can gather herbs |
-| [Arcane Magick IV](<Trainings/List/Arcane Magick IV>) | Cast level 4 spells from 1 lore, gain 3 spells |
+| [Arcane Magick IV](<Trainings/List/Arcane Magick IV>) | Cast level 4 spells from 1 lore, gain 1 spell |
 | [Battle wizard](<Trainings/List/Battle wizard>) | Armor pen. 1 less; no miscast disadv in melee |
 
 

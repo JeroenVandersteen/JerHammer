@@ -12,7 +12,7 @@ _You conspire with your shadow against your enemy_
 | :--- |
 | **Level:** 3 |
 | **Lore:** Darkness |
-| **Casting TN:** 17 |
+| **Casting TN:** 19 |
 | **Type:** Combat |
 | **Duration:** rounds |
 | **Range:** Self |

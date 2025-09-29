@@ -12,7 +12,7 @@ _Unleashing a torrent of flames from the caster's breath, scorching everything i
 | :--- |
 | **Level:** 4 |
 | **Lore:** Fire Element |
-| **Casting TN:** 19 |
+| **Casting TN:** 21 |
 | **Type:** Combat |
 | **Duration:** instant |
 | **Range:** Short |

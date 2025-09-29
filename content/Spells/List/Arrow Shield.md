@@ -12,7 +12,7 @@ _In a dance of light and shadow, wooden arrows meet an unseen barrier, falling h
 | :--- |
 | **Level:** 2 |
 | **Lore:** Fire Element |
-| **Casting TN:** 15 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Self |

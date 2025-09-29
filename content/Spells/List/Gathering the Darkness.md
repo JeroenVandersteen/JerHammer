@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 2 |
 | **Lore:** Mind |
-| **Casting TN:** 15 |
+| **Casting TN:** 17 |
 | **Type:** Hex |
 | **Duration:** rounds |
 | **Range:** Short |

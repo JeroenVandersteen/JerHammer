@@ -12,7 +12,7 @@ _Channeling intense heat to seal wounds shut with the power of fire, halting blo
 | :--- |
 | **Level:** 2 |
 | **Lore:** Fire Element |
-| **Casting TN:** 15 |
+| **Casting TN:** 17 |
 | **Type:** Healing |
 | **Duration:** instant |
 | **Range:** Touch |

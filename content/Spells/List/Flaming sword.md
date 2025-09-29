@@ -12,7 +12,7 @@ _Enchanting a blade with roaring flames, turning it into a deadly weapon that bu
 | :--- |
 | **Level:** 2 |
 | **Lore:** Fire Element |
-| **Casting TN:** 15 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Touch |

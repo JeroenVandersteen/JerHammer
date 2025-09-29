@@ -12,7 +12,7 @@ _In the forge's embrace, the armor is tempered anew, each strike imbuing it with
 | :--- |
 | **Level:** 2 |
 | **Lore:** Terrestrial Elements |
-| **Casting TN:** 15 |
+| **Casting TN:** 17 |
 | **Type:** Enchantment |
 | **Duration:** rounds |
 | **Range:** Touch |

@@ -10,7 +10,7 @@ draft: false
 
 _Gather spell ingredients_
 
-As per the talent, you may gather a combined level of spell ingredients up to the number of times you have taken the gather spell ingredients talent. You must pay a cost depending on the level of the ingredients as:
+As per the talent, you may gather any number of spell ingredients, up to a level no higher than your Arcane Magick training level. You must pay a cost depending on the level of the ingredients as:
 - level 1: 6 cp
 - level 2: 1 st
 - level 3: 2 st

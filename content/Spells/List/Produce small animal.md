@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 1 |
 | **Lore:** Life |
-| **Casting TN:** 13 |
+| **Casting TN:** 15 |
 | **Type:** Summon |
 | **Duration:** hours |
 | **Range:** Self |

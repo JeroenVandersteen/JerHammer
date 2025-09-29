@@ -9,7 +9,7 @@ draft: false
 | Divine light |
 | :--- |
 | **Level:** 2 |
-| **Invoking TN:** 15 |
+| **Invoking TN:** 17 |
 | **Type:** Utility |
 | **Duration:** 1 round |
 | **Range:** Short |

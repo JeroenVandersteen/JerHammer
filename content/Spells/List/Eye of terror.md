@@ -12,7 +12,7 @@ _You look into the target's eyes to instill utter terror in their mind._
 | :--- |
 | **Level:** 4 |
 | **Lore:** Mind |
-| **Casting TN:** 19 |
+| **Casting TN:** 21 |
 | **Type:** Hex |
 | **Duration:** instant |
 | **Range:** Short |

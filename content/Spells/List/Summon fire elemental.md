@@ -12,7 +12,7 @@ _Calling forth a creature of pure flame and rage from the depths of the inferno 
 | :--- |
 | **Level:** 4 |
 | **Lore:** Fire Element |
-| **Casting TN:** 19 |
+| **Casting TN:** 21 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Short |

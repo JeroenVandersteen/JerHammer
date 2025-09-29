@@ -33,7 +33,7 @@ draft: false
 | [Deathstrike](<Trainings/List/Deathstrike>) |  |  | Spend action to deal 2x dam next time |
 | [Debilitating strike](<Trainings/List/Debilitating strike>) |  |  | Loose action instead of damage |
 | [Defend mount](<Trainings/List/Defend mount>) |  |  | Force to attack you instead of mount |
-| [Dervish attack](<Trainings/List/Dervish attack>) |  | Roundhouse attack | Deal full dam on all that are hit |
+| [Dervish attack](<Trainings/List/Dervish attack>) |  | Roundhouse attack | Deal 1/2 dam on all that are hit |
 | [Destroy armor](<Trainings/List/Destroy armor>) |  |  | +1d6 dam to armor |
 | [Diehard](<Trainings/List/Diehard>) | T |  | +3 HP |
 | [Disarming strike](<Trainings/List/Disarming strike>) |  |  | Opposed test to disarm |
@@ -141,9 +141,9 @@ draft: false
 | :--- | --- | :--- | :--- |
 | [Aetheric attunement](<Trainings/List/Aetheric attunement>) |  | Profession | Reduce miscast tally by WP after miscast |
 | [Arcane Magick I](<Trainings/List/Arcane Magick I>) |  | Profession | Cast level 1 spells from 1 lore, gain 3 spells |
-| [Arcane Magick II](<Trainings/List/Arcane Magick II>) |  | Arcane Magick I | Cast level 2 spells from 1 lore, gain 3 spells |
-| [Arcane Magick III](<Trainings/List/Arcane Magick III>) |  | Arcane Magick II | Cast level 3 spells from 1 lore, gain 3 spells |
-| [Arcane Magick IV](<Trainings/List/Arcane Magick IV>) |  | Arcane Magick III | Cast level 4 spells from 1 lore, gain 3 spells |
+| [Arcane Magick II](<Trainings/List/Arcane Magick II>) |  | Arcane Magick I | Cast level 2 spells from 1 lore, gain 1 spell |
+| [Arcane Magick III](<Trainings/List/Arcane Magick III>) |  | Arcane Magick II | Cast level 3 spells from 1 lore, gain 1 spell |
+| [Arcane Magick IV](<Trainings/List/Arcane Magick IV>) |  | Arcane Magick III | Cast level 4 spells from 1 lore, gain 1 spell |
 | [Battle wizard](<Trainings/List/Battle wizard>) | WP | Profession | Armor pen. 1 less; no miscast disadv in melee |
 | [Blood Magick](<Trainings/List/Blood Magick>) | WP |  | Take HP-1 for TN-1 |
 | [Counterspell](<Trainings/List/Counterspell>) |  | Profession | May defend against spells |

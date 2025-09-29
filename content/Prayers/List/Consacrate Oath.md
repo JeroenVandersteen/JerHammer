@@ -11,7 +11,7 @@ _You consacrate an oath, which cannot be broken without long-lasting consequence
 | Consacrate Oath |
 | :--- |
 | **Level:** 2 |
-| **Invoking TN:** 15 |
+| **Invoking TN:** 17 |
 | **Type:** Utility |
 | **Duration:** instant |
 | **Range:** Touch |

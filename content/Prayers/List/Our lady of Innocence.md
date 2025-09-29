@@ -11,7 +11,7 @@ _You and your devotees are inspired to excel by our Lady of Innocence._
 | Our lady of Innocence |
 | :--- |
 | **Level:** 1 |
-| **Invoking TN:** 13 |
+| **Invoking TN:** 15 |
 | **Type:** Buff |
 | **Duration:** rounds |
 | **Range:** Short |

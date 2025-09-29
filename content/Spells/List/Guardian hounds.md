@@ -10,7 +10,7 @@ draft: false
 | :--- |
 | **Level:** 4 |
 | **Lore:** Death |
-| **Casting TN:** 19 |
+| **Casting TN:** 21 |
 | **Type:** Summon |
 | **Duration:** rounds |
 | **Range:** Self |

@@ -9,7 +9,7 @@ draft: false
 | Whip of the flagellant |
 | :--- |
 | **Level:** 1 |
-| **Invoking TN:** 13 |
+| **Invoking TN:** 15 |
 | **Type:** Offense |
 | **Duration:** instant |
 | **Range:** Touch |

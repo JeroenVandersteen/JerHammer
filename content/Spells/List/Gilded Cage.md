@@ -12,7 +12,7 @@ _Trapped within the gilded embrace, freedom fades to memory, as the cage of meta
 | :--- |
 | **Level:** 3 |
 | **Lore:** Terrestrial Elements |
-| **Casting TN:** 17 |
+| **Casting TN:** 19 |
 | **Type:** Hex |
 | **Duration:** hours |
 | **Range:** Short |
